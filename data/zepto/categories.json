@@ -1,0 +1,3047 @@
+{
+  "count": 338,
+  "categories": [
+    {
+      "category_slug": "zepto-cafe",
+      "subcategory_slug": "sides",
+      "category_id": "dfe16918-81b1-49c3-941b-acd557f7c277",
+      "subcategory_id": "002d76ee-bfa3-455a-9b1b-bccb2a0356e1",
+      "category_name": "Zepto Cafe",
+      "subcategory_name": "Sides",
+      "url": "https://www.zepto.com/cn/zepto-cafe/sides/cid/dfe16918-81b1-49c3-941b-acd557f7c277/scid/002d76ee-bfa3-455a-9b1b-bccb2a0356e1"
+    },
+    {
+      "category_slug": "frozen-food",
+      "subcategory_slug": "roti-paratha",
+      "category_id": "aae1447d-1403-4a5c-a65f-bcb3afb93b5e",
+      "subcategory_id": "007dfd66-b8b4-4cbe-8454-ddcaaecafe16",
+      "category_name": "Frozen Food",
+      "subcategory_name": "Roti Paratha",
+      "url": "https://www.zepto.com/cn/frozen-food/roti-paratha/cid/aae1447d-1403-4a5c-a65f-bcb3afb93b5e/scid/007dfd66-b8b4-4cbe-8454-ddcaaecafe16"
+    },
+    {
+      "category_slug": "bath-body",
+      "subcategory_slug": "toothpaste",
+      "category_id": "26e64367-19ad-4f80-a763-42599d4215ee",
+      "subcategory_id": "08fa530f-c532-4027-b0d2-b128cd6b61d9",
+      "category_name": "Bath Body",
+      "subcategory_name": "Toothpaste",
+      "url": "https://www.zepto.com/cn/bath-body/toothpaste/cid/26e64367-19ad-4f80-a763-42599d4215ee/scid/08fa530f-c532-4027-b0d2-b128cd6b61d9"
+    },
+    {
+      "category_slug": "atta-rice-oil-dals",
+      "subcategory_slug": "atta",
+      "category_id": "2f7190d0-7c40-458b-b450-9a1006db3d95",
+      "subcategory_id": "15644eea-d781-4cdd-8d85-e63bd9706b96",
+      "category_name": "Atta Rice Oil Dals",
+      "subcategory_name": "Atta",
+      "url": "https://www.zepto.com/cn/atta-rice-oil-dals/atta/cid/2f7190d0-7c40-458b-b450-9a1006db3d95/scid/15644eea-d781-4cdd-8d85-e63bd9706b96"
+    },
+    {
+      "category_slug": "atta-rice-oil-dals",
+      "subcategory_slug": "besan-sooji-maida",
+      "category_id": "2f7190d0-7c40-458b-b450-9a1006db3d95",
+      "subcategory_id": "170f0eb7-78b2-4f0f-b4c5-566e4991db5b",
+      "category_name": "Atta Rice Oil Dals",
+      "subcategory_name": "Besan Sooji Maida",
+      "url": "https://www.zepto.com/cn/atta-rice-oil-dals/besan-sooji-maida/cid/2f7190d0-7c40-458b-b450-9a1006db3d95/scid/170f0eb7-78b2-4f0f-b4c5-566e4991db5b"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "women-s-innerwear",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "18bb3a8e-8e59-4b1e-a8e8-fa25c410987c",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Women S Innerwear",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/women-s-innerwear/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/18bb3a8e-8e59-4b1e-a8e8-fa25c410987c"
+    },
+    {
+      "category_slug": "jewellery",
+      "subcategory_slug": "men-s-jewellery",
+      "category_id": "27b4b613-108e-4c77-91e6-b839d542385b",
+      "subcategory_id": "198a35d6-1f06-4aa0-bab0-cca8d21059fa",
+      "category_name": "Jewellery",
+      "subcategory_name": "Men S Jewellery",
+      "url": "https://www.zepto.com/cn/jewellery/men-s-jewellery/cid/27b4b613-108e-4c77-91e6-b839d542385b/scid/198a35d6-1f06-4aa0-bab0-cca8d21059fa"
+    },
+    {
+      "category_slug": "home-needs",
+      "subcategory_slug": "gift-cards-more",
+      "category_id": "ac7b3ee1-98cb-48b8-8c62-27f47b4185a2",
+      "subcategory_id": "1c503096-b646-434a-b4a0-55d647fd2842",
+      "category_name": "Home Needs",
+      "subcategory_name": "Gift Cards More",
+      "url": "https://www.zepto.com/cn/home-needs/gift-cards-more/cid/ac7b3ee1-98cb-48b8-8c62-27f47b4185a2/scid/1c503096-b646-434a-b4a0-55d647fd2842"
+    },
+    {
+      "category_slug": "pharma-wellness",
+      "subcategory_slug": "vitamin-supplements",
+      "category_id": "46853481-25d4-4126-947b-c6d96f0669f6",
+      "subcategory_id": "2a301959-49fe-4c22-a3ca-82a96dc1cfc9",
+      "category_name": "Pharma Wellness",
+      "subcategory_name": "Vitamin Supplements",
+      "url": "https://www.zepto.com/cn/pharma-wellness/vitamin-supplements/cid/46853481-25d4-4126-947b-c6d96f0669f6/scid/2a301959-49fe-4c22-a3ca-82a96dc1cfc9"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "women-s-swimwear",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "2ac73c02-cc20-4800-ae88-64713bb95400",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Women S Swimwear",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/women-s-swimwear/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/2ac73c02-cc20-4800-ae88-64713bb95400"
+    },
+    {
+      "category_slug": "home-needs",
+      "subcategory_slug": "tools-measuring-equipment",
+      "category_id": "ac7b3ee1-98cb-48b8-8c62-27f47b4185a2",
+      "subcategory_id": "30f33fa2-86c2-40c9-8c5e-66f34f21dfad",
+      "category_name": "Home Needs",
+      "subcategory_name": "Tools Measuring Equipment",
+      "url": "https://www.zepto.com/cn/home-needs/tools-measuring-equipment/cid/ac7b3ee1-98cb-48b8-8c62-27f47b4185a2/scid/30f33fa2-86c2-40c9-8c5e-66f34f21dfad"
+    },
+    {
+      "category_slug": "toys-sports",
+      "subcategory_slug": "musical-instruments",
+      "category_id": "fd1438dc-e1a8-49f9-87a3-2645a613ceeb",
+      "subcategory_id": "358a390c-2ce6-4e67-8168-0a68d701c378",
+      "category_name": "Toys Sports",
+      "subcategory_name": "Musical Instruments",
+      "url": "https://www.zepto.com/cn/toys-sports/musical-instruments/cid/fd1438dc-e1a8-49f9-87a3-2645a613ceeb/scid/358a390c-2ce6-4e67-8168-0a68d701c378"
+    },
+    {
+      "category_slug": "meats-fish-eggs",
+      "subcategory_slug": "canned-dry-fish-pickles",
+      "category_id": "4654bd8a-fb30-4ee1-ab30-4bf581b6c6e3",
+      "subcategory_id": "391ae139-16d9-4cdf-8c4f-22f5694a9d9e",
+      "category_name": "Meats Fish Eggs",
+      "subcategory_name": "Canned Dry Fish Pickles",
+      "url": "https://www.zepto.com/cn/meats-fish-eggs/canned-dry-fish-pickles/cid/4654bd8a-fb30-4ee1-ab30-4bf581b6c6e3/scid/391ae139-16d9-4cdf-8c4f-22f5694a9d9e"
+    },
+    {
+      "category_slug": "kitchen-dining",
+      "subcategory_slug": "lunch-boxes",
+      "category_id": "2423aa03-4219-4cab-a84d-92019f967003",
+      "subcategory_id": "39d4c6fc-d873-4c03-bc35-2ea806d1d941",
+      "category_name": "Kitchen Dining",
+      "subcategory_name": "Lunch Boxes",
+      "url": "https://www.zepto.com/cn/kitchen-dining/lunch-boxes/cid/2423aa03-4219-4cab-a84d-92019f967003/scid/39d4c6fc-d873-4c03-bc35-2ea806d1d941"
+    },
+    {
+      "category_slug": "dairy-bread-eggs",
+      "subcategory_slug": "milk-based-drinks",
+      "category_id": "4b938e02-7bde-4479-bc0a-2b54cb6bd5f5",
+      "subcategory_id": "3f31272f-bf35-4e1c-b1f9-cc44d38ca464",
+      "category_name": "Dairy Bread Eggs",
+      "subcategory_name": "Milk Based Drinks",
+      "url": "https://www.zepto.com/cn/dairy-bread-eggs/milk-based-drinks/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/3f31272f-bf35-4e1c-b1f9-cc44d38ca464"
+    },
+    {
+      "category_slug": "dairy-bread-eggs",
+      "subcategory_slug": "fresh-bakery",
+      "category_id": "4b938e02-7bde-4479-bc0a-2b54cb6bd5f5",
+      "subcategory_id": "40a4be6f-9589-4a6e-9554-99e4039393a8",
+      "category_name": "Dairy Bread Eggs",
+      "subcategory_name": "Fresh Bakery",
+      "url": "https://www.zepto.com/cn/dairy-bread-eggs/fresh-bakery/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/40a4be6f-9589-4a6e-9554-99e4039393a8"
+    },
+    {
+      "category_slug": "fruits-vegetables",
+      "subcategory_slug": "organics-hydroponics",
+      "category_id": "64374cfe-d06f-4a01-898e-c07c46462c36",
+      "subcategory_id": "414e9381-3ba3-4632-92e0-00fc29304900",
+      "category_name": "Fruits Vegetables",
+      "subcategory_name": "Organics Hydroponics",
+      "url": "https://www.zepto.com/cn/fruits-vegetables/organics-hydroponics/cid/64374cfe-d06f-4a01-898e-c07c46462c36/scid/414e9381-3ba3-4632-92e0-00fc29304900"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "kids-footwear",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "428197cb-df49-4cd3-abf6-7ab9781aa9d8",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Kids Footwear",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/kids-footwear/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/428197cb-df49-4cd3-abf6-7ab9781aa9d8"
+    },
+    {
+      "category_slug": "toys-sports",
+      "subcategory_slug": "educational-toys-sports",
+      "category_id": "fd1438dc-e1a8-49f9-87a3-2645a613ceeb",
+      "subcategory_id": "4663abe7-a98a-43e3-b408-c56c63f5d45b",
+      "category_name": "Toys Sports",
+      "subcategory_name": "Educational Toys Sports",
+      "url": "https://www.zepto.com/cn/toys-sports/educational-toys-sports/cid/fd1438dc-e1a8-49f9-87a3-2645a613ceeb/scid/4663abe7-a98a-43e3-b408-c56c63f5d45b"
+    },
+    {
+      "category_slug": "meats-fish-eggs",
+      "subcategory_slug": "marinades-snacks",
+      "category_id": "4654bd8a-fb30-4ee1-ab30-4bf581b6c6e3",
+      "subcategory_id": "4c2742c5-f4ca-4454-90ef-17527af7160f",
+      "category_name": "Meats Fish Eggs",
+      "subcategory_name": "Marinades Snacks",
+      "url": "https://www.zepto.com/cn/meats-fish-eggs/marinades-snacks/cid/4654bd8a-fb30-4ee1-ab30-4bf581b6c6e3/scid/4c2742c5-f4ca-4454-90ef-17527af7160f"
+    },
+    {
+      "category_slug": "feminine-hygiene",
+      "subcategory_slug": "tampons",
+      "category_id": "72066480-9851-4263-89b6-50dd7525edc1",
+      "subcategory_id": "4cc8598b-edbc-44df-96f7-a1c61e1a18dd",
+      "category_name": "Feminine Hygiene",
+      "subcategory_name": "Tampons",
+      "url": "https://www.zepto.com/cn/feminine-hygiene/tampons/cid/72066480-9851-4263-89b6-50dd7525edc1/scid/4cc8598b-edbc-44df-96f7-a1c61e1a18dd"
+    },
+    {
+      "category_slug": "atta-rice-oil-dals",
+      "subcategory_slug": "dals-pulses",
+      "category_id": "2f7190d0-7c40-458b-b450-9a1006db3d95",
+      "subcategory_id": "59c951bd-4cb4-4659-9467-1e72a8f972d9",
+      "category_name": "Atta Rice Oil Dals",
+      "subcategory_name": "Dals Pulses",
+      "url": "https://www.zepto.com/cn/atta-rice-oil-dals/dals-pulses/cid/2f7190d0-7c40-458b-b450-9a1006db3d95/scid/59c951bd-4cb4-4659-9467-1e72a8f972d9"
+    },
+    {
+      "category_slug": "zepto-cafe",
+      "subcategory_slug": "desserts",
+      "category_id": "dfe16918-81b1-49c3-941b-acd557f7c277",
+      "subcategory_id": "62406946-8db7-4895-a566-8f0d93d879a6",
+      "category_name": "Zepto Cafe",
+      "subcategory_name": "Desserts",
+      "url": "https://www.zepto.com/cn/zepto-cafe/desserts/cid/dfe16918-81b1-49c3-941b-acd557f7c277/scid/62406946-8db7-4895-a566-8f0d93d879a6"
+    },
+    {
+      "category_slug": "toys-sports",
+      "subcategory_slug": "toddler",
+      "category_id": "fd1438dc-e1a8-49f9-87a3-2645a613ceeb",
+      "subcategory_id": "71ef0f7c-f337-4b14-a335-2ffa863d5626",
+      "category_name": "Toys Sports",
+      "subcategory_name": "Toddler",
+      "url": "https://www.zepto.com/cn/toys-sports/toddler/cid/fd1438dc-e1a8-49f9-87a3-2645a613ceeb/scid/71ef0f7c-f337-4b14-a335-2ffa863d5626"
+    },
+    {
+      "category_slug": "kitchen-dining",
+      "subcategory_slug": "gas-stove-accessories",
+      "category_id": "2423aa03-4219-4cab-a84d-92019f967003",
+      "subcategory_id": "76f5272b-90ad-41e0-b2c1-0ec8f5ffdcf3",
+      "category_name": "Kitchen Dining",
+      "subcategory_name": "Gas Stove Accessories",
+      "url": "https://www.zepto.com/cn/kitchen-dining/gas-stove-accessories/cid/2423aa03-4219-4cab-a84d-92019f967003/scid/76f5272b-90ad-41e0-b2c1-0ec8f5ffdcf3"
+    },
+    {
+      "category_slug": "skincare",
+      "subcategory_slug": "face-creams-gels",
+      "category_id": "d6c455aa-496b-4599-8f7d-81ecee8cf5a3",
+      "subcategory_id": "771c80e8-728f-4414-89e8-1061e1e4d893",
+      "category_name": "Skincare",
+      "subcategory_name": "Face Creams Gels",
+      "url": "https://www.zepto.com/cn/skincare/face-creams-gels/cid/d6c455aa-496b-4599-8f7d-81ecee8cf5a3/scid/771c80e8-728f-4414-89e8-1061e1e4d893"
+    },
+    {
+      "category_slug": "stationery-books",
+      "subcategory_slug": "books-magazines",
+      "category_id": "0d74209d-c2e4-431b-98e0-c00a92766773",
+      "subcategory_id": "837ca8d3-58d5-40ae-a293-c31a64296522",
+      "category_name": "Stationery Books",
+      "subcategory_name": "Books Magazines",
+      "url": "https://www.zepto.com/cn/stationery-books/books-magazines/cid/0d74209d-c2e4-431b-98e0-c00a92766773/scid/837ca8d3-58d5-40ae-a293-c31a64296522"
+    },
+    {
+      "category_slug": "zepto-cafe",
+      "subcategory_slug": "hot-beverages",
+      "category_id": "dfe16918-81b1-49c3-941b-acd557f7c277",
+      "subcategory_id": "8b52aa4c-fa1d-467f-98b8-58ae8798b2dd",
+      "category_name": "Zepto Cafe",
+      "subcategory_name": "Hot Beverages",
+      "url": "https://www.zepto.com/cn/zepto-cafe/hot-beverages/cid/dfe16918-81b1-49c3-941b-acd557f7c277/scid/8b52aa4c-fa1d-467f-98b8-58ae8798b2dd"
+    },
+    {
+      "category_slug": "meats-fish-eggs",
+      "subcategory_slug": "chicken",
+      "category_id": "4654bd8a-fb30-4ee1-ab30-4bf581b6c6e3",
+      "subcategory_id": "95157c69-f03e-48e5-ae2f-d947af34397f",
+      "category_name": "Meats Fish Eggs",
+      "subcategory_name": "Chicken",
+      "url": "https://www.zepto.com/cn/meats-fish-eggs/chicken/cid/4654bd8a-fb30-4ee1-ab30-4bf581b6c6e3/scid/95157c69-f03e-48e5-ae2f-d947af34397f"
+    },
+    {
+      "category_slug": "cleaning-essentials",
+      "subcategory_slug": "shoe-care",
+      "category_id": "1a7e46a8-e627-450f-8960-490b550eeee6",
+      "subcategory_id": "98f11962-f2cc-4148-8fdf-03f3df7895ee",
+      "category_name": "Cleaning Essentials",
+      "subcategory_name": "Shoe Care",
+      "url": "https://www.zepto.com/cn/cleaning-essentials/shoe-care/cid/1a7e46a8-e627-450f-8960-490b550eeee6/scid/98f11962-f2cc-4148-8fdf-03f3df7895ee"
+    },
+    {
+      "category_slug": "toys-sports",
+      "subcategory_slug": "activities-outdoor-toys",
+      "category_id": "fd1438dc-e1a8-49f9-87a3-2645a613ceeb",
+      "subcategory_id": "9cd558a2-5ef6-45e9-8198-c06b83d42377",
+      "category_name": "Toys Sports",
+      "subcategory_name": "Activities Outdoor Toys",
+      "url": "https://www.zepto.com/cn/toys-sports/activities-outdoor-toys/cid/fd1438dc-e1a8-49f9-87a3-2645a613ceeb/scid/9cd558a2-5ef6-45e9-8198-c06b83d42377"
+    },
+    {
+      "category_slug": "masala-dry-fruits-more",
+      "subcategory_slug": "dehydrated-dried",
+      "category_id": "0c2ccf87-e32c-4438-9560-8d9488fc73e0",
+      "subcategory_id": "9dfe488f-ee38-43e2-99c6-78d6d17676d2",
+      "category_name": "Masala Dry Fruits More",
+      "subcategory_name": "Dehydrated Dried",
+      "url": "https://www.zepto.com/cn/masala-dry-fruits-more/dehydrated-dried/cid/0c2ccf87-e32c-4438-9560-8d9488fc73e0/scid/9dfe488f-ee38-43e2-99c6-78d6d17676d2"
+    },
+    {
+      "category_slug": "test-cat4",
+      "subcategory_slug": "test-sync-cat-18040",
+      "category_id": "692b99a2-db11-4017-8dd2-024214e05352",
+      "subcategory_id": "a3f912fe-ac46-4e9d-a035-14862e267faf",
+      "category_name": "Test Cat4",
+      "subcategory_name": "Test Sync Cat 18040",
+      "url": "https://www.zepto.com/cn/test-cat4/test-sync-cat-18040/cid/692b99a2-db11-4017-8dd2-024214e05352/scid/a3f912fe-ac46-4e9d-a035-14862e267faf"
+    },
+    {
+      "category_slug": "fragrances-grooming",
+      "subcategory_slug": "perfumes",
+      "category_id": "875671b0-ec18-42c7-9749-c2cf165509fa",
+      "subcategory_id": "a7129b9a-4466-4935-957f-f91eff2130b7",
+      "category_name": "Fragrances Grooming",
+      "subcategory_name": "Perfumes",
+      "url": "https://www.zepto.com/cn/fragrances-grooming/perfumes/cid/875671b0-ec18-42c7-9749-c2cf165509fa/scid/a7129b9a-4466-4935-957f-f91eff2130b7"
+    },
+    {
+      "category_slug": "jewellery",
+      "subcategory_slug": "rings",
+      "category_id": "27b4b613-108e-4c77-91e6-b839d542385b",
+      "subcategory_id": "a868cdfb-d4cb-4b47-a8b7-dc765799adb4",
+      "category_name": "Jewellery",
+      "subcategory_name": "Rings",
+      "url": "https://www.zepto.com/cn/jewellery/rings/cid/27b4b613-108e-4c77-91e6-b839d542385b/scid/a868cdfb-d4cb-4b47-a8b7-dc765799adb4"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "girls-innerwear",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "b5471cce-b7ea-47e8-b8cf-2d0f711085b1",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Girls Innerwear",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/girls-innerwear/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/b5471cce-b7ea-47e8-b8cf-2d0f711085b1"
+    },
+    {
+      "category_slug": "protein-nutrition",
+      "subcategory_slug": "protein-powder",
+      "category_id": "2e75e2ea-5cb9-4f14-8a66-f3a61addeb32",
+      "subcategory_id": "b5870d30-cc75-43f6-978f-4138d41ad7b8",
+      "category_name": "Protein Nutrition",
+      "subcategory_name": "Protein Powder",
+      "url": "https://www.zepto.com/cn/protein-nutrition/protein-powder/cid/2e75e2ea-5cb9-4f14-8a66-f3a61addeb32/scid/b5870d30-cc75-43f6-978f-4138d41ad7b8"
+    },
+    {
+      "category_slug": "zepto-cafe",
+      "subcategory_slug": "burgers",
+      "category_id": "dfe16918-81b1-49c3-941b-acd557f7c277",
+      "subcategory_id": "b69866e7-cad6-481e-b95c-a83fedd8fa0d",
+      "category_name": "Zepto Cafe",
+      "subcategory_name": "Burgers",
+      "url": "https://www.zepto.com/cn/zepto-cafe/burgers/cid/dfe16918-81b1-49c3-941b-acd557f7c277/scid/b69866e7-cad6-481e-b95c-a83fedd8fa0d"
+    },
+    {
+      "category_slug": "feminine-hygiene",
+      "subcategory_slug": "period-panties",
+      "category_id": "72066480-9851-4263-89b6-50dd7525edc1",
+      "subcategory_id": "dade758f-54cb-4d2f-840d-6e07f746c43a",
+      "category_name": "Feminine Hygiene",
+      "subcategory_name": "Period Panties",
+      "url": "https://www.zepto.com/cn/feminine-hygiene/period-panties/cid/72066480-9851-4263-89b6-50dd7525edc1/scid/dade758f-54cb-4d2f-840d-6e07f746c43a"
+    },
+    {
+      "category_slug": "boost-your-daily-health",
+      "subcategory_slug": "integration-test",
+      "category_id": "028adf21-9e42-47cb-812a-bdc546761428",
+      "subcategory_id": "dd854989-8334-4fac-a0aa-0d14c26d7aa9",
+      "category_name": "Boost Your Daily Health",
+      "subcategory_name": "Integration Test",
+      "url": "https://www.zepto.com/cn/boost-your-daily-health/integration-test/cid/028adf21-9e42-47cb-812a-bdc546761428/scid/dd854989-8334-4fac-a0aa-0d14c26d7aa9"
+    },
+    {
+      "category_slug": "masala-dry-fruits-more",
+      "subcategory_slug": "dry-fruits-nuts",
+      "category_id": "0c2ccf87-e32c-4438-9560-8d9488fc73e0",
+      "subcategory_id": "dee4d0bc-0348-492c-9fa3-e55b7e2a44b3",
+      "category_name": "Masala Dry Fruits More",
+      "subcategory_name": "Dry Fruits Nuts",
+      "url": "https://www.zepto.com/cn/masala-dry-fruits-more/dry-fruits-nuts/cid/0c2ccf87-e32c-4438-9560-8d9488fc73e0/scid/dee4d0bc-0348-492c-9fa3-e55b7e2a44b3"
+    },
+    {
+      "category_slug": "toys-sports",
+      "subcategory_slug": "action-figures",
+      "category_id": "fd1438dc-e1a8-49f9-87a3-2645a613ceeb",
+      "subcategory_id": "ee948d3d-8209-48b7-a005-e310d1838a56",
+      "category_name": "Toys Sports",
+      "subcategory_name": "Action Figures",
+      "url": "https://www.zepto.com/cn/toys-sports/action-figures/cid/fd1438dc-e1a8-49f9-87a3-2645a613ceeb/scid/ee948d3d-8209-48b7-a005-e310d1838a56"
+    },
+    {
+      "category_slug": "dairy-bread-eggs",
+      "subcategory_slug": "paneer-cream",
+      "category_id": "4b938e02-7bde-4479-bc0a-2b54cb6bd5f5",
+      "subcategory_id": "1806412f-190a-46b1-be42-4237a4146eb1",
+      "category_name": "Dairy Bread Eggs",
+      "subcategory_name": "Paneer Cream",
+      "url": "https://www.zepto.com/cn/dairy-bread-eggs/paneer-cream/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/1806412f-190a-46b1-be42-4237a4146eb1"
+    },
+    {
+      "category_slug": "atta-rice-oil-dals",
+      "subcategory_slug": "oil",
+      "category_id": "2f7190d0-7c40-458b-b450-9a1006db3d95",
+      "subcategory_id": "2b5e863c-9497-46ae-a7e9-85f6ef7380da",
+      "category_name": "Atta Rice Oil Dals",
+      "subcategory_name": "Oil",
+      "url": "https://www.zepto.com/cn/atta-rice-oil-dals/oil/cid/2f7190d0-7c40-458b-b450-9a1006db3d95/scid/2b5e863c-9497-46ae-a7e9-85f6ef7380da"
+    },
+    {
+      "category_slug": "dairy-bread-eggs",
+      "subcategory_slug": "batters-mixes",
+      "category_id": "4b938e02-7bde-4479-bc0a-2b54cb6bd5f5",
+      "subcategory_id": "30fc9ec2-394f-4d84-8aca-51a8929c4870",
+      "category_name": "Dairy Bread Eggs",
+      "subcategory_name": "Batters Mixes",
+      "url": "https://www.zepto.com/cn/dairy-bread-eggs/batters-mixes/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/30fc9ec2-394f-4d84-8aca-51a8929c4870"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "handbags-purses",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "3222ebf6-9c3b-40de-b1e5-729499fee4a1",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Handbags Purses",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/handbags-purses/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/3222ebf6-9c3b-40de-b1e5-729499fee4a1"
+    },
+    {
+      "category_slug": "home-needs",
+      "subcategory_slug": "home-decor",
+      "category_id": "ac7b3ee1-98cb-48b8-8c62-27f47b4185a2",
+      "subcategory_id": "337a74f4-70e6-4ca8-9179-6f5367f60497",
+      "category_name": "Home Needs",
+      "subcategory_name": "Home Decor",
+      "url": "https://www.zepto.com/cn/home-needs/home-decor/cid/ac7b3ee1-98cb-48b8-8c62-27f47b4185a2/scid/337a74f4-70e6-4ca8-9179-6f5367f60497"
+    },
+    {
+      "category_slug": "dairy-bread-eggs",
+      "subcategory_slug": "curd-probiotic-drink",
+      "category_id": "4b938e02-7bde-4479-bc0a-2b54cb6bd5f5",
+      "subcategory_id": "5418d83c-4c50-4914-a768-b02c2aac2fea",
+      "category_name": "Dairy Bread Eggs",
+      "subcategory_name": "Curd Probiotic Drink",
+      "url": "https://www.zepto.com/cn/dairy-bread-eggs/curd-probiotic-drink/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/5418d83c-4c50-4914-a768-b02c2aac2fea"
+    },
+    {
+      "category_slug": "biscuits",
+      "subcategory_slug": "digestives",
+      "category_id": "2552acf2-2f77-4714-adc8-e505de3985db",
+      "subcategory_id": "55908138-86a0-49d8-a77a-1ebb4bc1bb8f",
+      "category_name": "Biscuits",
+      "subcategory_name": "Digestives",
+      "url": "https://www.zepto.com/cn/biscuits/digestives/cid/2552acf2-2f77-4714-adc8-e505de3985db/scid/55908138-86a0-49d8-a77a-1ebb4bc1bb8f"
+    },
+    {
+      "category_slug": "electronics-appliances",
+      "subcategory_slug": "computer-peripherals",
+      "category_id": "966dc8a0-8f21-420e-a897-8dd70b4228f6",
+      "subcategory_id": "5d32e304-c8c7-420b-a125-2a278bd56625",
+      "category_name": "Electronics Appliances",
+      "subcategory_name": "Computer Peripherals",
+      "url": "https://www.zepto.com/cn/electronics-appliances/computer-peripherals/cid/966dc8a0-8f21-420e-a897-8dd70b4228f6/scid/5d32e304-c8c7-420b-a125-2a278bd56625"
+    },
+    {
+      "category_slug": "breakfast-sauces",
+      "subcategory_slug": "peanut-butter",
+      "category_id": "f804bccc-c565-4879-b6ab-1b964bb1ed41",
+      "subcategory_id": "645a456e-adb6-4756-89d7-d9dda53738f8",
+      "category_name": "Breakfast Sauces",
+      "subcategory_name": "Peanut Butter",
+      "url": "https://www.zepto.com/cn/breakfast-sauces/peanut-butter/cid/f804bccc-c565-4879-b6ab-1b964bb1ed41/scid/645a456e-adb6-4756-89d7-d9dda53738f8"
+    },
+    {
+      "category_slug": "breakfast-sauces",
+      "subcategory_slug": "top-picks",
+      "category_id": "f804bccc-c565-4879-b6ab-1b964bb1ed41",
+      "subcategory_id": "68922181-4e0e-4a6b-9862-cf1a02ba240e",
+      "category_name": "Breakfast Sauces",
+      "subcategory_name": "Top Picks",
+      "url": "https://www.zepto.com/cn/breakfast-sauces/top-picks/cid/f804bccc-c565-4879-b6ab-1b964bb1ed41/scid/68922181-4e0e-4a6b-9862-cf1a02ba240e"
+    },
+    {
+      "category_slug": "biscuits",
+      "subcategory_slug": "rusk-khari",
+      "category_id": "2552acf2-2f77-4714-adc8-e505de3985db",
+      "subcategory_id": "703faebd-1224-4913-8c32-bb862d1fda62",
+      "category_name": "Biscuits",
+      "subcategory_name": "Rusk Khari",
+      "url": "https://www.zepto.com/cn/biscuits/rusk-khari/cid/2552acf2-2f77-4714-adc8-e505de3985db/scid/703faebd-1224-4913-8c32-bb862d1fda62"
+    },
+    {
+      "category_slug": "kitchen-dining",
+      "subcategory_slug": "kitchen-aids",
+      "category_id": "2423aa03-4219-4cab-a84d-92019f967003",
+      "subcategory_id": "70849a07-11b0-4160-9715-c0047fdcc437",
+      "category_name": "Kitchen Dining",
+      "subcategory_name": "Kitchen Aids",
+      "url": "https://www.zepto.com/cn/kitchen-dining/kitchen-aids/cid/2423aa03-4219-4cab-a84d-92019f967003/scid/70849a07-11b0-4160-9715-c0047fdcc437"
+    },
+    {
+      "category_slug": "zepto-cafe",
+      "subcategory_slug": "continental",
+      "category_id": "dfe16918-81b1-49c3-941b-acd557f7c277",
+      "subcategory_id": "764ae10a-c1a6-44e2-bf7d-f47cdf5f2f47",
+      "category_name": "Zepto Cafe",
+      "subcategory_name": "Continental",
+      "url": "https://www.zepto.com/cn/zepto-cafe/continental/cid/dfe16918-81b1-49c3-941b-acd557f7c277/scid/764ae10a-c1a6-44e2-bf7d-f47cdf5f2f47"
+    },
+    {
+      "category_slug": "feminine-hygiene",
+      "subcategory_slug": "intimate-care",
+      "category_id": "72066480-9851-4263-89b6-50dd7525edc1",
+      "subcategory_id": "76ac0334-0106-41ed-8a8f-0d79d3d9f3d8",
+      "category_name": "Feminine Hygiene",
+      "subcategory_name": "Intimate Care",
+      "url": "https://www.zepto.com/cn/feminine-hygiene/intimate-care/cid/72066480-9851-4263-89b6-50dd7525edc1/scid/76ac0334-0106-41ed-8a8f-0d79d3d9f3d8"
+    },
+    {
+      "category_slug": "toys-sports",
+      "subcategory_slug": "doll-play-set",
+      "category_id": "fd1438dc-e1a8-49f9-87a3-2645a613ceeb",
+      "subcategory_id": "76cb0119-7da6-40ff-98f7-5d5a562e9de0",
+      "category_name": "Toys Sports",
+      "subcategory_name": "Doll Play Set",
+      "url": "https://www.zepto.com/cn/toys-sports/doll-play-set/cid/fd1438dc-e1a8-49f9-87a3-2645a613ceeb/scid/76cb0119-7da6-40ff-98f7-5d5a562e9de0"
+    },
+    {
+      "category_slug": "fragrances-grooming",
+      "subcategory_slug": "deos-roll-ons",
+      "category_id": "875671b0-ec18-42c7-9749-c2cf165509fa",
+      "subcategory_id": "7a424911-0459-44d5-a7bb-6ff7a8542579",
+      "category_name": "Fragrances Grooming",
+      "subcategory_name": "Deos Roll Ons",
+      "url": "https://www.zepto.com/cn/fragrances-grooming/deos-roll-ons/cid/875671b0-ec18-42c7-9749-c2cf165509fa/scid/7a424911-0459-44d5-a7bb-6ff7a8542579"
+    },
+    {
+      "category_slug": "biscuits",
+      "subcategory_slug": "cookies",
+      "category_id": "2552acf2-2f77-4714-adc8-e505de3985db",
+      "subcategory_id": "7b07c0b3-d0c6-4ec0-995a-35c17adce0d8",
+      "category_name": "Biscuits",
+      "subcategory_name": "Cookies",
+      "url": "https://www.zepto.com/cn/biscuits/cookies/cid/2552acf2-2f77-4714-adc8-e505de3985db/scid/7b07c0b3-d0c6-4ec0-995a-35c17adce0d8"
+    },
+    {
+      "category_slug": "zepto-cafe",
+      "subcategory_slug": "consumables",
+      "category_id": "dfe16918-81b1-49c3-941b-acd557f7c277",
+      "subcategory_id": "8242fdef-d9a4-4184-97d2-369cf0e0aefb",
+      "category_name": "Zepto Cafe",
+      "subcategory_name": "Consumables",
+      "url": "https://www.zepto.com/cn/zepto-cafe/consumables/cid/dfe16918-81b1-49c3-941b-acd557f7c277/scid/8242fdef-d9a4-4184-97d2-369cf0e0aefb"
+    },
+    {
+      "category_slug": "pet-care",
+      "subcategory_slug": "pet-treats-toys",
+      "category_id": "13831a81-e0d5-4939-9650-df2413e7aead",
+      "subcategory_id": "84d3f3f0-8f4c-407a-b150-16b33661102f",
+      "category_name": "Pet Care",
+      "subcategory_name": "Pet Treats Toys",
+      "url": "https://www.zepto.com/cn/pet-care/pet-treats-toys/cid/13831a81-e0d5-4939-9650-df2413e7aead/scid/84d3f3f0-8f4c-407a-b150-16b33661102f"
+    },
+    {
+      "category_slug": "pharma-wellness",
+      "subcategory_slug": "elderly-care",
+      "category_id": "46853481-25d4-4126-947b-c6d96f0669f6",
+      "subcategory_id": "871f92dd-41fc-42b6-b016-40a1079650ab",
+      "category_name": "Pharma Wellness",
+      "subcategory_name": "Elderly Care",
+      "url": "https://www.zepto.com/cn/pharma-wellness/elderly-care/cid/46853481-25d4-4126-947b-c6d96f0669f6/scid/871f92dd-41fc-42b6-b016-40a1079650ab"
+    },
+    {
+      "category_slug": "electronics-appliances",
+      "subcategory_slug": "networking-devices",
+      "category_id": "966dc8a0-8f21-420e-a897-8dd70b4228f6",
+      "subcategory_id": "8f4acb95-79ce-49f7-b91c-74bf2db5070c",
+      "category_name": "Electronics Appliances",
+      "subcategory_name": "Networking Devices",
+      "url": "https://www.zepto.com/cn/electronics-appliances/networking-devices/cid/966dc8a0-8f21-420e-a897-8dd70b4228f6/scid/8f4acb95-79ce-49f7-b91c-74bf2db5070c"
+    },
+    {
+      "category_slug": "protein-nutrition",
+      "subcategory_slug": "protein-drinks-more",
+      "category_id": "2e75e2ea-5cb9-4f14-8a66-f3a61addeb32",
+      "subcategory_id": "944c5016-b210-4914-ae14-eeee64aa5173",
+      "category_name": "Protein Nutrition",
+      "subcategory_name": "Protein Drinks More",
+      "url": "https://www.zepto.com/cn/protein-nutrition/protein-drinks-more/cid/2e75e2ea-5cb9-4f14-8a66-f3a61addeb32/scid/944c5016-b210-4914-ae14-eeee64aa5173"
+    },
+    {
+      "category_slug": "zepto-cafe",
+      "subcategory_slug": "tea-coffee",
+      "category_id": "dfe16918-81b1-49c3-941b-acd557f7c277",
+      "subcategory_id": "9517d4fc-47f8-408d-8368-6ae245ce42b5",
+      "category_name": "Zepto Cafe",
+      "subcategory_name": "Tea Coffee",
+      "url": "https://www.zepto.com/cn/zepto-cafe/tea-coffee/cid/dfe16918-81b1-49c3-941b-acd557f7c277/scid/9517d4fc-47f8-408d-8368-6ae245ce42b5"
+    },
+    {
+      "category_slug": "atta-rice-oil-dals",
+      "subcategory_slug": "rice-more",
+      "category_id": "2f7190d0-7c40-458b-b450-9a1006db3d95",
+      "subcategory_id": "9798b797-0db0-4b04-b198-31b0a5849318",
+      "category_name": "Atta Rice Oil Dals",
+      "subcategory_name": "Rice More",
+      "url": "https://www.zepto.com/cn/atta-rice-oil-dals/rice-more/cid/2f7190d0-7c40-458b-b450-9a1006db3d95/scid/9798b797-0db0-4b04-b198-31b0a5849318"
+    },
+    {
+      "category_slug": "pet-care",
+      "subcategory_slug": "pet-health-supplements",
+      "category_id": "13831a81-e0d5-4939-9650-df2413e7aead",
+      "subcategory_id": "ab366da7-05be-4563-abb8-a37fc0a5cfff",
+      "category_name": "Pet Care",
+      "subcategory_name": "Pet Health Supplements",
+      "url": "https://www.zepto.com/cn/pet-care/pet-health-supplements/cid/13831a81-e0d5-4939-9650-df2413e7aead/scid/ab366da7-05be-4563-abb8-a37fc0a5cfff"
+    },
+    {
+      "category_slug": "breakfast-sauces",
+      "subcategory_slug": "honey-spreads",
+      "category_id": "f804bccc-c565-4879-b6ab-1b964bb1ed41",
+      "subcategory_id": "afce5895-f724-458f-8e23-28354a437c96",
+      "category_name": "Breakfast Sauces",
+      "subcategory_name": "Honey Spreads",
+      "url": "https://www.zepto.com/cn/breakfast-sauces/honey-spreads/cid/f804bccc-c565-4879-b6ab-1b964bb1ed41/scid/afce5895-f724-458f-8e23-28354a437c96"
+    },
+    {
+      "category_slug": "meats-fish-eggs",
+      "subcategory_slug": "sausages-salami",
+      "category_id": "4654bd8a-fb30-4ee1-ab30-4bf581b6c6e3",
+      "subcategory_id": "bb339b8b-5c92-4813-a95d-c856ac083556",
+      "category_name": "Meats Fish Eggs",
+      "subcategory_name": "Sausages Salami",
+      "url": "https://www.zepto.com/cn/meats-fish-eggs/sausages-salami/cid/4654bd8a-fb30-4ee1-ab30-4bf581b6c6e3/scid/bb339b8b-5c92-4813-a95d-c856ac083556"
+    },
+    {
+      "category_slug": "fruits-vegetables",
+      "subcategory_slug": "leafy-herbs-seasonings",
+      "category_id": "64374cfe-d06f-4a01-898e-c07c46462c36",
+      "subcategory_id": "bc8ec1d3-95cf-4af5-aa60-43cde99798c1",
+      "category_name": "Fruits Vegetables",
+      "subcategory_name": "Leafy Herbs Seasonings",
+      "url": "https://www.zepto.com/cn/fruits-vegetables/leafy-herbs-seasonings/cid/64374cfe-d06f-4a01-898e-c07c46462c36/scid/bc8ec1d3-95cf-4af5-aa60-43cde99798c1"
+    },
+    {
+      "category_slug": "masala-dry-fruits-more",
+      "subcategory_slug": "whole-spices-seasonings",
+      "category_id": "0c2ccf87-e32c-4438-9560-8d9488fc73e0",
+      "subcategory_id": "bd6ea174-5b9a-4071-aae1-a7807615351e",
+      "category_name": "Masala Dry Fruits More",
+      "subcategory_name": "Whole Spices Seasonings",
+      "url": "https://www.zepto.com/cn/masala-dry-fruits-more/whole-spices-seasonings/cid/0c2ccf87-e32c-4438-9560-8d9488fc73e0/scid/bd6ea174-5b9a-4071-aae1-a7807615351e"
+    },
+    {
+      "category_slug": "zepto-cafe",
+      "subcategory_slug": "meals",
+      "category_id": "dfe16918-81b1-49c3-941b-acd557f7c277",
+      "subcategory_id": "c05d523f-51fe-4e40-882f-ace8266cebfa",
+      "category_name": "Zepto Cafe",
+      "subcategory_name": "Meals",
+      "url": "https://www.zepto.com/cn/zepto-cafe/meals/cid/dfe16918-81b1-49c3-941b-acd557f7c277/scid/c05d523f-51fe-4e40-882f-ace8266cebfa"
+    },
+    {
+      "category_slug": "fragrances-grooming",
+      "subcategory_slug": "attar",
+      "category_id": "875671b0-ec18-42c7-9749-c2cf165509fa",
+      "subcategory_id": "c4290703-015a-43a0-bf65-b04180be4a7b",
+      "category_name": "Fragrances Grooming",
+      "subcategory_name": "Attar",
+      "url": "https://www.zepto.com/cn/fragrances-grooming/attar/cid/875671b0-ec18-42c7-9749-c2cf165509fa/scid/c4290703-015a-43a0-bf65-b04180be4a7b"
+    },
+    {
+      "category_slug": "ice-creams-more",
+      "subcategory_slug": "sticks",
+      "category_id": "65ee1b69-4e24-45b9-ac84-aace3c0854d8",
+      "subcategory_id": "ce577733-e375-48f8-9009-97f5c9a5e68f",
+      "category_name": "Ice Creams More",
+      "subcategory_name": "Sticks",
+      "url": "https://www.zepto.com/cn/ice-creams-more/sticks/cid/65ee1b69-4e24-45b9-ac84-aace3c0854d8/scid/ce577733-e375-48f8-9009-97f5c9a5e68f"
+    },
+    {
+      "category_slug": "kitchen-dining",
+      "subcategory_slug": "kitchen-storage",
+      "category_id": "2423aa03-4219-4cab-a84d-92019f967003",
+      "subcategory_id": "de700009-073d-4d6c-a675-5af7185c3206",
+      "category_name": "Kitchen Dining",
+      "subcategory_name": "Kitchen Storage",
+      "url": "https://www.zepto.com/cn/kitchen-dining/kitchen-storage/cid/2423aa03-4219-4cab-a84d-92019f967003/scid/de700009-073d-4d6c-a675-5af7185c3206"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "women-s-bottomwear",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "dec6b375-7799-42ba-9a9d-e1de439c00fd",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Women S Bottomwear",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/women-s-bottomwear/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/dec6b375-7799-42ba-9a9d-e1de439c00fd"
+    },
+    {
+      "category_slug": "electronics-appliances",
+      "subcategory_slug": "storage-devices",
+      "category_id": "966dc8a0-8f21-420e-a897-8dd70b4228f6",
+      "subcategory_id": "df06089d-1f5b-4472-b7af-95f2345429dd",
+      "category_name": "Electronics Appliances",
+      "subcategory_name": "Storage Devices",
+      "url": "https://www.zepto.com/cn/electronics-appliances/storage-devices/cid/966dc8a0-8f21-420e-a897-8dd70b4228f6/scid/df06089d-1f5b-4472-b7af-95f2345429dd"
+    },
+    {
+      "category_slug": "cleaning-essentials",
+      "subcategory_slug": "liquid-detergents-additives",
+      "category_id": "1a7e46a8-e627-450f-8960-490b550eeee6",
+      "subcategory_id": "dfb37880-b40f-4783-9502-a56e12edbabc",
+      "category_name": "Cleaning Essentials",
+      "subcategory_name": "Liquid Detergents Additives",
+      "url": "https://www.zepto.com/cn/cleaning-essentials/liquid-detergents-additives/cid/1a7e46a8-e627-450f-8960-490b550eeee6/scid/dfb37880-b40f-4783-9502-a56e12edbabc"
+    },
+    {
+      "category_slug": "cleaning-essentials",
+      "subcategory_slug": "toilet-bathroom-cleaners",
+      "category_id": "1a7e46a8-e627-450f-8960-490b550eeee6",
+      "subcategory_id": "e0620547-3879-443c-b936-4890f7ac557b",
+      "category_name": "Cleaning Essentials",
+      "subcategory_name": "Toilet Bathroom Cleaners",
+      "url": "https://www.zepto.com/cn/cleaning-essentials/toilet-bathroom-cleaners/cid/1a7e46a8-e627-450f-8960-490b550eeee6/scid/e0620547-3879-443c-b936-4890f7ac557b"
+    },
+    {
+      "category_slug": "sweet-cravings",
+      "subcategory_slug": "candies-gums-mints",
+      "category_id": "adab2f81-7140-4fe9-b8cf-3d809f40e38a",
+      "subcategory_id": "e300bbfe-74db-4a3f-ba9c-052f296212c2",
+      "category_name": "Sweet Cravings",
+      "subcategory_name": "Candies Gums Mints",
+      "url": "https://www.zepto.com/cn/sweet-cravings/candies-gums-mints/cid/adab2f81-7140-4fe9-b8cf-3d809f40e38a/scid/e300bbfe-74db-4a3f-ba9c-052f296212c2"
+    },
+    {
+      "category_slug": "home-needs",
+      "subcategory_slug": "hardware-fittings",
+      "category_id": "ac7b3ee1-98cb-48b8-8c62-27f47b4185a2",
+      "subcategory_id": "f1af5c84-d9e8-43db-9240-bb69983453eb",
+      "category_name": "Home Needs",
+      "subcategory_name": "Hardware Fittings",
+      "url": "https://www.zepto.com/cn/home-needs/hardware-fittings/cid/ac7b3ee1-98cb-48b8-8c62-27f47b4185a2/scid/f1af5c84-d9e8-43db-9240-bb69983453eb"
+    },
+    {
+      "category_slug": "hair-care",
+      "subcategory_slug": "hair-serum-polish",
+      "category_id": "513e1b9e-7f62-4063-bf57-4335521dc5de",
+      "subcategory_id": "00be6703-c23c-4bfa-b25b-dbb5c9502a39",
+      "category_name": "Hair Care",
+      "subcategory_name": "Hair Serum Polish",
+      "url": "https://www.zepto.com/cn/hair-care/hair-serum-polish/cid/513e1b9e-7f62-4063-bf57-4335521dc5de/scid/00be6703-c23c-4bfa-b25b-dbb5c9502a39"
+    },
+    {
+      "category_slug": "electronics-appliances",
+      "subcategory_slug": "smart-wearables",
+      "category_id": "966dc8a0-8f21-420e-a897-8dd70b4228f6",
+      "subcategory_id": "174f2d6d-935f-453f-b5cb-989a785eebc6",
+      "category_name": "Electronics Appliances",
+      "subcategory_name": "Smart Wearables",
+      "url": "https://www.zepto.com/cn/electronics-appliances/smart-wearables/cid/966dc8a0-8f21-420e-a897-8dd70b4228f6/scid/174f2d6d-935f-453f-b5cb-989a785eebc6"
+    },
+    {
+      "category_slug": "toys-sports",
+      "subcategory_slug": "card-board-games",
+      "category_id": "fd1438dc-e1a8-49f9-87a3-2645a613ceeb",
+      "subcategory_id": "18ba4052-e951-4d8f-917b-8827f9e47398",
+      "category_name": "Toys Sports",
+      "subcategory_name": "Card Board Games",
+      "url": "https://www.zepto.com/cn/toys-sports/card-board-games/cid/fd1438dc-e1a8-49f9-87a3-2645a613ceeb/scid/18ba4052-e951-4d8f-917b-8827f9e47398"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "bags-wallets",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "2827d8a7-82cd-4d1f-ae0c-e346ddeff83b",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Bags Wallets",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/bags-wallets/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/2827d8a7-82cd-4d1f-ae0c-e346ddeff83b"
+    },
+    {
+      "category_slug": "zepto-cafe",
+      "subcategory_slug": "italian",
+      "category_id": "dfe16918-81b1-49c3-941b-acd557f7c277",
+      "subcategory_id": "2a3a6144-94c5-4d70-ac39-49f5c0c04a19",
+      "category_name": "Zepto Cafe",
+      "subcategory_name": "Italian",
+      "url": "https://www.zepto.com/cn/zepto-cafe/italian/cid/dfe16918-81b1-49c3-941b-acd557f7c277/scid/2a3a6144-94c5-4d70-ac39-49f5c0c04a19"
+    },
+    {
+      "category_slug": "cleaning-essentials",
+      "subcategory_slug": "kitchen-cleaning",
+      "category_id": "1a7e46a8-e627-450f-8960-490b550eeee6",
+      "subcategory_id": "2b94ac09-f492-4f0e-9ed5-767f18955a86",
+      "category_name": "Cleaning Essentials",
+      "subcategory_name": "Kitchen Cleaning",
+      "url": "https://www.zepto.com/cn/cleaning-essentials/kitchen-cleaning/cid/1a7e46a8-e627-450f-8960-490b550eeee6/scid/2b94ac09-f492-4f0e-9ed5-767f18955a86"
+    },
+    {
+      "category_slug": "feminine-hygiene",
+      "subcategory_slug": "period-pain-relief",
+      "category_id": "72066480-9851-4263-89b6-50dd7525edc1",
+      "subcategory_id": "3b093fa7-c594-42ca-a630-5433b8576c89",
+      "category_name": "Feminine Hygiene",
+      "subcategory_name": "Period Pain Relief",
+      "url": "https://www.zepto.com/cn/feminine-hygiene/period-pain-relief/cid/72066480-9851-4263-89b6-50dd7525edc1/scid/3b093fa7-c594-42ca-a630-5433b8576c89"
+    },
+    {
+      "category_slug": "packaged-food",
+      "subcategory_slug": "pasta-soups",
+      "category_id": "5736ad99-f589-4d58-a24b-a12222320a37",
+      "subcategory_id": "3d2b3d99-63d3-43da-b100-baa0c8b283bf",
+      "category_name": "Packaged Food",
+      "subcategory_name": "Pasta Soups",
+      "url": "https://www.zepto.com/cn/packaged-food/pasta-soups/cid/5736ad99-f589-4d58-a24b-a12222320a37/scid/3d2b3d99-63d3-43da-b100-baa0c8b283bf"
+    },
+    {
+      "category_slug": "skincare",
+      "subcategory_slug": "eye-lip-care",
+      "category_id": "d6c455aa-496b-4599-8f7d-81ecee8cf5a3",
+      "subcategory_id": "3daca7a0-c1d8-494f-bbfb-ab7884e31351",
+      "category_name": "Skincare",
+      "subcategory_name": "Eye Lip Care",
+      "url": "https://www.zepto.com/cn/skincare/eye-lip-care/cid/d6c455aa-496b-4599-8f7d-81ecee8cf5a3/scid/3daca7a0-c1d8-494f-bbfb-ab7884e31351"
+    },
+    {
+      "category_slug": "kitchen-dining",
+      "subcategory_slug": "steel-utensils",
+      "category_id": "2423aa03-4219-4cab-a84d-92019f967003",
+      "subcategory_id": "3e790270-8a2f-4e2d-859d-4cc201b5a053",
+      "category_name": "Kitchen Dining",
+      "subcategory_name": "Steel Utensils",
+      "url": "https://www.zepto.com/cn/kitchen-dining/steel-utensils/cid/2423aa03-4219-4cab-a84d-92019f967003/scid/3e790270-8a2f-4e2d-859d-4cc201b5a053"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "women-s-nightwear",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "4331a256-d72d-46fc-ab07-610dd84bbaa1",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Women S Nightwear",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/women-s-nightwear/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/4331a256-d72d-46fc-ab07-610dd84bbaa1"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "boys-bottomwear",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "45319732-5e7b-4276-9b98-f1c58a9bf905",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Boys Bottomwear",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/boys-bottomwear/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/45319732-5e7b-4276-9b98-f1c58a9bf905"
+    },
+    {
+      "category_slug": "cold-drinks-juices",
+      "subcategory_slug": "non-alcoholic-drink",
+      "category_id": "947a72ae-b371-45cb-ad3a-778c05b64399",
+      "subcategory_id": "48634884-3014-4718-b5c7-c7684ff34bee",
+      "category_name": "Cold Drinks Juices",
+      "subcategory_name": "Non Alcoholic Drink",
+      "url": "https://www.zepto.com/cn/cold-drinks-juices/non-alcoholic-drink/cid/947a72ae-b371-45cb-ad3a-778c05b64399/scid/48634884-3014-4718-b5c7-c7684ff34bee"
+    },
+    {
+      "category_slug": "atta-rice-oil-dals",
+      "subcategory_slug": "ghee",
+      "category_id": "2f7190d0-7c40-458b-b450-9a1006db3d95",
+      "subcategory_id": "56c015a7-b283-4e7a-b3ba-0f76f4f181dc",
+      "category_name": "Atta Rice Oil Dals",
+      "subcategory_name": "Ghee",
+      "url": "https://www.zepto.com/cn/atta-rice-oil-dals/ghee/cid/2f7190d0-7c40-458b-b450-9a1006db3d95/scid/56c015a7-b283-4e7a-b3ba-0f76f4f181dc"
+    },
+    {
+      "category_slug": "pharma-wellness",
+      "subcategory_slug": "eye-ear-care",
+      "category_id": "46853481-25d4-4126-947b-c6d96f0669f6",
+      "subcategory_id": "580c92f9-5367-4f02-aea1-5db31140d536",
+      "category_name": "Pharma Wellness",
+      "subcategory_name": "Eye Ear Care",
+      "url": "https://www.zepto.com/cn/pharma-wellness/eye-ear-care/cid/46853481-25d4-4126-947b-c6d96f0669f6/scid/580c92f9-5367-4f02-aea1-5db31140d536"
+    },
+    {
+      "category_slug": "electronics-appliances",
+      "subcategory_slug": "mobile-accessories",
+      "category_id": "966dc8a0-8f21-420e-a897-8dd70b4228f6",
+      "subcategory_id": "5a14eb17-b896-4a5c-b4ae-b3d7f4d61acd",
+      "category_name": "Electronics Appliances",
+      "subcategory_name": "Mobile Accessories",
+      "url": "https://www.zepto.com/cn/electronics-appliances/mobile-accessories/cid/966dc8a0-8f21-420e-a897-8dd70b4228f6/scid/5a14eb17-b896-4a5c-b4ae-b3d7f4d61acd"
+    },
+    {
+      "category_slug": "electronics-appliances",
+      "subcategory_slug": "home-appliances",
+      "category_id": "966dc8a0-8f21-420e-a897-8dd70b4228f6",
+      "subcategory_id": "5b162251-fc43-4ae4-b340-e588c5fadd68",
+      "category_name": "Electronics Appliances",
+      "subcategory_name": "Home Appliances",
+      "url": "https://www.zepto.com/cn/electronics-appliances/home-appliances/cid/966dc8a0-8f21-420e-a897-8dd70b4228f6/scid/5b162251-fc43-4ae4-b340-e588c5fadd68"
+    },
+    {
+      "category_slug": "stationery-books",
+      "subcategory_slug": "office-supply",
+      "category_id": "0d74209d-c2e4-431b-98e0-c00a92766773",
+      "subcategory_id": "67b9d989-cea7-47db-be1a-a9123622aefb",
+      "category_name": "Stationery Books",
+      "subcategory_name": "Office Supply",
+      "url": "https://www.zepto.com/cn/stationery-books/office-supply/cid/0d74209d-c2e4-431b-98e0-c00a92766773/scid/67b9d989-cea7-47db-be1a-a9123622aefb"
+    },
+    {
+      "category_slug": "stationery-books",
+      "subcategory_slug": "school-supplies",
+      "category_id": "0d74209d-c2e4-431b-98e0-c00a92766773",
+      "subcategory_id": "74073fb8-6294-4830-ae40-c6dffd42e474",
+      "category_name": "Stationery Books",
+      "subcategory_name": "School Supplies",
+      "url": "https://www.zepto.com/cn/stationery-books/school-supplies/cid/0d74209d-c2e4-431b-98e0-c00a92766773/scid/74073fb8-6294-4830-ae40-c6dffd42e474"
+    },
+    {
+      "category_slug": "pharma-wellness",
+      "subcategory_slug": "pain-relief",
+      "category_id": "46853481-25d4-4126-947b-c6d96f0669f6",
+      "subcategory_id": "74ed2640-6b7a-42fb-adc3-c0c3f1dfa439",
+      "category_name": "Pharma Wellness",
+      "subcategory_name": "Pain Relief",
+      "url": "https://www.zepto.com/cn/pharma-wellness/pain-relief/cid/46853481-25d4-4126-947b-c6d96f0669f6/scid/74ed2640-6b7a-42fb-adc3-c0c3f1dfa439"
+    },
+    {
+      "category_slug": "stationery-books",
+      "subcategory_slug": "notebooks-diaries",
+      "category_id": "0d74209d-c2e4-431b-98e0-c00a92766773",
+      "subcategory_id": "84f7cd06-0f04-4a24-94df-d668f4bfe8b0",
+      "category_name": "Stationery Books",
+      "subcategory_name": "Notebooks Diaries",
+      "url": "https://www.zepto.com/cn/stationery-books/notebooks-diaries/cid/0d74209d-c2e4-431b-98e0-c00a92766773/scid/84f7cd06-0f04-4a24-94df-d668f4bfe8b0"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "boys-topwear",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "8d2b27df-5a3c-4acb-9f66-a55e47899ab1",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Boys Topwear",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/boys-topwear/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/8d2b27df-5a3c-4acb-9f66-a55e47899ab1"
+    },
+    {
+      "category_slug": "fragrances-grooming",
+      "subcategory_slug": "hygiene-essentials",
+      "category_id": "875671b0-ec18-42c7-9749-c2cf165509fa",
+      "subcategory_id": "93a9a3cf-d1e0-449a-87f7-3c503393aff6",
+      "category_name": "Fragrances Grooming",
+      "subcategory_name": "Hygiene Essentials",
+      "url": "https://www.zepto.com/cn/fragrances-grooming/hygiene-essentials/cid/875671b0-ec18-42c7-9749-c2cf165509fa/scid/93a9a3cf-d1e0-449a-87f7-3c503393aff6"
+    },
+    {
+      "category_slug": "makeup-beauty",
+      "subcategory_slug": "eye-makeup",
+      "category_id": "2e5eae34-1666-4ddc-8903-76e6547f72e4",
+      "subcategory_id": "94cc7afd-328a-4489-98af-5bcad2d7bbaf",
+      "category_name": "Makeup Beauty",
+      "subcategory_name": "Eye Makeup",
+      "url": "https://www.zepto.com/cn/makeup-beauty/eye-makeup/cid/2e5eae34-1666-4ddc-8903-76e6547f72e4/scid/94cc7afd-328a-4489-98af-5bcad2d7bbaf"
+    },
+    {
+      "category_slug": "sweet-cravings",
+      "subcategory_slug": "indian-mithai",
+      "category_id": "adab2f81-7140-4fe9-b8cf-3d809f40e38a",
+      "subcategory_id": "b353a8f7-7dd6-4efe-954f-45bbddb6be5f",
+      "category_name": "Sweet Cravings",
+      "subcategory_name": "Indian Mithai",
+      "url": "https://www.zepto.com/cn/sweet-cravings/indian-mithai/cid/adab2f81-7140-4fe9-b8cf-3d809f40e38a/scid/b353a8f7-7dd6-4efe-954f-45bbddb6be5f"
+    },
+    {
+      "category_slug": "fruits-vegetables",
+      "subcategory_slug": "fresh-vegetables",
+      "category_id": "64374cfe-d06f-4a01-898e-c07c46462c36",
+      "subcategory_id": "b4827798-fcb6-4520-ba5b-0f2bd9bd7208",
+      "category_name": "Fruits Vegetables",
+      "subcategory_name": "Fresh Vegetables",
+      "url": "https://www.zepto.com/cn/fruits-vegetables/fresh-vegetables/cid/64374cfe-d06f-4a01-898e-c07c46462c36/scid/b4827798-fcb6-4520-ba5b-0f2bd9bd7208"
+    },
+    {
+      "category_slug": "ice-creams-more",
+      "subcategory_slug": "cones",
+      "category_id": "65ee1b69-4e24-45b9-ac84-aace3c0854d8",
+      "subcategory_id": "b7093ed5-7170-408a-99f0-c8d0bd21b25a",
+      "category_name": "Ice Creams More",
+      "subcategory_name": "Cones",
+      "url": "https://www.zepto.com/cn/ice-creams-more/cones/cid/65ee1b69-4e24-45b9-ac84-aace3c0854d8/scid/b7093ed5-7170-408a-99f0-c8d0bd21b25a"
+    },
+    {
+      "category_slug": "pharma-wellness",
+      "subcategory_slug": "wipes-masks-more",
+      "category_id": "46853481-25d4-4126-947b-c6d96f0669f6",
+      "subcategory_id": "b9c11c14-614a-4e64-a93a-4634b333297b",
+      "category_name": "Pharma Wellness",
+      "subcategory_name": "Wipes Masks More",
+      "url": "https://www.zepto.com/cn/pharma-wellness/wipes-masks-more/cid/46853481-25d4-4126-947b-c6d96f0669f6/scid/b9c11c14-614a-4e64-a93a-4634b333297b"
+    },
+    {
+      "category_slug": "kitchen-dining",
+      "subcategory_slug": "bottles-flasks",
+      "category_id": "2423aa03-4219-4cab-a84d-92019f967003",
+      "subcategory_id": "ba32cc8a-b260-4d7c-a891-ad9670cb3266",
+      "category_name": "Kitchen Dining",
+      "subcategory_name": "Bottles Flasks",
+      "url": "https://www.zepto.com/cn/kitchen-dining/bottles-flasks/cid/2423aa03-4219-4cab-a84d-92019f967003/scid/ba32cc8a-b260-4d7c-a891-ad9670cb3266"
+    },
+    {
+      "category_slug": "atta-rice-oil-dals",
+      "subcategory_slug": "millets-other-flours",
+      "category_id": "2f7190d0-7c40-458b-b450-9a1006db3d95",
+      "subcategory_id": "bc973579-943e-49c2-90ac-6a304665bd08",
+      "category_name": "Atta Rice Oil Dals",
+      "subcategory_name": "Millets Other Flours",
+      "url": "https://www.zepto.com/cn/atta-rice-oil-dals/millets-other-flours/cid/2f7190d0-7c40-458b-b450-9a1006db3d95/scid/bc973579-943e-49c2-90ac-6a304665bd08"
+    },
+    {
+      "category_slug": "cold-drinks-juices",
+      "subcategory_slug": "fruit-juices-drinks",
+      "category_id": "947a72ae-b371-45cb-ad3a-778c05b64399",
+      "subcategory_id": "c41e2ad3-2dcc-42b6-829b-7e3a8e78d754",
+      "category_name": "Cold Drinks Juices",
+      "subcategory_name": "Fruit Juices Drinks",
+      "url": "https://www.zepto.com/cn/cold-drinks-juices/fruit-juices-drinks/cid/947a72ae-b371-45cb-ad3a-778c05b64399/scid/c41e2ad3-2dcc-42b6-829b-7e3a8e78d754"
+    },
+    {
+      "category_slug": "cold-drinks-juices",
+      "subcategory_slug": "energy-drink",
+      "category_id": "947a72ae-b371-45cb-ad3a-778c05b64399",
+      "subcategory_id": "c6bba2b2-6b2d-4bd4-ae3d-adb6f9383393",
+      "category_name": "Cold Drinks Juices",
+      "subcategory_name": "Energy Drink",
+      "url": "https://www.zepto.com/cn/cold-drinks-juices/energy-drink/cid/947a72ae-b371-45cb-ad3a-778c05b64399/scid/c6bba2b2-6b2d-4bd4-ae3d-adb6f9383393"
+    },
+    {
+      "category_slug": "packaged-food",
+      "subcategory_slug": "ready-to-cook",
+      "category_id": "5736ad99-f589-4d58-a24b-a12222320a37",
+      "subcategory_id": "c827a6d8-3834-4f80-9146-14dc7cc69eb4",
+      "category_name": "Packaged Food",
+      "subcategory_name": "Ready To Cook",
+      "url": "https://www.zepto.com/cn/packaged-food/ready-to-cook/cid/5736ad99-f589-4d58-a24b-a12222320a37/scid/c827a6d8-3834-4f80-9146-14dc7cc69eb4"
+    },
+    {
+      "category_slug": "skincare",
+      "subcategory_slug": "toners-mists",
+      "category_id": "d6c455aa-496b-4599-8f7d-81ecee8cf5a3",
+      "subcategory_id": "c8aeaeb0-66e7-4717-8430-456c8277bfb8",
+      "category_name": "Skincare",
+      "subcategory_name": "Toners Mists",
+      "url": "https://www.zepto.com/cn/skincare/toners-mists/cid/d6c455aa-496b-4599-8f7d-81ecee8cf5a3/scid/c8aeaeb0-66e7-4717-8430-456c8277bfb8"
+    },
+    {
+      "category_slug": "sexual-wellness",
+      "subcategory_slug": "lubricants",
+      "category_id": "5ff01c62-4d1a-4eae-b566-2fe3b345abe9",
+      "subcategory_id": "c98eb1d5-2ac5-464c-bbb9-70549098dac7",
+      "category_name": "Sexual Wellness",
+      "subcategory_name": "Lubricants",
+      "url": "https://www.zepto.com/cn/sexual-wellness/lubricants/cid/5ff01c62-4d1a-4eae-b566-2fe3b345abe9/scid/c98eb1d5-2ac5-464c-bbb9-70549098dac7"
+    },
+    {
+      "category_slug": "toys-sports",
+      "subcategory_slug": "electronic-toys-vehicle",
+      "category_id": "fd1438dc-e1a8-49f9-87a3-2645a613ceeb",
+      "subcategory_id": "d2303c20-f52b-4c8c-9a7b-636a554b1748",
+      "category_name": "Toys Sports",
+      "subcategory_name": "Electronic Toys Vehicle",
+      "url": "https://www.zepto.com/cn/toys-sports/electronic-toys-vehicle/cid/fd1438dc-e1a8-49f9-87a3-2645a613ceeb/scid/d2303c20-f52b-4c8c-9a7b-636a554b1748"
+    },
+    {
+      "category_slug": "test-cafe",
+      "subcategory_slug": "cafe-sample-test",
+      "category_id": "9c8339b6-b739-4f6c-9a7c-7a768a504963",
+      "subcategory_id": "d7f3e7e5-bb41-4b7d-bf1f-80eeabd82b81",
+      "category_name": "Test Cafe",
+      "subcategory_name": "Cafe Sample Test",
+      "url": "https://www.zepto.com/cn/test-cafe/cafe-sample-test/cid/9c8339b6-b739-4f6c-9a7c-7a768a504963/scid/d7f3e7e5-bb41-4b7d-bf1f-80eeabd82b81"
+    },
+    {
+      "category_slug": "frozen-food",
+      "subcategory_slug": "veg-snacks",
+      "category_id": "aae1447d-1403-4a5c-a65f-bcb3afb93b5e",
+      "subcategory_id": "dd3fd11a-5ed1-40a9-8e3c-edf3b82e7d32",
+      "category_name": "Frozen Food",
+      "subcategory_name": "Veg Snacks",
+      "url": "https://www.zepto.com/cn/frozen-food/veg-snacks/cid/aae1447d-1403-4a5c-a65f-bcb3afb93b5e/scid/dd3fd11a-5ed1-40a9-8e3c-edf3b82e7d32"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "infant-apparel",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "e00fa738-43fb-449b-bf5e-d9d42b1360c6",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Infant Apparel",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/infant-apparel/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/e00fa738-43fb-449b-bf5e-d9d42b1360c6"
+    },
+    {
+      "category_slug": "electronics-appliances",
+      "subcategory_slug": "earphones-headphones",
+      "category_id": "966dc8a0-8f21-420e-a897-8dd70b4228f6",
+      "subcategory_id": "e15cdc4d-d9bd-436e-993c-c8bed2d48587",
+      "category_name": "Electronics Appliances",
+      "subcategory_name": "Earphones Headphones",
+      "url": "https://www.zepto.com/cn/electronics-appliances/earphones-headphones/cid/966dc8a0-8f21-420e-a897-8dd70b4228f6/scid/e15cdc4d-d9bd-436e-993c-c8bed2d48587"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "suitcases",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "f766f003-1ad3-44b1-bdd6-a2505c86af8b",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Suitcases",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/suitcases/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/f766f003-1ad3-44b1-bdd6-a2505c86af8b"
+    },
+    {
+      "category_slug": "makeup-beauty",
+      "subcategory_slug": "gifting",
+      "category_id": "2e5eae34-1666-4ddc-8903-76e6547f72e4",
+      "subcategory_id": "0202fff3-7c02-4c3a-a067-7e2a082c3a70",
+      "category_name": "Makeup Beauty",
+      "subcategory_name": "Gifting",
+      "url": "https://www.zepto.com/cn/makeup-beauty/gifting/cid/2e5eae34-1666-4ddc-8903-76e6547f72e4/scid/0202fff3-7c02-4c3a-a067-7e2a082c3a70"
+    },
+    {
+      "category_slug": "home-needs",
+      "subcategory_slug": "coins",
+      "category_id": "ac7b3ee1-98cb-48b8-8c62-27f47b4185a2",
+      "subcategory_id": "0909f488-259a-48ee-99fe-76366a25285a",
+      "category_name": "Home Needs",
+      "subcategory_name": "Coins",
+      "url": "https://www.zepto.com/cn/home-needs/coins/cid/ac7b3ee1-98cb-48b8-8c62-27f47b4185a2/scid/0909f488-259a-48ee-99fe-76366a25285a"
+    },
+    {
+      "category_slug": "fruits-vegetables",
+      "subcategory_slug": "fresh-fruits",
+      "category_id": "64374cfe-d06f-4a01-898e-c07c46462c36",
+      "subcategory_id": "09e63c15-e5f7-4712-9ff8-513250b79942",
+      "category_name": "Fruits Vegetables",
+      "subcategory_name": "Fresh Fruits",
+      "url": "https://www.zepto.com/cn/fruits-vegetables/fresh-fruits/cid/64374cfe-d06f-4a01-898e-c07c46462c36/scid/09e63c15-e5f7-4712-9ff8-513250b79942"
+    },
+    {
+      "category_slug": "tea-coffee-more",
+      "subcategory_slug": "cold-coffee-iced-tea",
+      "category_id": "d7e98d87-6850-4cf9-a37c-e4fa34ae302c",
+      "subcategory_id": "0d755c75-58ff-446e-8761-8b06781d167a",
+      "category_name": "Tea Coffee More",
+      "subcategory_name": "Cold Coffee Iced Tea",
+      "url": "https://www.zepto.com/cn/tea-coffee-more/cold-coffee-iced-tea/cid/d7e98d87-6850-4cf9-a37c-e4fa34ae302c/scid/0d755c75-58ff-446e-8761-8b06781d167a"
+    },
+    {
+      "category_slug": "fragrances-grooming",
+      "subcategory_slug": "body-mist",
+      "category_id": "875671b0-ec18-42c7-9749-c2cf165509fa",
+      "subcategory_id": "11d1a58e-fc30-421a-a323-cf37549afefc",
+      "category_name": "Fragrances Grooming",
+      "subcategory_name": "Body Mist",
+      "url": "https://www.zepto.com/cn/fragrances-grooming/body-mist/cid/875671b0-ec18-42c7-9749-c2cf165509fa/scid/11d1a58e-fc30-421a-a323-cf37549afefc"
+    },
+    {
+      "category_slug": "home-needs",
+      "subcategory_slug": "household-utility",
+      "category_id": "ac7b3ee1-98cb-48b8-8c62-27f47b4185a2",
+      "subcategory_id": "15de07de-9be1-4938-bc9c-8a505d13cd2f",
+      "category_name": "Home Needs",
+      "subcategory_name": "Household Utility",
+      "url": "https://www.zepto.com/cn/home-needs/household-utility/cid/ac7b3ee1-98cb-48b8-8c62-27f47b4185a2/scid/15de07de-9be1-4938-bc9c-8a505d13cd2f"
+    },
+    {
+      "category_slug": "frozen-food",
+      "subcategory_slug": "raw-meats",
+      "category_id": "aae1447d-1403-4a5c-a65f-bcb3afb93b5e",
+      "subcategory_id": "1ee9ca43-47d6-470e-8b3e-158f0c951fb0",
+      "category_name": "Frozen Food",
+      "subcategory_name": "Raw Meats",
+      "url": "https://www.zepto.com/cn/frozen-food/raw-meats/cid/aae1447d-1403-4a5c-a65f-bcb3afb93b5e/scid/1ee9ca43-47d6-470e-8b3e-158f0c951fb0"
+    },
+    {
+      "category_slug": "jewellery",
+      "subcategory_slug": "necklace-pendants",
+      "category_id": "27b4b613-108e-4c77-91e6-b839d542385b",
+      "subcategory_id": "1f7deba0-09ea-4081-aaa4-e20f10c693e1",
+      "category_name": "Jewellery",
+      "subcategory_name": "Necklace Pendants",
+      "url": "https://www.zepto.com/cn/jewellery/necklace-pendants/cid/27b4b613-108e-4c77-91e6-b839d542385b/scid/1f7deba0-09ea-4081-aaa4-e20f10c693e1"
+    },
+    {
+      "category_slug": "skincare",
+      "subcategory_slug": "hand-feet-care",
+      "category_id": "d6c455aa-496b-4599-8f7d-81ecee8cf5a3",
+      "subcategory_id": "350d4c7e-de37-436f-83ee-be065bac1115",
+      "category_name": "Skincare",
+      "subcategory_name": "Hand Feet Care",
+      "url": "https://www.zepto.com/cn/skincare/hand-feet-care/cid/d6c455aa-496b-4599-8f7d-81ecee8cf5a3/scid/350d4c7e-de37-436f-83ee-be065bac1115"
+    },
+    {
+      "category_slug": "kitchen-dining",
+      "subcategory_slug": "tableware",
+      "category_id": "2423aa03-4219-4cab-a84d-92019f967003",
+      "subcategory_id": "355603ca-f2d4-439b-b350-c3b6f32d39f2",
+      "category_name": "Kitchen Dining",
+      "subcategory_name": "Tableware",
+      "url": "https://www.zepto.com/cn/kitchen-dining/tableware/cid/2423aa03-4219-4cab-a84d-92019f967003/scid/355603ca-f2d4-439b-b350-c3b6f32d39f2"
+    },
+    {
+      "category_slug": "pharma-wellness",
+      "subcategory_slug": "body-belt-support",
+      "category_id": "46853481-25d4-4126-947b-c6d96f0669f6",
+      "subcategory_id": "4148a912-698c-4879-b113-c9c492ad84ed",
+      "category_name": "Pharma Wellness",
+      "subcategory_name": "Body Belt Support",
+      "url": "https://www.zepto.com/cn/pharma-wellness/body-belt-support/cid/46853481-25d4-4126-947b-c6d96f0669f6/scid/4148a912-698c-4879-b113-c9c492ad84ed"
+    },
+    {
+      "category_slug": "stationery-books",
+      "subcategory_slug": "crafts-hobby",
+      "category_id": "0d74209d-c2e4-431b-98e0-c00a92766773",
+      "subcategory_id": "48df4626-0d5a-44e0-8c3a-f8be7bcd1d39",
+      "category_name": "Stationery Books",
+      "subcategory_name": "Crafts Hobby",
+      "url": "https://www.zepto.com/cn/stationery-books/crafts-hobby/cid/0d74209d-c2e4-431b-98e0-c00a92766773/scid/48df4626-0d5a-44e0-8c3a-f8be7bcd1d39"
+    },
+    {
+      "category_slug": "skincare",
+      "subcategory_slug": "sun-care",
+      "category_id": "d6c455aa-496b-4599-8f7d-81ecee8cf5a3",
+      "subcategory_id": "5974c50c-882f-423b-87c7-c1dd3eed36fa",
+      "category_name": "Skincare",
+      "subcategory_name": "Sun Care",
+      "url": "https://www.zepto.com/cn/skincare/sun-care/cid/d6c455aa-496b-4599-8f7d-81ecee8cf5a3/scid/5974c50c-882f-423b-87c7-c1dd3eed36fa"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "accessories",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "5abc480f-dd70-446b-bf23-56c2d0cde373",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Accessories",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/accessories/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/5abc480f-dd70-446b-bf23-56c2d0cde373"
+    },
+    {
+      "category_slug": "frozen-food",
+      "subcategory_slug": "sausages-salami-ham",
+      "category_id": "aae1447d-1403-4a5c-a65f-bcb3afb93b5e",
+      "subcategory_id": "5fd934bf-6fea-41e6-b7aa-9a98f45bf015",
+      "category_name": "Frozen Food",
+      "subcategory_name": "Sausages Salami Ham",
+      "url": "https://www.zepto.com/cn/frozen-food/sausages-salami-ham/cid/aae1447d-1403-4a5c-a65f-bcb3afb93b5e/scid/5fd934bf-6fea-41e6-b7aa-9a98f45bf015"
+    },
+    {
+      "category_slug": "dairy-bread-eggs",
+      "subcategory_slug": "butter",
+      "category_id": "4b938e02-7bde-4479-bc0a-2b54cb6bd5f5",
+      "subcategory_id": "62b2b1eb-cd07-41b2-b567-cc878d2287fc",
+      "category_name": "Dairy Bread Eggs",
+      "subcategory_name": "Butter",
+      "url": "https://www.zepto.com/cn/dairy-bread-eggs/butter/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/62b2b1eb-cd07-41b2-b567-cc878d2287fc"
+    },
+    {
+      "category_slug": "hair-care",
+      "subcategory_slug": "hair-styling",
+      "category_id": "513e1b9e-7f62-4063-bf57-4335521dc5de",
+      "subcategory_id": "712ad8fc-fc69-47f0-a8c5-a5d9525123ed",
+      "category_name": "Hair Care",
+      "subcategory_name": "Hair Styling",
+      "url": "https://www.zepto.com/cn/hair-care/hair-styling/cid/513e1b9e-7f62-4063-bf57-4335521dc5de/scid/712ad8fc-fc69-47f0-a8c5-a5d9525123ed"
+    },
+    {
+      "category_slug": "kitchen-dining",
+      "subcategory_slug": "pressure-cooker",
+      "category_id": "2423aa03-4219-4cab-a84d-92019f967003",
+      "subcategory_id": "73932e88-ac49-424e-b260-d3d100f0fdf2",
+      "category_name": "Kitchen Dining",
+      "subcategory_name": "Pressure Cooker",
+      "url": "https://www.zepto.com/cn/kitchen-dining/pressure-cooker/cid/2423aa03-4219-4cab-a84d-92019f967003/scid/73932e88-ac49-424e-b260-d3d100f0fdf2"
+    },
+    {
+      "category_slug": "electronics-appliances",
+      "subcategory_slug": "extensions-switches",
+      "category_id": "966dc8a0-8f21-420e-a897-8dd70b4228f6",
+      "subcategory_id": "8083facb-c674-4fca-b191-918645660943",
+      "category_name": "Electronics Appliances",
+      "subcategory_name": "Extensions Switches",
+      "url": "https://www.zepto.com/cn/electronics-appliances/extensions-switches/cid/966dc8a0-8f21-420e-a897-8dd70b4228f6/scid/8083facb-c674-4fca-b191-918645660943"
+    },
+    {
+      "category_slug": "pet-care",
+      "subcategory_slug": "cat-food",
+      "category_id": "13831a81-e0d5-4939-9650-df2413e7aead",
+      "subcategory_id": "8f39b80f-2682-4038-befa-c0001465647d",
+      "category_name": "Pet Care",
+      "subcategory_name": "Cat Food",
+      "url": "https://www.zepto.com/cn/pet-care/cat-food/cid/13831a81-e0d5-4939-9650-df2413e7aead/scid/8f39b80f-2682-4038-befa-c0001465647d"
+    },
+    {
+      "category_slug": "zepto-cafe",
+      "subcategory_slug": "finger-food",
+      "category_id": "dfe16918-81b1-49c3-941b-acd557f7c277",
+      "subcategory_id": "96deae2f-f49c-4a88-bcd2-ec98e7d4270c",
+      "category_name": "Zepto Cafe",
+      "subcategory_name": "Finger Food",
+      "url": "https://www.zepto.com/cn/zepto-cafe/finger-food/cid/dfe16918-81b1-49c3-941b-acd557f7c277/scid/96deae2f-f49c-4a88-bcd2-ec98e7d4270c"
+    },
+    {
+      "category_slug": "fruits-vegetables",
+      "subcategory_slug": "plants-gardening",
+      "category_id": "64374cfe-d06f-4a01-898e-c07c46462c36",
+      "subcategory_id": "97c725c2-41b3-4d78-ba3e-75e92b3ba054",
+      "category_name": "Fruits Vegetables",
+      "subcategory_name": "Plants Gardening",
+      "url": "https://www.zepto.com/cn/fruits-vegetables/plants-gardening/cid/64374cfe-d06f-4a01-898e-c07c46462c36/scid/97c725c2-41b3-4d78-ba3e-75e92b3ba054"
+    },
+    {
+      "category_slug": "protein-nutrition",
+      "subcategory_slug": "protein-bites",
+      "category_id": "2e75e2ea-5cb9-4f14-8a66-f3a61addeb32",
+      "subcategory_id": "9fceafd9-e65a-4492-9bc8-40af5c2021eb",
+      "category_name": "Protein Nutrition",
+      "subcategory_name": "Protein Bites",
+      "url": "https://www.zepto.com/cn/protein-nutrition/protein-bites/cid/2e75e2ea-5cb9-4f14-8a66-f3a61addeb32/scid/9fceafd9-e65a-4492-9bc8-40af5c2021eb"
+    },
+    {
+      "category_slug": "cleaning-essentials",
+      "subcategory_slug": "laundry-additives",
+      "category_id": "1a7e46a8-e627-450f-8960-490b550eeee6",
+      "subcategory_id": "a625cca0-c8fe-495b-b4d7-c2c802d6d05e",
+      "category_name": "Cleaning Essentials",
+      "subcategory_name": "Laundry Additives",
+      "url": "https://www.zepto.com/cn/cleaning-essentials/laundry-additives/cid/1a7e46a8-e627-450f-8960-490b550eeee6/scid/a625cca0-c8fe-495b-b4d7-c2c802d6d05e"
+    },
+    {
+      "category_slug": "fruits-vegetables",
+      "subcategory_slug": "dried-dehydrated",
+      "category_id": "64374cfe-d06f-4a01-898e-c07c46462c36",
+      "subcategory_id": "ac416c10-4eee-45bb-b1ec-3a91e89c32d5",
+      "category_name": "Fruits Vegetables",
+      "subcategory_name": "Dried Dehydrated",
+      "url": "https://www.zepto.com/cn/fruits-vegetables/dried-dehydrated/cid/64374cfe-d06f-4a01-898e-c07c46462c36/scid/ac416c10-4eee-45bb-b1ec-3a91e89c32d5"
+    },
+    {
+      "category_slug": "meats-fish-eggs",
+      "subcategory_slug": "mutton",
+      "category_id": "4654bd8a-fb30-4ee1-ab30-4bf581b6c6e3",
+      "subcategory_id": "af20acbf-4144-4482-8e42-1352843803a1",
+      "category_name": "Meats Fish Eggs",
+      "subcategory_name": "Mutton",
+      "url": "https://www.zepto.com/cn/meats-fish-eggs/mutton/cid/4654bd8a-fb30-4ee1-ab30-4bf581b6c6e3/scid/af20acbf-4144-4482-8e42-1352843803a1"
+    },
+    {
+      "category_slug": "pet-care",
+      "subcategory_slug": "dog-food",
+      "category_id": "13831a81-e0d5-4939-9650-df2413e7aead",
+      "subcategory_id": "b9a580ee-15b6-43a0-be46-56fb0313d72f",
+      "category_name": "Pet Care",
+      "subcategory_name": "Dog Food",
+      "url": "https://www.zepto.com/cn/pet-care/dog-food/cid/13831a81-e0d5-4939-9650-df2413e7aead/scid/b9a580ee-15b6-43a0-be46-56fb0313d72f"
+    },
+    {
+      "category_slug": "protein-nutrition",
+      "subcategory_slug": "plant-vegan-protein",
+      "category_id": "2e75e2ea-5cb9-4f14-8a66-f3a61addeb32",
+      "subcategory_id": "b9b12b80-90c1-43dc-90f6-ace68e7ca9ea",
+      "category_name": "Protein Nutrition",
+      "subcategory_name": "Plant Vegan Protein",
+      "url": "https://www.zepto.com/cn/protein-nutrition/plant-vegan-protein/cid/2e75e2ea-5cb9-4f14-8a66-f3a61addeb32/scid/b9b12b80-90c1-43dc-90f6-ace68e7ca9ea"
+    },
+    {
+      "category_slug": "breakfast-sauces",
+      "subcategory_slug": "breakfast-cereals",
+      "category_id": "f804bccc-c565-4879-b6ab-1b964bb1ed41",
+      "subcategory_id": "c07e4c22-d076-45b0-9c73-92c117956810",
+      "category_name": "Breakfast Sauces",
+      "subcategory_name": "Breakfast Cereals",
+      "url": "https://www.zepto.com/cn/breakfast-sauces/breakfast-cereals/cid/f804bccc-c565-4879-b6ab-1b964bb1ed41/scid/c07e4c22-d076-45b0-9c73-92c117956810"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "men-s-swimwear",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "c343fdfb-e13f-4287-abd9-6ec4562a868e",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Men S Swimwear",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/men-s-swimwear/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/c343fdfb-e13f-4287-abd9-6ec4562a868e"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "unisex-topwear",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "daaeed64-1ad4-4558-b30e-fc923d59d632",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Unisex Topwear",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/unisex-topwear/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/daaeed64-1ad4-4558-b30e-fc923d59d632"
+    },
+    {
+      "category_slug": "hair-care",
+      "subcategory_slug": "conditioner-masks",
+      "category_id": "513e1b9e-7f62-4063-bf57-4335521dc5de",
+      "subcategory_id": "df093b75-6746-46b4-8098-c98af571d274",
+      "category_name": "Hair Care",
+      "subcategory_name": "Conditioner Masks",
+      "url": "https://www.zepto.com/cn/hair-care/conditioner-masks/cid/513e1b9e-7f62-4063-bf57-4335521dc5de/scid/df093b75-6746-46b4-8098-c98af571d274"
+    },
+    {
+      "category_slug": "pet-care",
+      "subcategory_slug": "pet-accessories",
+      "category_id": "13831a81-e0d5-4939-9650-df2413e7aead",
+      "subcategory_id": "e5e02476-3270-4dea-9b65-20a1c213c996",
+      "category_name": "Pet Care",
+      "subcategory_name": "Pet Accessories",
+      "url": "https://www.zepto.com/cn/pet-care/pet-accessories/cid/13831a81-e0d5-4939-9650-df2413e7aead/scid/e5e02476-3270-4dea-9b65-20a1c213c996"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "girls-ethnic-wear",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "eb2bf675-91f1-4d72-9d10-71e515b0080c",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Girls Ethnic Wear",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/girls-ethnic-wear/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/eb2bf675-91f1-4d72-9d10-71e515b0080c"
+    },
+    {
+      "category_slug": "sample-box",
+      "subcategory_slug": "sample-box",
+      "category_id": "0ac80cac-d7d0-4d86-8d44-490673cbf3eb",
+      "subcategory_id": "ecbdd2d1-a99b-40de-8711-2943e072562d",
+      "category_name": "Sample Box",
+      "subcategory_name": "Sample Box",
+      "url": "https://www.zepto.com/cn/sample-box/sample-box/cid/0ac80cac-d7d0-4d86-8d44-490673cbf3eb/scid/ecbdd2d1-a99b-40de-8711-2943e072562d"
+    },
+    {
+      "category_slug": "zepto-cafe",
+      "subcategory_slug": "sandwiches",
+      "category_id": "dfe16918-81b1-49c3-941b-acd557f7c277",
+      "subcategory_id": "f0ef0062-be46-4c9f-9acb-339697171a0d",
+      "category_name": "Zepto Cafe",
+      "subcategory_name": "Sandwiches",
+      "url": "https://www.zepto.com/cn/zepto-cafe/sandwiches/cid/dfe16918-81b1-49c3-941b-acd557f7c277/scid/f0ef0062-be46-4c9f-9acb-339697171a0d"
+    },
+    {
+      "category_slug": "print",
+      "subcategory_slug": "custom-print",
+      "category_id": "ac145185-6604-4fc3-8730-8510b025ca03",
+      "subcategory_id": "f313fd66-6477-4016-88dc-33b3b355d951",
+      "category_name": "Print",
+      "subcategory_name": "Custom Print",
+      "url": "https://www.zepto.com/cn/print/custom-print/cid/ac145185-6604-4fc3-8730-8510b025ca03/scid/f313fd66-6477-4016-88dc-33b3b355d951"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "unisex-footwear",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "f54ff4dd-82fc-4544-a649-dc246321501a",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Unisex Footwear",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/unisex-footwear/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/f54ff4dd-82fc-4544-a649-dc246321501a"
+    },
+    {
+      "category_slug": "dairy-bread-eggs",
+      "subcategory_slug": "cheese",
+      "category_id": "4b938e02-7bde-4479-bc0a-2b54cb6bd5f5",
+      "subcategory_id": "f594b28a-4775-48ac-8840-b9030229ff87",
+      "category_name": "Dairy Bread Eggs",
+      "subcategory_name": "Cheese",
+      "url": "https://www.zepto.com/cn/dairy-bread-eggs/cheese/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/f594b28a-4775-48ac-8840-b9030229ff87"
+    },
+    {
+      "category_slug": "jewellery",
+      "subcategory_slug": "earrings",
+      "category_id": "27b4b613-108e-4c77-91e6-b839d542385b",
+      "subcategory_id": "02413d26-639d-4488-b6ad-f285b0fe3ab6",
+      "category_name": "Jewellery",
+      "subcategory_name": "Earrings",
+      "url": "https://www.zepto.com/cn/jewellery/earrings/cid/27b4b613-108e-4c77-91e6-b839d542385b/scid/02413d26-639d-4488-b6ad-f285b0fe3ab6"
+    },
+    {
+      "category_slug": "home-needs",
+      "subcategory_slug": "cleaning-aids",
+      "category_id": "ac7b3ee1-98cb-48b8-8c62-27f47b4185a2",
+      "subcategory_id": "02f8b966-5104-4be7-bac5-a5845ef3c0df",
+      "category_name": "Home Needs",
+      "subcategory_name": "Cleaning Aids",
+      "url": "https://www.zepto.com/cn/home-needs/cleaning-aids/cid/ac7b3ee1-98cb-48b8-8c62-27f47b4185a2/scid/02f8b966-5104-4be7-bac5-a5845ef3c0df"
+    },
+    {
+      "category_slug": "fruits-vegetables",
+      "subcategory_slug": "exotics-premium",
+      "category_id": "64374cfe-d06f-4a01-898e-c07c46462c36",
+      "subcategory_id": "0a065d7d-ea57-4359-9900-b03425028d47",
+      "category_name": "Fruits Vegetables",
+      "subcategory_name": "Exotics Premium",
+      "url": "https://www.zepto.com/cn/fruits-vegetables/exotics-premium/cid/64374cfe-d06f-4a01-898e-c07c46462c36/scid/0a065d7d-ea57-4359-9900-b03425028d47"
+    },
+    {
+      "category_slug": "zepto-cafe",
+      "subcategory_slug": "starters",
+      "category_id": "dfe16918-81b1-49c3-941b-acd557f7c277",
+      "subcategory_id": "0bac5d41-bd2b-41fc-86ad-f7a05a11d8ae",
+      "category_name": "Zepto Cafe",
+      "subcategory_name": "Starters",
+      "url": "https://www.zepto.com/cn/zepto-cafe/starters/cid/dfe16918-81b1-49c3-941b-acd557f7c277/scid/0bac5d41-bd2b-41fc-86ad-f7a05a11d8ae"
+    },
+    {
+      "category_slug": "bath-body",
+      "subcategory_slug": "gifting",
+      "category_id": "26e64367-19ad-4f80-a763-42599d4215ee",
+      "subcategory_id": "0c4a0603-e067-47b0-97ea-f9cee6d679ad",
+      "category_name": "Bath Body",
+      "subcategory_name": "Gifting",
+      "url": "https://www.zepto.com/cn/bath-body/gifting/cid/26e64367-19ad-4f80-a763-42599d4215ee/scid/0c4a0603-e067-47b0-97ea-f9cee6d679ad"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "boys-ethnic-wear",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "15b3c861-26ca-4655-8198-fe1f53e12ec6",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Boys Ethnic Wear",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/boys-ethnic-wear/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/15b3c861-26ca-4655-8198-fe1f53e12ec6"
+    },
+    {
+      "category_slug": "sexual-wellness",
+      "subcategory_slug": "personal-massager-vibrator",
+      "category_id": "5ff01c62-4d1a-4eae-b566-2fe3b345abe9",
+      "subcategory_id": "1c3ad1c2-76e8-4097-b2ca-99c180d23b96",
+      "category_name": "Sexual Wellness",
+      "subcategory_name": "Personal Massager Vibrator",
+      "url": "https://www.zepto.com/cn/sexual-wellness/personal-massager-vibrator/cid/5ff01c62-4d1a-4eae-b566-2fe3b345abe9/scid/1c3ad1c2-76e8-4097-b2ca-99c180d23b96"
+    },
+    {
+      "category_slug": "pet-care",
+      "subcategory_slug": "small-pet-food",
+      "category_id": "13831a81-e0d5-4939-9650-df2413e7aead",
+      "subcategory_id": "1e3e34ac-a167-4e8b-97a7-0fc1b5f32590",
+      "category_name": "Pet Care",
+      "subcategory_name": "Small Pet Food",
+      "url": "https://www.zepto.com/cn/pet-care/small-pet-food/cid/13831a81-e0d5-4939-9650-df2413e7aead/scid/1e3e34ac-a167-4e8b-97a7-0fc1b5f32590"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "women-s-ethnic-wear",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "341308ef-4209-4973-a486-bdb22b17e39a",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Women S Ethnic Wear",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/women-s-ethnic-wear/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/341308ef-4209-4973-a486-bdb22b17e39a"
+    },
+    {
+      "category_slug": "toys-sports",
+      "subcategory_slug": "blocks-puzzles",
+      "category_id": "fd1438dc-e1a8-49f9-87a3-2645a613ceeb",
+      "subcategory_id": "399e709d-3c0e-4bf0-8772-9b9b812fedc4",
+      "category_name": "Toys Sports",
+      "subcategory_name": "Blocks Puzzles",
+      "url": "https://www.zepto.com/cn/toys-sports/blocks-puzzles/cid/fd1438dc-e1a8-49f9-87a3-2645a613ceeb/scid/399e709d-3c0e-4bf0-8772-9b9b812fedc4"
+    },
+    {
+      "category_slug": "cleaning-essentials",
+      "subcategory_slug": "repellents",
+      "category_id": "1a7e46a8-e627-450f-8960-490b550eeee6",
+      "subcategory_id": "3b8d9db5-1953-4593-b4ce-8593f6fbd67a",
+      "category_name": "Cleaning Essentials",
+      "subcategory_name": "Repellents",
+      "url": "https://www.zepto.com/cn/cleaning-essentials/repellents/cid/1a7e46a8-e627-450f-8960-490b550eeee6/scid/3b8d9db5-1953-4593-b4ce-8593f6fbd67a"
+    },
+    {
+      "category_slug": "pharma-wellness",
+      "subcategory_slug": "first-aid",
+      "category_id": "46853481-25d4-4126-947b-c6d96f0669f6",
+      "subcategory_id": "49f6f8ea-1cd9-4808-8f64-cf5c0ab62bb6",
+      "category_name": "Pharma Wellness",
+      "subcategory_name": "First Aid",
+      "url": "https://www.zepto.com/cn/pharma-wellness/first-aid/cid/46853481-25d4-4126-947b-c6d96f0669f6/scid/49f6f8ea-1cd9-4808-8f64-cf5c0ab62bb6"
+    },
+    {
+      "category_slug": "feminine-hygiene",
+      "subcategory_slug": "sanitary-pads",
+      "category_id": "72066480-9851-4263-89b6-50dd7525edc1",
+      "subcategory_id": "4ec95583-3060-4d3a-95ed-757a6728b32a",
+      "category_name": "Feminine Hygiene",
+      "subcategory_name": "Sanitary Pads",
+      "url": "https://www.zepto.com/cn/feminine-hygiene/sanitary-pads/cid/72066480-9851-4263-89b6-50dd7525edc1/scid/4ec95583-3060-4d3a-95ed-757a6728b32a"
+    },
+    {
+      "category_slug": "electronics-appliances",
+      "subcategory_slug": "grooming",
+      "category_id": "966dc8a0-8f21-420e-a897-8dd70b4228f6",
+      "subcategory_id": "543b308b-8384-455f-bcaa-47f7d0f7b6de",
+      "category_name": "Electronics Appliances",
+      "subcategory_name": "Grooming",
+      "url": "https://www.zepto.com/cn/electronics-appliances/grooming/cid/966dc8a0-8f21-420e-a897-8dd70b4228f6/scid/543b308b-8384-455f-bcaa-47f7d0f7b6de"
+    },
+    {
+      "category_slug": "feminine-hygiene",
+      "subcategory_slug": "hair-removal-for-women",
+      "category_id": "72066480-9851-4263-89b6-50dd7525edc1",
+      "subcategory_id": "56983fec-fd04-4190-9587-20e0a6fc4642",
+      "category_name": "Feminine Hygiene",
+      "subcategory_name": "Hair Removal For Women",
+      "url": "https://www.zepto.com/cn/feminine-hygiene/hair-removal-for-women/cid/72066480-9851-4263-89b6-50dd7525edc1/scid/56983fec-fd04-4190-9587-20e0a6fc4642"
+    },
+    {
+      "category_slug": "toys-sports",
+      "subcategory_slug": "musical-accessories",
+      "category_id": "fd1438dc-e1a8-49f9-87a3-2645a613ceeb",
+      "subcategory_id": "5aa0d910-204b-41be-9cc3-398fb9376658",
+      "category_name": "Toys Sports",
+      "subcategory_name": "Musical Accessories",
+      "url": "https://www.zepto.com/cn/toys-sports/musical-accessories/cid/fd1438dc-e1a8-49f9-87a3-2645a613ceeb/scid/5aa0d910-204b-41be-9cc3-398fb9376658"
+    },
+    {
+      "category_slug": "zepto-cafe",
+      "subcategory_slug": "disposables",
+      "category_id": "dfe16918-81b1-49c3-941b-acd557f7c277",
+      "subcategory_id": "5c7dce36-ed1b-4090-9194-88e93cbb079e",
+      "category_name": "Zepto Cafe",
+      "subcategory_name": "Disposables",
+      "url": "https://www.zepto.com/cn/zepto-cafe/disposables/cid/dfe16918-81b1-49c3-941b-acd557f7c277/scid/5c7dce36-ed1b-4090-9194-88e93cbb079e"
+    },
+    {
+      "category_slug": "feminine-hygiene",
+      "subcategory_slug": "personal-safety",
+      "category_id": "72066480-9851-4263-89b6-50dd7525edc1",
+      "subcategory_id": "5e6c1e19-a951-4f60-b6b2-b33b7a513673",
+      "category_name": "Feminine Hygiene",
+      "subcategory_name": "Personal Safety",
+      "url": "https://www.zepto.com/cn/feminine-hygiene/personal-safety/cid/72066480-9851-4263-89b6-50dd7525edc1/scid/5e6c1e19-a951-4f60-b6b2-b33b7a513673"
+    },
+    {
+      "category_slug": "makeup-beauty",
+      "subcategory_slug": "nails",
+      "category_id": "2e5eae34-1666-4ddc-8903-76e6547f72e4",
+      "subcategory_id": "604d6342-f5c9-4187-82fe-9a2f859c9d69",
+      "category_name": "Makeup Beauty",
+      "subcategory_name": "Nails",
+      "url": "https://www.zepto.com/cn/makeup-beauty/nails/cid/2e5eae34-1666-4ddc-8903-76e6547f72e4/scid/604d6342-f5c9-4187-82fe-9a2f859c9d69"
+    },
+    {
+      "category_slug": "kitchen-dining",
+      "subcategory_slug": "drinkware-bar",
+      "category_id": "2423aa03-4219-4cab-a84d-92019f967003",
+      "subcategory_id": "7c9ee826-150f-4ca3-be34-c6a66e285456",
+      "category_name": "Kitchen Dining",
+      "subcategory_name": "Drinkware Bar",
+      "url": "https://www.zepto.com/cn/kitchen-dining/drinkware-bar/cid/2423aa03-4219-4cab-a84d-92019f967003/scid/7c9ee826-150f-4ca3-be34-c6a66e285456"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "men-s-ethnic-wear",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "7e602b81-46a1-42c5-aeb0-2115f30c3949",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Men S Ethnic Wear",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/men-s-ethnic-wear/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/7e602b81-46a1-42c5-aeb0-2115f30c3949"
+    },
+    {
+      "category_slug": "masala-dry-fruits-more",
+      "subcategory_slug": "powders-pastes",
+      "category_id": "0c2ccf87-e32c-4438-9560-8d9488fc73e0",
+      "subcategory_id": "80f4308e-91ad-4cc4-b804-57783fe4c667",
+      "category_name": "Masala Dry Fruits More",
+      "subcategory_name": "Powders Pastes",
+      "url": "https://www.zepto.com/cn/masala-dry-fruits-more/powders-pastes/cid/0c2ccf87-e32c-4438-9560-8d9488fc73e0/scid/80f4308e-91ad-4cc4-b804-57783fe4c667"
+    },
+    {
+      "category_slug": "zepto-cafe",
+      "subcategory_slug": "wholesome-meals",
+      "category_id": "dfe16918-81b1-49c3-941b-acd557f7c277",
+      "subcategory_id": "8caa0e1a-4bb5-413f-be30-82cc9d15e1fc",
+      "category_name": "Zepto Cafe",
+      "subcategory_name": "Wholesome Meals",
+      "url": "https://www.zepto.com/cn/zepto-cafe/wholesome-meals/cid/dfe16918-81b1-49c3-941b-acd557f7c277/scid/8caa0e1a-4bb5-413f-be30-82cc9d15e1fc"
+    },
+    {
+      "category_slug": "bath-body",
+      "subcategory_slug": "electric-toothbrush",
+      "category_id": "26e64367-19ad-4f80-a763-42599d4215ee",
+      "subcategory_id": "9483e2f2-471b-4e28-8b28-900af92e8675",
+      "category_name": "Bath Body",
+      "subcategory_name": "Electric Toothbrush",
+      "url": "https://www.zepto.com/cn/bath-body/electric-toothbrush/cid/26e64367-19ad-4f80-a763-42599d4215ee/scid/9483e2f2-471b-4e28-8b28-900af92e8675"
+    },
+    {
+      "category_slug": "biscuits",
+      "subcategory_slug": "crackers",
+      "category_id": "2552acf2-2f77-4714-adc8-e505de3985db",
+      "subcategory_id": "9fbe608d-c5b9-4ade-b1cb-09eb1a493bb0",
+      "category_name": "Biscuits",
+      "subcategory_name": "Crackers",
+      "url": "https://www.zepto.com/cn/biscuits/crackers/cid/2552acf2-2f77-4714-adc8-e505de3985db/scid/9fbe608d-c5b9-4ade-b1cb-09eb1a493bb0"
+    },
+    {
+      "category_slug": "jewellery",
+      "subcategory_slug": "others",
+      "category_id": "27b4b613-108e-4c77-91e6-b839d542385b",
+      "subcategory_id": "a0d59f8c-fe33-4fd4-ab45-5b3eddc3f815",
+      "category_name": "Jewellery",
+      "subcategory_name": "Others",
+      "url": "https://www.zepto.com/cn/jewellery/others/cid/27b4b613-108e-4c77-91e6-b839d542385b/scid/a0d59f8c-fe33-4fd4-ab45-5b3eddc3f815"
+    },
+    {
+      "category_slug": "bath-body",
+      "subcategory_slug": "body-creams",
+      "category_id": "26e64367-19ad-4f80-a763-42599d4215ee",
+      "subcategory_id": "b04152b0-3d75-4cc6-91e0-8b158f08a978",
+      "category_name": "Bath Body",
+      "subcategory_name": "Body Creams",
+      "url": "https://www.zepto.com/cn/bath-body/body-creams/cid/26e64367-19ad-4f80-a763-42599d4215ee/scid/b04152b0-3d75-4cc6-91e0-8b158f08a978"
+    },
+    {
+      "category_slug": "munchies",
+      "subcategory_slug": "nachos",
+      "category_id": "d2c2a144-43cd-43e5-b308-92628fa68596",
+      "subcategory_id": "b3a8697a-e355-4368-976d-c389ff34a90e",
+      "category_name": "Munchies",
+      "subcategory_name": "Nachos",
+      "url": "https://www.zepto.com/cn/munchies/nachos/cid/d2c2a144-43cd-43e5-b308-92628fa68596/scid/b3a8697a-e355-4368-976d-c389ff34a90e"
+    },
+    {
+      "category_slug": "munchies",
+      "subcategory_slug": "namkeens",
+      "category_id": "d2c2a144-43cd-43e5-b308-92628fa68596",
+      "subcategory_id": "bfd35e8f-39b8-483f-8e3a-b80231d614ce",
+      "category_name": "Munchies",
+      "subcategory_name": "Namkeens",
+      "url": "https://www.zepto.com/cn/munchies/namkeens/cid/d2c2a144-43cd-43e5-b308-92628fa68596/scid/bfd35e8f-39b8-483f-8e3a-b80231d614ce"
+    },
+    {
+      "category_slug": "meats-fish-eggs",
+      "subcategory_slug": "fish-sea-food",
+      "category_id": "4654bd8a-fb30-4ee1-ab30-4bf581b6c6e3",
+      "subcategory_id": "c41382e7-5331-4116-ab96-8cf25af8eab9",
+      "category_name": "Meats Fish Eggs",
+      "subcategory_name": "Fish Sea Food",
+      "url": "https://www.zepto.com/cn/meats-fish-eggs/fish-sea-food/cid/4654bd8a-fb30-4ee1-ab30-4bf581b6c6e3/scid/c41382e7-5331-4116-ab96-8cf25af8eab9"
+    },
+    {
+      "category_slug": "zepto-cafe",
+      "subcategory_slug": "healthy",
+      "category_id": "dfe16918-81b1-49c3-941b-acd557f7c277",
+      "subcategory_id": "ca0e30c7-34a3-4456-a5cc-f441527eab89",
+      "category_name": "Zepto Cafe",
+      "subcategory_name": "Healthy",
+      "url": "https://www.zepto.com/cn/zepto-cafe/healthy/cid/dfe16918-81b1-49c3-941b-acd557f7c277/scid/ca0e30c7-34a3-4456-a5cc-f441527eab89"
+    },
+    {
+      "category_slug": "sexual-wellness",
+      "subcategory_slug": "sexual-performance-enhancers",
+      "category_id": "5ff01c62-4d1a-4eae-b566-2fe3b345abe9",
+      "subcategory_id": "cf00a777-c849-4320-ab53-1de76a3dc68b",
+      "category_name": "Sexual Wellness",
+      "subcategory_name": "Sexual Performance Enhancers",
+      "url": "https://www.zepto.com/cn/sexual-wellness/sexual-performance-enhancers/cid/5ff01c62-4d1a-4eae-b566-2fe3b345abe9/scid/cf00a777-c849-4320-ab53-1de76a3dc68b"
+    },
+    {
+      "category_slug": "protein-nutrition",
+      "subcategory_slug": "bcaa-more",
+      "category_id": "2e75e2ea-5cb9-4f14-8a66-f3a61addeb32",
+      "subcategory_id": "d27d911a-5d7a-481b-9a62-6eca5cbbbb9c",
+      "category_name": "Protein Nutrition",
+      "subcategory_name": "Bcaa More",
+      "url": "https://www.zepto.com/cn/protein-nutrition/bcaa-more/cid/2e75e2ea-5cb9-4f14-8a66-f3a61addeb32/scid/d27d911a-5d7a-481b-9a62-6eca5cbbbb9c"
+    },
+    {
+      "category_slug": "packaged-food",
+      "subcategory_slug": "noodles-vermicelli",
+      "category_id": "5736ad99-f589-4d58-a24b-a12222320a37",
+      "subcategory_id": "d5fbe386-0579-4461-b88b-af427ffb31ea",
+      "category_name": "Packaged Food",
+      "subcategory_name": "Noodles Vermicelli",
+      "url": "https://www.zepto.com/cn/packaged-food/noodles-vermicelli/cid/5736ad99-f589-4d58-a24b-a12222320a37/scid/d5fbe386-0579-4461-b88b-af427ffb31ea"
+    },
+    {
+      "category_slug": "dairy-bread-eggs",
+      "subcategory_slug": "eggs",
+      "category_id": "4b938e02-7bde-4479-bc0a-2b54cb6bd5f5",
+      "subcategory_id": "d638f064-e7f3-4161-b692-a3f472c64020",
+      "category_name": "Dairy Bread Eggs",
+      "subcategory_name": "Eggs",
+      "url": "https://www.zepto.com/cn/dairy-bread-eggs/eggs/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/d638f064-e7f3-4161-b692-a3f472c64020"
+    },
+    {
+      "category_slug": "zepto-cafe",
+      "subcategory_slug": "beverages",
+      "category_id": "dfe16918-81b1-49c3-941b-acd557f7c277",
+      "subcategory_id": "de748171-e699-4572-9350-39542956d143",
+      "category_name": "Zepto Cafe",
+      "subcategory_name": "Beverages",
+      "url": "https://www.zepto.com/cn/zepto-cafe/beverages/cid/dfe16918-81b1-49c3-941b-acd557f7c277/scid/de748171-e699-4572-9350-39542956d143"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "watches",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "e76f5c6a-8efb-4ddf-970c-b0190e96cb9a",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Watches",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/watches/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/e76f5c6a-8efb-4ddf-970c-b0190e96cb9a"
+    },
+    {
+      "category_slug": "fruits-vegetables",
+      "subcategory_slug": "flowers-leaves",
+      "category_id": "64374cfe-d06f-4a01-898e-c07c46462c36",
+      "subcategory_id": "ec911f07-e53f-4086-81e7-089a789860c8",
+      "category_name": "Fruits Vegetables",
+      "subcategory_name": "Flowers Leaves",
+      "url": "https://www.zepto.com/cn/fruits-vegetables/flowers-leaves/cid/64374cfe-d06f-4a01-898e-c07c46462c36/scid/ec911f07-e53f-4086-81e7-089a789860c8"
+    },
+    {
+      "category_slug": "cleaning-essentials",
+      "subcategory_slug": "dishwash-gels-bars",
+      "category_id": "1a7e46a8-e627-450f-8960-490b550eeee6",
+      "subcategory_id": "f370ad06-83f2-4831-95dd-644c675e068f",
+      "category_name": "Cleaning Essentials",
+      "subcategory_name": "Dishwash Gels Bars",
+      "url": "https://www.zepto.com/cn/cleaning-essentials/dishwash-gels-bars/cid/1a7e46a8-e627-450f-8960-490b550eeee6/scid/f370ad06-83f2-4831-95dd-644c675e068f"
+    },
+    {
+      "category_slug": "pharma-wellness",
+      "subcategory_slug": "prescription-medicines",
+      "category_id": "46853481-25d4-4126-947b-c6d96f0669f6",
+      "subcategory_id": "fc5e7891-de36-4a15-b39c-77f96620caae",
+      "category_name": "Pharma Wellness",
+      "subcategory_name": "Prescription Medicines",
+      "url": "https://www.zepto.com/cn/pharma-wellness/prescription-medicines/cid/46853481-25d4-4126-947b-c6d96f0669f6/scid/fc5e7891-de36-4a15-b39c-77f96620caae"
+    },
+    {
+      "category_slug": "sweet-cravings",
+      "subcategory_slug": "premium-chocolates",
+      "category_id": "adab2f81-7140-4fe9-b8cf-3d809f40e38a",
+      "subcategory_id": "fda4043f-c6b5-4edb-bc74-9173c334499a",
+      "category_name": "Sweet Cravings",
+      "subcategory_name": "Premium Chocolates",
+      "url": "https://www.zepto.com/cn/sweet-cravings/premium-chocolates/cid/adab2f81-7140-4fe9-b8cf-3d809f40e38a/scid/fda4043f-c6b5-4edb-bc74-9173c334499a"
+    },
+    {
+      "category_slug": "tea-coffee-more",
+      "subcategory_slug": "coffee",
+      "category_id": "d7e98d87-6850-4cf9-a37c-e4fa34ae302c",
+      "subcategory_id": "0055bf0a-f578-4fa7-8b98-0c6e446bbe29",
+      "category_name": "Tea Coffee More",
+      "subcategory_name": "Coffee",
+      "url": "https://www.zepto.com/cn/tea-coffee-more/coffee/cid/d7e98d87-6850-4cf9-a37c-e4fa34ae302c/scid/0055bf0a-f578-4fa7-8b98-0c6e446bbe29"
+    },
+    {
+      "category_slug": "pharma-wellness",
+      "subcategory_slug": "fitness",
+      "category_id": "46853481-25d4-4126-947b-c6d96f0669f6",
+      "subcategory_id": "05eeda57-14cb-44d4-8877-6a0b37a02958",
+      "category_name": "Pharma Wellness",
+      "subcategory_name": "Fitness",
+      "url": "https://www.zepto.com/cn/pharma-wellness/fitness/cid/46853481-25d4-4126-947b-c6d96f0669f6/scid/05eeda57-14cb-44d4-8877-6a0b37a02958"
+    },
+    {
+      "category_slug": "fragrances-grooming",
+      "subcategory_slug": "hair-removal",
+      "category_id": "875671b0-ec18-42c7-9749-c2cf165509fa",
+      "subcategory_id": "0d277dd3-84d4-4ff2-9b21-fa47902a13db",
+      "category_name": "Fragrances Grooming",
+      "subcategory_name": "Hair Removal",
+      "url": "https://www.zepto.com/cn/fragrances-grooming/hair-removal/cid/875671b0-ec18-42c7-9749-c2cf165509fa/scid/0d277dd3-84d4-4ff2-9b21-fa47902a13db"
+    },
+    {
+      "category_slug": "protein-nutrition",
+      "subcategory_slug": "creatine",
+      "category_id": "2e75e2ea-5cb9-4f14-8a66-f3a61addeb32",
+      "subcategory_id": "0fbaaa9a-08ba-4922-8755-239e8fb9b3d0",
+      "category_name": "Protein Nutrition",
+      "subcategory_name": "Creatine",
+      "url": "https://www.zepto.com/cn/protein-nutrition/creatine/cid/2e75e2ea-5cb9-4f14-8a66-f3a61addeb32/scid/0fbaaa9a-08ba-4922-8755-239e8fb9b3d0"
+    },
+    {
+      "category_slug": "electronics-appliances",
+      "subcategory_slug": "speakers",
+      "category_id": "966dc8a0-8f21-420e-a897-8dd70b4228f6",
+      "subcategory_id": "12774732-504b-47e7-a333-8da6fc354fd3",
+      "category_name": "Electronics Appliances",
+      "subcategory_name": "Speakers",
+      "url": "https://www.zepto.com/cn/electronics-appliances/speakers/cid/966dc8a0-8f21-420e-a897-8dd70b4228f6/scid/12774732-504b-47e7-a333-8da6fc354fd3"
+    },
+    {
+      "category_slug": "makeup-beauty",
+      "subcategory_slug": "lips-makeup",
+      "category_id": "2e5eae34-1666-4ddc-8903-76e6547f72e4",
+      "subcategory_id": "127cb167-131a-487c-a81d-9d32edeca0d7",
+      "category_name": "Makeup Beauty",
+      "subcategory_name": "Lips Makeup",
+      "url": "https://www.zepto.com/cn/makeup-beauty/lips-makeup/cid/2e5eae34-1666-4ddc-8903-76e6547f72e4/scid/127cb167-131a-487c-a81d-9d32edeca0d7"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "women-s-topwear",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "1382afd2-ef33-48dd-8848-f6a162bac239",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Women S Topwear",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/women-s-topwear/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/1382afd2-ef33-48dd-8848-f6a162bac239"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "eyewear",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "139f6438-978d-4f38-bf8b-7eed3ebfd90f",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Eyewear",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/eyewear/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/139f6438-978d-4f38-bf8b-7eed3ebfd90f"
+    },
+    {
+      "category_slug": "electronics-appliances",
+      "subcategory_slug": "batteries",
+      "category_id": "966dc8a0-8f21-420e-a897-8dd70b4228f6",
+      "subcategory_id": "13dd40bb-8771-492f-aa9c-847570b762a3",
+      "category_name": "Electronics Appliances",
+      "subcategory_name": "Batteries",
+      "url": "https://www.zepto.com/cn/electronics-appliances/batteries/cid/966dc8a0-8f21-420e-a897-8dd70b4228f6/scid/13dd40bb-8771-492f-aa9c-847570b762a3"
+    },
+    {
+      "category_slug": "electronics-appliances",
+      "subcategory_slug": "cables-chargers-powerbanks",
+      "category_id": "966dc8a0-8f21-420e-a897-8dd70b4228f6",
+      "subcategory_id": "142676b2-d759-4f6c-90e9-4fb21d5ad3fe",
+      "category_name": "Electronics Appliances",
+      "subcategory_name": "Cables Chargers Powerbanks",
+      "url": "https://www.zepto.com/cn/electronics-appliances/cables-chargers-powerbanks/cid/966dc8a0-8f21-420e-a897-8dd70b4228f6/scid/142676b2-d759-4f6c-90e9-4fb21d5ad3fe"
+    },
+    {
+      "category_slug": "protein-nutrition",
+      "subcategory_slug": "mass-gainer",
+      "category_id": "2e75e2ea-5cb9-4f14-8a66-f3a61addeb32",
+      "subcategory_id": "1cc48489-160c-4ad1-a808-04851b747bcc",
+      "category_name": "Protein Nutrition",
+      "subcategory_name": "Mass Gainer",
+      "url": "https://www.zepto.com/cn/protein-nutrition/mass-gainer/cid/2e75e2ea-5cb9-4f14-8a66-f3a61addeb32/scid/1cc48489-160c-4ad1-a808-04851b747bcc"
+    },
+    {
+      "category_slug": "kitchen-dining",
+      "subcategory_slug": "cookware",
+      "category_id": "2423aa03-4219-4cab-a84d-92019f967003",
+      "subcategory_id": "1d50b537-f037-4cc7-b33a-56d2116ba75d",
+      "category_name": "Kitchen Dining",
+      "subcategory_name": "Cookware",
+      "url": "https://www.zepto.com/cn/kitchen-dining/cookware/cid/2423aa03-4219-4cab-a84d-92019f967003/scid/1d50b537-f037-4cc7-b33a-56d2116ba75d"
+    },
+    {
+      "category_slug": "dairy-bread-eggs",
+      "subcategory_slug": "milk",
+      "category_id": "4b938e02-7bde-4479-bc0a-2b54cb6bd5f5",
+      "subcategory_id": "22964a2b-0439-4236-9950-0d71b532b243",
+      "category_name": "Dairy Bread Eggs",
+      "subcategory_name": "Milk",
+      "url": "https://www.zepto.com/cn/dairy-bread-eggs/milk/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/22964a2b-0439-4236-9950-0d71b532b243"
+    },
+    {
+      "category_slug": "ice-creams-more",
+      "subcategory_slug": "cakes-sandwiches-more",
+      "category_id": "65ee1b69-4e24-45b9-ac84-aace3c0854d8",
+      "subcategory_id": "30e08b20-9431-4f46-9636-521a33015bae",
+      "category_name": "Ice Creams More",
+      "subcategory_name": "Cakes Sandwiches More",
+      "url": "https://www.zepto.com/cn/ice-creams-more/cakes-sandwiches-more/cid/65ee1b69-4e24-45b9-ac84-aace3c0854d8/scid/30e08b20-9431-4f46-9636-521a33015bae"
+    },
+    {
+      "category_slug": "sexual-wellness",
+      "subcategory_slug": "condoms",
+      "category_id": "5ff01c62-4d1a-4eae-b566-2fe3b345abe9",
+      "subcategory_id": "3572b320-8e29-4e6e-81e9-f75364bf5911",
+      "category_name": "Sexual Wellness",
+      "subcategory_name": "Condoms",
+      "url": "https://www.zepto.com/cn/sexual-wellness/condoms/cid/5ff01c62-4d1a-4eae-b566-2fe3b345abe9/scid/3572b320-8e29-4e6e-81e9-f75364bf5911"
+    },
+    {
+      "category_slug": "toys-sports",
+      "subcategory_slug": "art-craft",
+      "category_id": "fd1438dc-e1a8-49f9-87a3-2645a613ceeb",
+      "subcategory_id": "439f6865-7ceb-4ed9-8840-ced15483a5f5",
+      "category_name": "Toys Sports",
+      "subcategory_name": "Art Craft",
+      "url": "https://www.zepto.com/cn/toys-sports/art-craft/cid/fd1438dc-e1a8-49f9-87a3-2645a613ceeb/scid/439f6865-7ceb-4ed9-8840-ced15483a5f5"
+    },
+    {
+      "category_slug": "biscuits",
+      "subcategory_slug": "glucose-marie",
+      "category_id": "2552acf2-2f77-4714-adc8-e505de3985db",
+      "subcategory_id": "557279cf-a155-4b94-b5cc-97185bd30aee",
+      "category_name": "Biscuits",
+      "subcategory_name": "Glucose Marie",
+      "url": "https://www.zepto.com/cn/biscuits/glucose-marie/cid/2552acf2-2f77-4714-adc8-e505de3985db/scid/557279cf-a155-4b94-b5cc-97185bd30aee"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "girls-topwear",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "640fe745-7588-4549-bf49-48da123b89b2",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Girls Topwear",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/girls-topwear/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/640fe745-7588-4549-bf49-48da123b89b2"
+    },
+    {
+      "category_slug": "munchies",
+      "subcategory_slug": "dry-fruits-nuts-munchies",
+      "category_id": "d2c2a144-43cd-43e5-b308-92628fa68596",
+      "subcategory_id": "67fe57ab-558c-4949-9e52-60a1306d3619",
+      "category_name": "Munchies",
+      "subcategory_name": "Dry Fruits Nuts Munchies",
+      "url": "https://www.zepto.com/cn/munchies/dry-fruits-nuts-munchies/cid/d2c2a144-43cd-43e5-b308-92628fa68596/scid/67fe57ab-558c-4949-9e52-60a1306d3619"
+    },
+    {
+      "category_slug": "stationery-books",
+      "subcategory_slug": "writing-essentials",
+      "category_id": "0d74209d-c2e4-431b-98e0-c00a92766773",
+      "subcategory_id": "68aecbfb-46ba-43ae-bfe5-97127b4e8117",
+      "category_name": "Stationery Books",
+      "subcategory_name": "Writing Essentials",
+      "url": "https://www.zepto.com/cn/stationery-books/writing-essentials/cid/0d74209d-c2e4-431b-98e0-c00a92766773/scid/68aecbfb-46ba-43ae-bfe5-97127b4e8117"
+    },
+    {
+      "category_slug": "electronics-appliances",
+      "subcategory_slug": "massagers-weighing-machines",
+      "category_id": "966dc8a0-8f21-420e-a897-8dd70b4228f6",
+      "subcategory_id": "79508c4e-a110-447a-ba90-76dc525d2547",
+      "category_name": "Electronics Appliances",
+      "subcategory_name": "Massagers Weighing Machines",
+      "url": "https://www.zepto.com/cn/electronics-appliances/massagers-weighing-machines/cid/966dc8a0-8f21-420e-a897-8dd70b4228f6/scid/79508c4e-a110-447a-ba90-76dc525d2547"
+    },
+    {
+      "category_slug": "ice-creams-more",
+      "subcategory_slug": "kulfi",
+      "category_id": "65ee1b69-4e24-45b9-ac84-aace3c0854d8",
+      "subcategory_id": "7aab08ec-9f55-4b8c-ab0e-0af011e900a1",
+      "category_name": "Ice Creams More",
+      "subcategory_name": "Kulfi",
+      "url": "https://www.zepto.com/cn/ice-creams-more/kulfi/cid/65ee1b69-4e24-45b9-ac84-aace3c0854d8/scid/7aab08ec-9f55-4b8c-ab0e-0af011e900a1"
+    },
+    {
+      "category_slug": "feminine-hygiene",
+      "subcategory_slug": "panty-liners",
+      "category_id": "72066480-9851-4263-89b6-50dd7525edc1",
+      "subcategory_id": "7f3cf7ca-13ab-4f5b-8754-3cfabdab9a95",
+      "category_name": "Feminine Hygiene",
+      "subcategory_name": "Panty Liners",
+      "url": "https://www.zepto.com/cn/feminine-hygiene/panty-liners/cid/72066480-9851-4263-89b6-50dd7525edc1/scid/7f3cf7ca-13ab-4f5b-8754-3cfabdab9a95"
+    },
+    {
+      "category_slug": "bath-body",
+      "subcategory_slug": "soaps",
+      "category_id": "26e64367-19ad-4f80-a763-42599d4215ee",
+      "subcategory_id": "98e244c8-e4ef-4460-ade3-91957fc1e326",
+      "category_name": "Bath Body",
+      "subcategory_name": "Soaps",
+      "url": "https://www.zepto.com/cn/bath-body/soaps/cid/26e64367-19ad-4f80-a763-42599d4215ee/scid/98e244c8-e4ef-4460-ade3-91957fc1e326"
+    },
+    {
+      "category_slug": "feminine-hygiene",
+      "subcategory_slug": "toilet-hygiene",
+      "category_id": "72066480-9851-4263-89b6-50dd7525edc1",
+      "subcategory_id": "9e10cc4e-4d4a-458f-9c47-e75fcfe09b72",
+      "category_name": "Feminine Hygiene",
+      "subcategory_name": "Toilet Hygiene",
+      "url": "https://www.zepto.com/cn/feminine-hygiene/toilet-hygiene/cid/72066480-9851-4263-89b6-50dd7525edc1/scid/9e10cc4e-4d4a-458f-9c47-e75fcfe09b72"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "boys-innerwear",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "aeb16210-34b5-406e-b0c1-4ba69426b9df",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Boys Innerwear",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/boys-innerwear/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/aeb16210-34b5-406e-b0c1-4ba69426b9df"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "boys-swimwear",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "b2e6db9c-fcac-4bbe-a5e9-d73a37d9ac9c",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Boys Swimwear",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/boys-swimwear/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/b2e6db9c-fcac-4bbe-a5e9-d73a37d9ac9c"
+    },
+    {
+      "category_slug": "masala-dry-fruits-more",
+      "subcategory_slug": "salt-sugar-jaggery",
+      "category_id": "0c2ccf87-e32c-4438-9560-8d9488fc73e0",
+      "subcategory_id": "b5826992-5cfc-4554-8075-a3f33709ddf2",
+      "category_name": "Masala Dry Fruits More",
+      "subcategory_name": "Salt Sugar Jaggery",
+      "url": "https://www.zepto.com/cn/masala-dry-fruits-more/salt-sugar-jaggery/cid/0c2ccf87-e32c-4438-9560-8d9488fc73e0/scid/b5826992-5cfc-4554-8075-a3f33709ddf2"
+    },
+    {
+      "category_slug": "electronics-appliances",
+      "subcategory_slug": "mobile-phones",
+      "category_id": "966dc8a0-8f21-420e-a897-8dd70b4228f6",
+      "subcategory_id": "b5ca40fc-b916-4b40-93c3-273991113745",
+      "category_name": "Electronics Appliances",
+      "subcategory_name": "Mobile Phones",
+      "url": "https://www.zepto.com/cn/electronics-appliances/mobile-phones/cid/966dc8a0-8f21-420e-a897-8dd70b4228f6/scid/b5ca40fc-b916-4b40-93c3-273991113745"
+    },
+    {
+      "category_slug": "cold-drinks-juices",
+      "subcategory_slug": "water",
+      "category_id": "947a72ae-b371-45cb-ad3a-778c05b64399",
+      "subcategory_id": "b783925b-6b57-4750-99f6-01ea5145ec5e",
+      "category_name": "Cold Drinks Juices",
+      "subcategory_name": "Water",
+      "url": "https://www.zepto.com/cn/cold-drinks-juices/water/cid/947a72ae-b371-45cb-ad3a-778c05b64399/scid/b783925b-6b57-4750-99f6-01ea5145ec5e"
+    },
+    {
+      "category_slug": "zepto-cafe",
+      "subcategory_slug": "breakfast",
+      "category_id": "dfe16918-81b1-49c3-941b-acd557f7c277",
+      "subcategory_id": "b84ca8d9-371f-447d-b160-635195d6d6df",
+      "category_name": "Zepto Cafe",
+      "subcategory_name": "Breakfast",
+      "url": "https://www.zepto.com/cn/zepto-cafe/breakfast/cid/dfe16918-81b1-49c3-941b-acd557f7c277/scid/b84ca8d9-371f-447d-b160-635195d6d6df"
+    },
+    {
+      "category_slug": "zepto-cafe",
+      "subcategory_slug": "south-indian",
+      "category_id": "dfe16918-81b1-49c3-941b-acd557f7c277",
+      "subcategory_id": "bd74b4c5-aaa7-4afe-ad60-89f3f6172af7",
+      "category_name": "Zepto Cafe",
+      "subcategory_name": "South Indian",
+      "url": "https://www.zepto.com/cn/zepto-cafe/south-indian/cid/dfe16918-81b1-49c3-941b-acd557f7c277/scid/bd74b4c5-aaa7-4afe-ad60-89f3f6172af7"
+    },
+    {
+      "category_slug": "cold-drinks-juices",
+      "subcategory_slug": "milk-drinks",
+      "category_id": "947a72ae-b371-45cb-ad3a-778c05b64399",
+      "subcategory_id": "c5638eba-30c0-4a40-8c63-c9947fd22c16",
+      "category_name": "Cold Drinks Juices",
+      "subcategory_name": "Milk Drinks",
+      "url": "https://www.zepto.com/cn/cold-drinks-juices/milk-drinks/cid/947a72ae-b371-45cb-ad3a-778c05b64399/scid/c5638eba-30c0-4a40-8c63-c9947fd22c16"
+    },
+    {
+      "category_slug": "home-needs",
+      "subcategory_slug": "bath-laundry",
+      "category_id": "ac7b3ee1-98cb-48b8-8c62-27f47b4185a2",
+      "subcategory_id": "c7af1b71-f45d-46e1-be0d-39cab2617fd1",
+      "category_name": "Home Needs",
+      "subcategory_name": "Bath Laundry",
+      "url": "https://www.zepto.com/cn/home-needs/bath-laundry/cid/ac7b3ee1-98cb-48b8-8c62-27f47b4185a2/scid/c7af1b71-f45d-46e1-be0d-39cab2617fd1"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "women-s-footwear",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "c8c28338-e413-4038-a406-b8e6784f2474",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Women S Footwear",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/women-s-footwear/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/c8c28338-e413-4038-a406-b8e6784f2474"
+    },
+    {
+      "category_slug": "cold-drinks-juices",
+      "subcategory_slug": "vegan-drinks",
+      "category_id": "947a72ae-b371-45cb-ad3a-778c05b64399",
+      "subcategory_id": "dcfd1067-a597-4ef0-81d6-9a3d1b9a2891",
+      "category_name": "Cold Drinks Juices",
+      "subcategory_name": "Vegan Drinks",
+      "url": "https://www.zepto.com/cn/cold-drinks-juices/vegan-drinks/cid/947a72ae-b371-45cb-ad3a-778c05b64399/scid/dcfd1067-a597-4ef0-81d6-9a3d1b9a2891"
+    },
+    {
+      "category_slug": "hair-care",
+      "subcategory_slug": "hair-oil",
+      "category_id": "513e1b9e-7f62-4063-bf57-4335521dc5de",
+      "subcategory_id": "e2539dfe-b16a-4c9a-942a-2c1ffc26414c",
+      "category_name": "Hair Care",
+      "subcategory_name": "Hair Oil",
+      "url": "https://www.zepto.com/cn/hair-care/hair-oil/cid/513e1b9e-7f62-4063-bf57-4335521dc5de/scid/e2539dfe-b16a-4c9a-942a-2c1ffc26414c"
+    },
+    {
+      "category_slug": "bath-body",
+      "subcategory_slug": "shower-gels",
+      "category_id": "26e64367-19ad-4f80-a763-42599d4215ee",
+      "subcategory_id": "e8801cfd-49d0-4388-bc29-f83258204d39",
+      "category_name": "Bath Body",
+      "subcategory_name": "Shower Gels",
+      "url": "https://www.zepto.com/cn/bath-body/shower-gels/cid/26e64367-19ad-4f80-a763-42599d4215ee/scid/e8801cfd-49d0-4388-bc29-f83258204d39"
+    },
+    {
+      "category_slug": "skincare",
+      "subcategory_slug": "body-lotion-moisturizer",
+      "category_id": "d6c455aa-496b-4599-8f7d-81ecee8cf5a3",
+      "subcategory_id": "ee083c90-18ee-48ab-a121-036c57d7dddc",
+      "category_name": "Skincare",
+      "subcategory_name": "Body Lotion Moisturizer",
+      "url": "https://www.zepto.com/cn/skincare/body-lotion-moisturizer/cid/d6c455aa-496b-4599-8f7d-81ecee8cf5a3/scid/ee083c90-18ee-48ab-a121-036c57d7dddc"
+    },
+    {
+      "category_slug": "stationery-books",
+      "subcategory_slug": "glue-tape",
+      "category_id": "0d74209d-c2e4-431b-98e0-c00a92766773",
+      "subcategory_id": "f0a63987-f040-4b50-a342-1cda2e9d5804",
+      "category_name": "Stationery Books",
+      "subcategory_name": "Glue Tape",
+      "url": "https://www.zepto.com/cn/stationery-books/glue-tape/cid/0d74209d-c2e4-431b-98e0-c00a92766773/scid/f0a63987-f040-4b50-a342-1cda2e9d5804"
+    },
+    {
+      "category_slug": "electronics-appliances",
+      "subcategory_slug": "gaming",
+      "category_id": "966dc8a0-8f21-420e-a897-8dd70b4228f6",
+      "subcategory_id": "fc8c5a74-340c-472f-a34b-a39b6caf5ede",
+      "category_name": "Electronics Appliances",
+      "subcategory_name": "Gaming",
+      "url": "https://www.zepto.com/cn/electronics-appliances/gaming/cid/966dc8a0-8f21-420e-a897-8dd70b4228f6/scid/fc8c5a74-340c-472f-a34b-a39b6caf5ede"
+    },
+    {
+      "category_slug": "sweet-cravings",
+      "subcategory_slug": "pastries-cakes",
+      "category_id": "adab2f81-7140-4fe9-b8cf-3d809f40e38a",
+      "subcategory_id": "fce3a00a-4543-424a-a5af-73bbd2ce3f75",
+      "category_name": "Sweet Cravings",
+      "subcategory_name": "Pastries Cakes",
+      "url": "https://www.zepto.com/cn/sweet-cravings/pastries-cakes/cid/adab2f81-7140-4fe9-b8cf-3d809f40e38a/scid/fce3a00a-4543-424a-a5af-73bbd2ce3f75"
+    },
+    {
+      "category_slug": "munchies",
+      "subcategory_slug": "popcorn",
+      "category_id": "d2c2a144-43cd-43e5-b308-92628fa68596",
+      "subcategory_id": "06fd05d2-ed6d-4355-9c1d-ef7909ff1584",
+      "category_name": "Munchies",
+      "subcategory_name": "Popcorn",
+      "url": "https://www.zepto.com/cn/munchies/popcorn/cid/d2c2a144-43cd-43e5-b308-92628fa68596/scid/06fd05d2-ed6d-4355-9c1d-ef7909ff1584"
+    },
+    {
+      "category_slug": "munchies",
+      "subcategory_slug": "energy-bars",
+      "category_id": "d2c2a144-43cd-43e5-b308-92628fa68596",
+      "subcategory_id": "08b6d5d6-ff35-4172-8240-514f84e7c0ee",
+      "category_name": "Munchies",
+      "subcategory_name": "Energy Bars",
+      "url": "https://www.zepto.com/cn/munchies/energy-bars/cid/d2c2a144-43cd-43e5-b308-92628fa68596/scid/08b6d5d6-ff35-4172-8240-514f84e7c0ee"
+    },
+    {
+      "category_slug": "jewellery",
+      "subcategory_slug": "bracelets-bangles",
+      "category_id": "27b4b613-108e-4c77-91e6-b839d542385b",
+      "subcategory_id": "0f669245-781c-48fa-8eae-49d855395204",
+      "category_name": "Jewellery",
+      "subcategory_name": "Bracelets Bangles",
+      "url": "https://www.zepto.com/cn/jewellery/bracelets-bangles/cid/27b4b613-108e-4c77-91e6-b839d542385b/scid/0f669245-781c-48fa-8eae-49d855395204"
+    },
+    {
+      "category_slug": "pharma-wellness",
+      "subcategory_slug": "derma-care",
+      "category_id": "46853481-25d4-4126-947b-c6d96f0669f6",
+      "subcategory_id": "1da9416f-8b99-40a4-886b-fef1a7751f04",
+      "category_name": "Pharma Wellness",
+      "subcategory_name": "Derma Care",
+      "url": "https://www.zepto.com/cn/pharma-wellness/derma-care/cid/46853481-25d4-4126-947b-c6d96f0669f6/scid/1da9416f-8b99-40a4-886b-fef1a7751f04"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "travel-accessories",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "1df8bc27-6ee6-464e-97dd-01a36b32428a",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Travel Accessories",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/travel-accessories/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/1df8bc27-6ee6-464e-97dd-01a36b32428a"
+    },
+    {
+      "category_slug": "bath-body",
+      "subcategory_slug": "bath-accessories",
+      "category_id": "26e64367-19ad-4f80-a763-42599d4215ee",
+      "subcategory_id": "201f0076-e25c-412d-a9df-8cb8a07af57e",
+      "category_name": "Bath Body",
+      "subcategory_name": "Bath Accessories",
+      "url": "https://www.zepto.com/cn/bath-body/bath-accessories/cid/26e64367-19ad-4f80-a763-42599d4215ee/scid/201f0076-e25c-412d-a9df-8cb8a07af57e"
+    },
+    {
+      "category_slug": "ice-creams-more",
+      "subcategory_slug": "tubs",
+      "category_id": "65ee1b69-4e24-45b9-ac84-aace3c0854d8",
+      "subcategory_id": "21c1011a-c677-4007-ac20-abc1542cb89c",
+      "category_name": "Ice Creams More",
+      "subcategory_name": "Tubs",
+      "url": "https://www.zepto.com/cn/ice-creams-more/tubs/cid/65ee1b69-4e24-45b9-ac84-aace3c0854d8/scid/21c1011a-c677-4007-ac20-abc1542cb89c"
+    },
+    {
+      "category_slug": "jewellery",
+      "subcategory_slug": "sets",
+      "category_id": "27b4b613-108e-4c77-91e6-b839d542385b",
+      "subcategory_id": "2b35395a-eea3-4b70-a33f-86148faa5059",
+      "category_name": "Jewellery",
+      "subcategory_name": "Sets",
+      "url": "https://www.zepto.com/cn/jewellery/sets/cid/27b4b613-108e-4c77-91e6-b839d542385b/scid/2b35395a-eea3-4b70-a33f-86148faa5059"
+    },
+    {
+      "category_slug": "fragrances-grooming",
+      "subcategory_slug": "men-s-grooming",
+      "category_id": "875671b0-ec18-42c7-9749-c2cf165509fa",
+      "subcategory_id": "2e690ea0-ed16-404c-9a51-ae8cdc9eb93d",
+      "category_name": "Fragrances Grooming",
+      "subcategory_name": "Men S Grooming",
+      "url": "https://www.zepto.com/cn/fragrances-grooming/men-s-grooming/cid/875671b0-ec18-42c7-9749-c2cf165509fa/scid/2e690ea0-ed16-404c-9a51-ae8cdc9eb93d"
+    },
+    {
+      "category_slug": "dairy-bread-eggs",
+      "subcategory_slug": "breads-buns",
+      "category_id": "4b938e02-7bde-4479-bc0a-2b54cb6bd5f5",
+      "subcategory_id": "30566884-bbd7-49fa-8c3f-43c90a571c9e",
+      "category_name": "Dairy Bread Eggs",
+      "subcategory_name": "Breads Buns",
+      "url": "https://www.zepto.com/cn/dairy-bread-eggs/breads-buns/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/30566884-bbd7-49fa-8c3f-43c90a571c9e"
+    },
+    {
+      "category_slug": "pet-care",
+      "subcategory_slug": "pet-grooming-hygiene",
+      "category_id": "13831a81-e0d5-4939-9650-df2413e7aead",
+      "subcategory_id": "307891fb-e78a-4ec4-9036-101e2526e219",
+      "category_name": "Pet Care",
+      "subcategory_name": "Pet Grooming Hygiene",
+      "url": "https://www.zepto.com/cn/pet-care/pet-grooming-hygiene/cid/13831a81-e0d5-4939-9650-df2413e7aead/scid/307891fb-e78a-4ec4-9036-101e2526e219"
+    },
+    {
+      "category_slug": "ice-creams-more",
+      "subcategory_slug": "cups",
+      "category_id": "65ee1b69-4e24-45b9-ac84-aace3c0854d8",
+      "subcategory_id": "32173cd6-b8e4-497e-8e95-9c1ff04ae46b",
+      "category_name": "Ice Creams More",
+      "subcategory_name": "Cups",
+      "url": "https://www.zepto.com/cn/ice-creams-more/cups/cid/65ee1b69-4e24-45b9-ac84-aace3c0854d8/scid/32173cd6-b8e4-497e-8e95-9c1ff04ae46b"
+    },
+    {
+      "category_slug": "home-needs",
+      "subcategory_slug": "party-needs",
+      "category_id": "ac7b3ee1-98cb-48b8-8c62-27f47b4185a2",
+      "subcategory_id": "34cf1fd0-fb54-473a-8645-e6489ffa9970",
+      "category_name": "Home Needs",
+      "subcategory_name": "Party Needs",
+      "url": "https://www.zepto.com/cn/home-needs/party-needs/cid/ac7b3ee1-98cb-48b8-8c62-27f47b4185a2/scid/34cf1fd0-fb54-473a-8645-e6489ffa9970"
+    },
+    {
+      "category_slug": "makeup-beauty",
+      "subcategory_slug": "face-makeup",
+      "category_id": "2e5eae34-1666-4ddc-8903-76e6547f72e4",
+      "subcategory_id": "36eec32a-adcb-4a35-8f27-c9f6eb6ec6ac",
+      "category_name": "Makeup Beauty",
+      "subcategory_name": "Face Makeup",
+      "url": "https://www.zepto.com/cn/makeup-beauty/face-makeup/cid/2e5eae34-1666-4ddc-8903-76e6547f72e4/scid/36eec32a-adcb-4a35-8f27-c9f6eb6ec6ac"
+    },
+    {
+      "category_slug": "electronics-appliances",
+      "subcategory_slug": "bulbs-lights",
+      "category_id": "966dc8a0-8f21-420e-a897-8dd70b4228f6",
+      "subcategory_id": "3b7130c6-f880-4d9e-871c-a20e9c897aa1",
+      "category_name": "Electronics Appliances",
+      "subcategory_name": "Bulbs Lights",
+      "url": "https://www.zepto.com/cn/electronics-appliances/bulbs-lights/cid/966dc8a0-8f21-420e-a897-8dd70b4228f6/scid/3b7130c6-f880-4d9e-871c-a20e9c897aa1"
+    },
+    {
+      "category_slug": "tea-coffee-more",
+      "subcategory_slug": "tea",
+      "category_id": "d7e98d87-6850-4cf9-a37c-e4fa34ae302c",
+      "subcategory_id": "3c1856d3-7dd9-4657-8b14-4f47046c9369",
+      "category_name": "Tea Coffee More",
+      "subcategory_name": "Tea",
+      "url": "https://www.zepto.com/cn/tea-coffee-more/tea/cid/d7e98d87-6850-4cf9-a37c-e4fa34ae302c/scid/3c1856d3-7dd9-4657-8b14-4f47046c9369"
+    },
+    {
+      "category_slug": "zepto-cafe",
+      "subcategory_slug": "cold-beverages",
+      "category_id": "dfe16918-81b1-49c3-941b-acd557f7c277",
+      "subcategory_id": "3d5cbea7-bbf8-4c22-b1cc-3044d8cdee42",
+      "category_name": "Zepto Cafe",
+      "subcategory_name": "Cold Beverages",
+      "url": "https://www.zepto.com/cn/zepto-cafe/cold-beverages/cid/dfe16918-81b1-49c3-941b-acd557f7c277/scid/3d5cbea7-bbf8-4c22-b1cc-3044d8cdee42"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "men-s-footwear",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "3f47e27b-047d-4fb7-a76a-fbea5cc38802",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Men S Footwear",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/men-s-footwear/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/3f47e27b-047d-4fb7-a76a-fbea5cc38802"
+    },
+    {
+      "category_slug": "packaged-food",
+      "subcategory_slug": "papads-pickles-chutney",
+      "category_id": "5736ad99-f589-4d58-a24b-a12222320a37",
+      "subcategory_id": "460558e5-c6bf-401f-9f8d-fa86f0b6043a",
+      "category_name": "Packaged Food",
+      "subcategory_name": "Papads Pickles Chutney",
+      "url": "https://www.zepto.com/cn/packaged-food/papads-pickles-chutney/cid/5736ad99-f589-4d58-a24b-a12222320a37/scid/460558e5-c6bf-401f-9f8d-fa86f0b6043a"
+    },
+    {
+      "category_slug": "cold-drinks-juices",
+      "subcategory_slug": "instant-drink-mixes",
+      "category_id": "947a72ae-b371-45cb-ad3a-778c05b64399",
+      "subcategory_id": "4d088b94-ba43-4bf0-a881-a573862aa0a1",
+      "category_name": "Cold Drinks Juices",
+      "subcategory_name": "Instant Drink Mixes",
+      "url": "https://www.zepto.com/cn/cold-drinks-juices/instant-drink-mixes/cid/947a72ae-b371-45cb-ad3a-778c05b64399/scid/4d088b94-ba43-4bf0-a881-a573862aa0a1"
+    },
+    {
+      "category_slug": "dairy-bread-eggs",
+      "subcategory_slug": "indian-breads",
+      "category_id": "4b938e02-7bde-4479-bc0a-2b54cb6bd5f5",
+      "subcategory_id": "501906d3-efcc-45c5-805e-5450b9d10476",
+      "category_name": "Dairy Bread Eggs",
+      "subcategory_name": "Indian Breads",
+      "url": "https://www.zepto.com/cn/dairy-bread-eggs/indian-breads/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/501906d3-efcc-45c5-805e-5450b9d10476"
+    },
+    {
+      "category_slug": "pharma-wellness",
+      "subcategory_slug": "fever-cold-cough",
+      "category_id": "46853481-25d4-4126-947b-c6d96f0669f6",
+      "subcategory_id": "53a30e11-76c0-468e-814c-f7e3ac6cc372",
+      "category_name": "Pharma Wellness",
+      "subcategory_name": "Fever Cold Cough",
+      "url": "https://www.zepto.com/cn/pharma-wellness/fever-cold-cough/cid/46853481-25d4-4126-947b-c6d96f0669f6/scid/53a30e11-76c0-468e-814c-f7e3ac6cc372"
+    },
+    {
+      "category_slug": "packaged-food",
+      "subcategory_slug": "infant-food",
+      "category_id": "5736ad99-f589-4d58-a24b-a12222320a37",
+      "subcategory_id": "5eef200f-d318-4dad-90bd-ccc579d165f3",
+      "category_name": "Packaged Food",
+      "subcategory_name": "Infant Food",
+      "url": "https://www.zepto.com/cn/packaged-food/infant-food/cid/5736ad99-f589-4d58-a24b-a12222320a37/scid/5eef200f-d318-4dad-90bd-ccc579d165f3"
+    },
+    {
+      "category_slug": "toys-sports",
+      "subcategory_slug": "soft-toys",
+      "category_id": "fd1438dc-e1a8-49f9-87a3-2645a613ceeb",
+      "subcategory_id": "64e4511b-ea48-4131-a781-6ea85d8d695f",
+      "category_name": "Toys Sports",
+      "subcategory_name": "Soft Toys",
+      "url": "https://www.zepto.com/cn/toys-sports/soft-toys/cid/fd1438dc-e1a8-49f9-87a3-2645a613ceeb/scid/64e4511b-ea48-4131-a781-6ea85d8d695f"
+    },
+    {
+      "category_slug": "jewellery",
+      "subcategory_slug": "anklets-armlets",
+      "category_id": "27b4b613-108e-4c77-91e6-b839d542385b",
+      "subcategory_id": "6ac936c1-c165-4293-9748-da79c6255d25",
+      "category_name": "Jewellery",
+      "subcategory_name": "Anklets Armlets",
+      "url": "https://www.zepto.com/cn/jewellery/anklets-armlets/cid/27b4b613-108e-4c77-91e6-b839d542385b/scid/6ac936c1-c165-4293-9748-da79c6255d25"
+    },
+    {
+      "category_slug": "cleaning-essentials",
+      "subcategory_slug": "detergent-powder-bars",
+      "category_id": "1a7e46a8-e627-450f-8960-490b550eeee6",
+      "subcategory_id": "6d8da507-b86b-48b8-ad99-9e5a5c61a48f",
+      "category_name": "Cleaning Essentials",
+      "subcategory_name": "Detergent Powder Bars",
+      "url": "https://www.zepto.com/cn/cleaning-essentials/detergent-powder-bars/cid/1a7e46a8-e627-450f-8960-490b550eeee6/scid/6d8da507-b86b-48b8-ad99-9e5a5c61a48f"
+    },
+    {
+      "category_slug": "biscuits",
+      "subcategory_slug": "creamfills",
+      "category_id": "2552acf2-2f77-4714-adc8-e505de3985db",
+      "subcategory_id": "76b87813-c0ff-451d-accf-d6840a42a067",
+      "category_name": "Biscuits",
+      "subcategory_name": "Creamfills",
+      "url": "https://www.zepto.com/cn/biscuits/creamfills/cid/2552acf2-2f77-4714-adc8-e505de3985db/scid/76b87813-c0ff-451d-accf-d6840a42a067"
+    },
+    {
+      "category_slug": "packaged-food",
+      "subcategory_slug": "baking-mixes-ingredients",
+      "category_id": "5736ad99-f589-4d58-a24b-a12222320a37",
+      "subcategory_id": "941f0a50-2122-4e9e-baf9-35d66323f948",
+      "category_name": "Packaged Food",
+      "subcategory_name": "Baking Mixes Ingredients",
+      "url": "https://www.zepto.com/cn/packaged-food/baking-mixes-ingredients/cid/5736ad99-f589-4d58-a24b-a12222320a37/scid/941f0a50-2122-4e9e-baf9-35d66323f948"
+    },
+    {
+      "category_slug": "packaged-food",
+      "subcategory_slug": "dessert-mixes",
+      "category_id": "5736ad99-f589-4d58-a24b-a12222320a37",
+      "subcategory_id": "a62e5e4f-1c24-44cc-b911-cc684fa4ad24",
+      "category_name": "Packaged Food",
+      "subcategory_name": "Dessert Mixes",
+      "url": "https://www.zepto.com/cn/packaged-food/dessert-mixes/cid/5736ad99-f589-4d58-a24b-a12222320a37/scid/a62e5e4f-1c24-44cc-b911-cc684fa4ad24"
+    },
+    {
+      "category_slug": "kitchen-dining",
+      "subcategory_slug": "kitchen-tools",
+      "category_id": "2423aa03-4219-4cab-a84d-92019f967003",
+      "subcategory_id": "b73da792-6722-431e-a60b-c06ac1e53c0d",
+      "category_name": "Kitchen Dining",
+      "subcategory_name": "Kitchen Tools",
+      "url": "https://www.zepto.com/cn/kitchen-dining/kitchen-tools/cid/2423aa03-4219-4cab-a84d-92019f967003/scid/b73da792-6722-431e-a60b-c06ac1e53c0d"
+    },
+    {
+      "category_slug": "sexual-wellness",
+      "subcategory_slug": "adult-games-accessories",
+      "category_id": "5ff01c62-4d1a-4eae-b566-2fe3b345abe9",
+      "subcategory_id": "bd838e33-a7b9-4811-8517-94b576e4770a",
+      "category_name": "Sexual Wellness",
+      "subcategory_name": "Adult Games Accessories",
+      "url": "https://www.zepto.com/cn/sexual-wellness/adult-games-accessories/cid/5ff01c62-4d1a-4eae-b566-2fe3b345abe9/scid/bd838e33-a7b9-4811-8517-94b576e4770a"
+    },
+    {
+      "category_slug": "toys-sports",
+      "subcategory_slug": "sports-fitness",
+      "category_id": "fd1438dc-e1a8-49f9-87a3-2645a613ceeb",
+      "subcategory_id": "c23d6ffb-c61f-4df4-83a3-ceb3fe49e59c",
+      "category_name": "Toys Sports",
+      "subcategory_name": "Sports Fitness",
+      "url": "https://www.zepto.com/cn/toys-sports/sports-fitness/cid/fd1438dc-e1a8-49f9-87a3-2645a613ceeb/scid/c23d6ffb-c61f-4df4-83a3-ceb3fe49e59c"
+    },
+    {
+      "category_slug": "home-needs",
+      "subcategory_slug": "automotive-needs",
+      "category_id": "ac7b3ee1-98cb-48b8-8c62-27f47b4185a2",
+      "subcategory_id": "c2814f4b-969b-4255-9e49-578b4cad468a",
+      "category_name": "Home Needs",
+      "subcategory_name": "Automotive Needs",
+      "url": "https://www.zepto.com/cn/home-needs/automotive-needs/cid/ac7b3ee1-98cb-48b8-8c62-27f47b4185a2/scid/c2814f4b-969b-4255-9e49-578b4cad468a"
+    },
+    {
+      "category_slug": "frozen-food",
+      "subcategory_slug": "non-veg-snacks",
+      "category_id": "aae1447d-1403-4a5c-a65f-bcb3afb93b5e",
+      "subcategory_id": "c7506b56-1bb6-4bfb-8622-854d744d45ca",
+      "category_name": "Frozen Food",
+      "subcategory_name": "Non Veg Snacks",
+      "url": "https://www.zepto.com/cn/frozen-food/non-veg-snacks/cid/aae1447d-1403-4a5c-a65f-bcb3afb93b5e/scid/c7506b56-1bb6-4bfb-8622-854d744d45ca"
+    },
+    {
+      "category_slug": "zepto-cafe",
+      "subcategory_slug": "asian",
+      "category_id": "dfe16918-81b1-49c3-941b-acd557f7c277",
+      "subcategory_id": "cf961c94-f5fa-4c77-8b9e-01094ad1388f",
+      "category_name": "Zepto Cafe",
+      "subcategory_name": "Asian",
+      "url": "https://www.zepto.com/cn/zepto-cafe/asian/cid/dfe16918-81b1-49c3-941b-acd557f7c277/scid/cf961c94-f5fa-4c77-8b9e-01094ad1388f"
+    },
+    {
+      "category_slug": "home-needs",
+      "subcategory_slug": "festive-needs",
+      "category_id": "ac7b3ee1-98cb-48b8-8c62-27f47b4185a2",
+      "subcategory_id": "d74ddb01-0705-4cea-88f7-fe7ad668a85b",
+      "category_name": "Home Needs",
+      "subcategory_name": "Festive Needs",
+      "url": "https://www.zepto.com/cn/home-needs/festive-needs/cid/ac7b3ee1-98cb-48b8-8c62-27f47b4185a2/scid/d74ddb01-0705-4cea-88f7-fe7ad668a85b"
+    },
+    {
+      "category_slug": "breakfast-sauces",
+      "subcategory_slug": "muesli-oats",
+      "category_id": "f804bccc-c565-4879-b6ab-1b964bb1ed41",
+      "subcategory_id": "dafa5c98-3367-4624-90a4-0a2af6e695c3",
+      "category_name": "Breakfast Sauces",
+      "subcategory_name": "Muesli Oats",
+      "url": "https://www.zepto.com/cn/breakfast-sauces/muesli-oats/cid/f804bccc-c565-4879-b6ab-1b964bb1ed41/scid/dafa5c98-3367-4624-90a4-0a2af6e695c3"
+    },
+    {
+      "category_slug": "munchies",
+      "subcategory_slug": "chips-crisps",
+      "category_id": "d2c2a144-43cd-43e5-b308-92628fa68596",
+      "subcategory_id": "df4f5100-c02f-4906-83b8-ddb744081a7a",
+      "category_name": "Munchies",
+      "subcategory_name": "Chips Crisps",
+      "url": "https://www.zepto.com/cn/munchies/chips-crisps/cid/d2c2a144-43cd-43e5-b308-92628fa68596/scid/df4f5100-c02f-4906-83b8-ddb744081a7a"
+    },
+    {
+      "category_slug": "cold-drinks-juices",
+      "subcategory_slug": "soft-drinks",
+      "category_id": "947a72ae-b371-45cb-ad3a-778c05b64399",
+      "subcategory_id": "dff3658b-c351-4e7f-8196-e98d0c66d99e",
+      "category_name": "Cold Drinks Juices",
+      "subcategory_name": "Soft Drinks",
+      "url": "https://www.zepto.com/cn/cold-drinks-juices/soft-drinks/cid/947a72ae-b371-45cb-ad3a-778c05b64399/scid/dff3658b-c351-4e7f-8196-e98d0c66d99e"
+    },
+    {
+      "category_slug": "pharma-wellness",
+      "subcategory_slug": "medical-devices",
+      "category_id": "46853481-25d4-4126-947b-c6d96f0669f6",
+      "subcategory_id": "eaf2c09f-58a2-4391-8025-f10999feab56",
+      "category_name": "Pharma Wellness",
+      "subcategory_name": "Medical Devices",
+      "url": "https://www.zepto.com/cn/pharma-wellness/medical-devices/cid/46853481-25d4-4126-947b-c6d96f0669f6/scid/eaf2c09f-58a2-4391-8025-f10999feab56"
+    },
+    {
+      "category_slug": "zepto-cafe",
+      "subcategory_slug": "bakery",
+      "category_id": "dfe16918-81b1-49c3-941b-acd557f7c277",
+      "subcategory_id": "f293a5c3-a098-4574-8195-35a8b7bb6743",
+      "category_name": "Zepto Cafe",
+      "subcategory_name": "Bakery",
+      "url": "https://www.zepto.com/cn/zepto-cafe/bakery/cid/dfe16918-81b1-49c3-941b-acd557f7c277/scid/f293a5c3-a098-4574-8195-35a8b7bb6743"
+    },
+    {
+      "category_slug": "pharma-wellness",
+      "subcategory_slug": "md-test-kit",
+      "category_id": "46853481-25d4-4126-947b-c6d96f0669f6",
+      "subcategory_id": "f3b93fe0-9991-4786-bf5a-706485e9a7ab",
+      "category_name": "Pharma Wellness",
+      "subcategory_name": "Md Test Kit",
+      "url": "https://www.zepto.com/cn/pharma-wellness/md-test-kit/cid/46853481-25d4-4126-947b-c6d96f0669f6/scid/f3b93fe0-9991-4786-bf5a-706485e9a7ab"
+    },
+    {
+      "category_slug": "biscuits",
+      "subcategory_slug": "wafers",
+      "category_id": "2552acf2-2f77-4714-adc8-e505de3985db",
+      "subcategory_id": "f9502427-0360-4926-9db3-94a65d04d9ed",
+      "category_name": "Biscuits",
+      "subcategory_name": "Wafers",
+      "url": "https://www.zepto.com/cn/biscuits/wafers/cid/2552acf2-2f77-4714-adc8-e505de3985db/scid/f9502427-0360-4926-9db3-94a65d04d9ed"
+    },
+    {
+      "category_slug": "zepto-cafe",
+      "subcategory_slug": "snacks-treats",
+      "category_id": "dfe16918-81b1-49c3-941b-acd557f7c277",
+      "subcategory_id": "048119da-6ce2-43e8-b286-2e2d0324a828",
+      "category_name": "Zepto Cafe",
+      "subcategory_name": "Snacks Treats",
+      "url": "https://www.zepto.com/cn/zepto-cafe/snacks-treats/cid/dfe16918-81b1-49c3-941b-acd557f7c277/scid/048119da-6ce2-43e8-b286-2e2d0324a828"
+    },
+    {
+      "category_slug": "skincare",
+      "subcategory_slug": "serums-essence",
+      "category_id": "d6c455aa-496b-4599-8f7d-81ecee8cf5a3",
+      "subcategory_id": "05fc8bd5-5aa4-4308-99b6-f5ea1818ff59",
+      "category_name": "Skincare",
+      "subcategory_name": "Serums Essence",
+      "url": "https://www.zepto.com/cn/skincare/serums-essence/cid/d6c455aa-496b-4599-8f7d-81ecee8cf5a3/scid/05fc8bd5-5aa4-4308-99b6-f5ea1818ff59"
+    },
+    {
+      "category_slug": "electronics-appliances",
+      "subcategory_slug": "tablets",
+      "category_id": "966dc8a0-8f21-420e-a897-8dd70b4228f6",
+      "subcategory_id": "0abf580b-dee9-45ca-8fda-236ede14d20c",
+      "category_name": "Electronics Appliances",
+      "subcategory_name": "Tablets",
+      "url": "https://www.zepto.com/cn/electronics-appliances/tablets/cid/966dc8a0-8f21-420e-a897-8dd70b4228f6/scid/0abf580b-dee9-45ca-8fda-236ede14d20c"
+    },
+    {
+      "category_slug": "cold-drinks-juices",
+      "subcategory_slug": "soda-mixers",
+      "category_id": "947a72ae-b371-45cb-ad3a-778c05b64399",
+      "subcategory_id": "0df54b3f-11f6-4ada-b38a-9be38ea25eba",
+      "category_name": "Cold Drinks Juices",
+      "subcategory_name": "Soda Mixers",
+      "url": "https://www.zepto.com/cn/cold-drinks-juices/soda-mixers/cid/947a72ae-b371-45cb-ad3a-778c05b64399/scid/0df54b3f-11f6-4ada-b38a-9be38ea25eba"
+    },
+    {
+      "category_slug": "frozen-food",
+      "subcategory_slug": "momos-more",
+      "category_id": "aae1447d-1403-4a5c-a65f-bcb3afb93b5e",
+      "subcategory_id": "112b3aac-feee-4e01-9e5a-701dc1b5464e",
+      "category_name": "Frozen Food",
+      "subcategory_name": "Momos More",
+      "url": "https://www.zepto.com/cn/frozen-food/momos-more/cid/aae1447d-1403-4a5c-a65f-bcb3afb93b5e/scid/112b3aac-feee-4e01-9e5a-701dc1b5464e"
+    },
+    {
+      "category_slug": "zepto-cafe",
+      "subcategory_slug": "mediterranean",
+      "category_id": "dfe16918-81b1-49c3-941b-acd557f7c277",
+      "subcategory_id": "11dd86e7-7272-42bf-98d1-86f6ee05f744",
+      "category_name": "Zepto Cafe",
+      "subcategory_name": "Mediterranean",
+      "url": "https://www.zepto.com/cn/zepto-cafe/mediterranean/cid/dfe16918-81b1-49c3-941b-acd557f7c277/scid/11dd86e7-7272-42bf-98d1-86f6ee05f744"
+    },
+    {
+      "category_slug": "pharma-wellness",
+      "subcategory_slug": "ayurveda",
+      "category_id": "46853481-25d4-4126-947b-c6d96f0669f6",
+      "subcategory_id": "186d5b1c-8714-4e83-8cc9-1c13e3c632dd",
+      "category_name": "Pharma Wellness",
+      "subcategory_name": "Ayurveda",
+      "url": "https://www.zepto.com/cn/pharma-wellness/ayurveda/cid/46853481-25d4-4126-947b-c6d96f0669f6/scid/186d5b1c-8714-4e83-8cc9-1c13e3c632dd"
+    },
+    {
+      "category_slug": "home-needs",
+      "subcategory_slug": "storage-organizer",
+      "category_id": "ac7b3ee1-98cb-48b8-8c62-27f47b4185a2",
+      "subcategory_id": "2270f04e-fc1b-48b6-973a-ed660c71c3e6",
+      "category_name": "Home Needs",
+      "subcategory_name": "Storage Organizer",
+      "url": "https://www.zepto.com/cn/home-needs/storage-organizer/cid/ac7b3ee1-98cb-48b8-8c62-27f47b4185a2/scid/2270f04e-fc1b-48b6-973a-ed660c71c3e6"
+    },
+    {
+      "category_slug": "bath-body",
+      "subcategory_slug": "toothbrush-more",
+      "category_id": "26e64367-19ad-4f80-a763-42599d4215ee",
+      "subcategory_id": "29c3e7d4-a68b-4051-86f6-0e57fd45bd62",
+      "category_name": "Bath Body",
+      "subcategory_name": "Toothbrush More",
+      "url": "https://www.zepto.com/cn/bath-body/toothbrush-more/cid/26e64367-19ad-4f80-a763-42599d4215ee/scid/29c3e7d4-a68b-4051-86f6-0e57fd45bd62"
+    },
+    {
+      "category_slug": "pharma-wellness",
+      "subcategory_slug": "handwash-sanitizers",
+      "category_id": "46853481-25d4-4126-947b-c6d96f0669f6",
+      "subcategory_id": "2cda7a85-545a-4dfd-856b-ec234017ab9e",
+      "category_name": "Pharma Wellness",
+      "subcategory_name": "Handwash Sanitizers",
+      "url": "https://www.zepto.com/cn/pharma-wellness/handwash-sanitizers/cid/46853481-25d4-4126-947b-c6d96f0669f6/scid/2cda7a85-545a-4dfd-856b-ec234017ab9e"
+    },
+    {
+      "category_slug": "electronics-appliances",
+      "subcategory_slug": "kitchen-appliances",
+      "category_id": "966dc8a0-8f21-420e-a897-8dd70b4228f6",
+      "subcategory_id": "2dff65f5-9d4e-4407-9315-62be2dc81c36",
+      "category_name": "Electronics Appliances",
+      "subcategory_name": "Kitchen Appliances",
+      "url": "https://www.zepto.com/cn/electronics-appliances/kitchen-appliances/cid/966dc8a0-8f21-420e-a897-8dd70b4228f6/scid/2dff65f5-9d4e-4407-9315-62be2dc81c36"
+    },
+    {
+      "category_slug": "dairy-bread-eggs",
+      "subcategory_slug": "yogurt-shrikhand",
+      "category_id": "4b938e02-7bde-4479-bc0a-2b54cb6bd5f5",
+      "subcategory_id": "4e975d7a-b3f9-4958-99e9-cd96cb7e7b0b",
+      "category_name": "Dairy Bread Eggs",
+      "subcategory_name": "Yogurt Shrikhand",
+      "url": "https://www.zepto.com/cn/dairy-bread-eggs/yogurt-shrikhand/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/4e975d7a-b3f9-4958-99e9-cd96cb7e7b0b"
+    },
+    {
+      "category_slug": "hair-care",
+      "subcategory_slug": "hair-tools-accessories",
+      "category_id": "513e1b9e-7f62-4063-bf57-4335521dc5de",
+      "subcategory_id": "59ae203f-71ad-4dc9-aaad-68158cc72f74",
+      "category_name": "Hair Care",
+      "subcategory_name": "Hair Tools Accessories",
+      "url": "https://www.zepto.com/cn/hair-care/hair-tools-accessories/cid/513e1b9e-7f62-4063-bf57-4335521dc5de/scid/59ae203f-71ad-4dc9-aaad-68158cc72f74"
+    },
+    {
+      "category_slug": "bath-body",
+      "subcategory_slug": "mouthwash",
+      "category_id": "26e64367-19ad-4f80-a763-42599d4215ee",
+      "subcategory_id": "5bc6fd78-22f6-44fa-b130-fcdeb7d2ea21",
+      "category_name": "Bath Body",
+      "subcategory_name": "Mouthwash",
+      "url": "https://www.zepto.com/cn/bath-body/mouthwash/cid/26e64367-19ad-4f80-a763-42599d4215ee/scid/5bc6fd78-22f6-44fa-b130-fcdeb7d2ea21"
+    },
+    {
+      "category_slug": "fragrances-grooming",
+      "subcategory_slug": "shaving-needs",
+      "category_id": "875671b0-ec18-42c7-9749-c2cf165509fa",
+      "subcategory_id": "5e106a20-23e1-443a-ae1e-6aed199581a6",
+      "category_name": "Fragrances Grooming",
+      "subcategory_name": "Shaving Needs",
+      "url": "https://www.zepto.com/cn/fragrances-grooming/shaving-needs/cid/875671b0-ec18-42c7-9749-c2cf165509fa/scid/5e106a20-23e1-443a-ae1e-6aed199581a6"
+    },
+    {
+      "category_slug": "frozen-food",
+      "subcategory_slug": "frozen-veggies-pulp",
+      "category_id": "aae1447d-1403-4a5c-a65f-bcb3afb93b5e",
+      "subcategory_id": "5fd4bc47-3a98-4984-a2ac-a8f02c4149cd",
+      "category_name": "Frozen Food",
+      "subcategory_name": "Frozen Veggies Pulp",
+      "url": "https://www.zepto.com/cn/frozen-food/frozen-veggies-pulp/cid/aae1447d-1403-4a5c-a65f-bcb3afb93b5e/scid/5fd4bc47-3a98-4984-a2ac-a8f02c4149cd"
+    },
+    {
+      "category_slug": "fruits-vegetables",
+      "subcategory_slug": "cuts-sprouts",
+      "category_id": "64374cfe-d06f-4a01-898e-c07c46462c36",
+      "subcategory_id": "6eb7a384-5edf-4a68-aa99-a1c2b30c2f19",
+      "category_name": "Fruits Vegetables",
+      "subcategory_name": "Cuts Sprouts",
+      "url": "https://www.zepto.com/cn/fruits-vegetables/cuts-sprouts/cid/64374cfe-d06f-4a01-898e-c07c46462c36/scid/6eb7a384-5edf-4a68-aa99-a1c2b30c2f19"
+    },
+    {
+      "category_slug": "skincare",
+      "subcategory_slug": "body-care",
+      "category_id": "d6c455aa-496b-4599-8f7d-81ecee8cf5a3",
+      "subcategory_id": "6ec089e8-3223-4f23-a8ea-7a6aec643e1e",
+      "category_name": "Skincare",
+      "subcategory_name": "Body Care",
+      "url": "https://www.zepto.com/cn/skincare/body-care/cid/d6c455aa-496b-4599-8f7d-81ecee8cf5a3/scid/6ec089e8-3223-4f23-a8ea-7a6aec643e1e"
+    },
+    {
+      "category_slug": "jewellery",
+      "subcategory_slug": "forehead-ornaments",
+      "category_id": "27b4b613-108e-4c77-91e6-b839d542385b",
+      "subcategory_id": "7931758e-5340-47d8-b2bf-c6706a276414",
+      "category_name": "Jewellery",
+      "subcategory_name": "Forehead Ornaments",
+      "url": "https://www.zepto.com/cn/jewellery/forehead-ornaments/cid/27b4b613-108e-4c77-91e6-b839d542385b/scid/7931758e-5340-47d8-b2bf-c6706a276414"
+    },
+    {
+      "category_slug": "cleaning-essentials",
+      "subcategory_slug": "fresheners",
+      "category_id": "1a7e46a8-e627-450f-8960-490b550eeee6",
+      "subcategory_id": "81839fb1-a09d-46e8-a58d-367b26df0de4",
+      "category_name": "Cleaning Essentials",
+      "subcategory_name": "Fresheners",
+      "url": "https://www.zepto.com/cn/cleaning-essentials/fresheners/cid/1a7e46a8-e627-450f-8960-490b550eeee6/scid/81839fb1-a09d-46e8-a58d-367b26df0de4"
+    },
+    {
+      "category_slug": "all",
+      "subcategory_slug": "all",
+      "category_id": "eebb07c1-149a-49e9-86ee-91bb739f1c3e",
+      "subcategory_id": "83433c6d-6829-4a49-a460-9dd881718917",
+      "category_name": "All",
+      "subcategory_name": "All",
+      "url": "https://www.zepto.com/cn/all/all/cid/eebb07c1-149a-49e9-86ee-91bb739f1c3e/scid/83433c6d-6829-4a49-a460-9dd881718917"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "men-s-bottomwear",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "84c1802d-a307-44b3-9616-b0849bd53cc5",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Men S Bottomwear",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/men-s-bottomwear/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/84c1802d-a307-44b3-9616-b0849bd53cc5"
+    },
+    {
+      "category_slug": "zepto-cafe",
+      "subcategory_slug": "snacks",
+      "category_id": "dfe16918-81b1-49c3-941b-acd557f7c277",
+      "subcategory_id": "87184f39-cda4-4d7b-8b7e-785302449ee4",
+      "category_name": "Zepto Cafe",
+      "subcategory_name": "Snacks",
+      "url": "https://www.zepto.com/cn/zepto-cafe/snacks/cid/dfe16918-81b1-49c3-941b-acd557f7c277/scid/87184f39-cda4-4d7b-8b7e-785302449ee4"
+    },
+    {
+      "category_slug": "hair-care",
+      "subcategory_slug": "hair-color",
+      "category_id": "513e1b9e-7f62-4063-bf57-4335521dc5de",
+      "subcategory_id": "87cfbc30-2aee-4bd7-ab10-920d61070201",
+      "category_name": "Hair Care",
+      "subcategory_name": "Hair Color",
+      "url": "https://www.zepto.com/cn/hair-care/hair-color/cid/513e1b9e-7f62-4063-bf57-4335521dc5de/scid/87cfbc30-2aee-4bd7-ab10-920d61070201"
+    },
+    {
+      "category_slug": "home-needs",
+      "subcategory_slug": "tissues-disposables",
+      "category_id": "ac7b3ee1-98cb-48b8-8c62-27f47b4185a2",
+      "subcategory_id": "9d0a7e11-73b6-4cbb-b00b-108b2f65e59f",
+      "category_name": "Home Needs",
+      "subcategory_name": "Tissues Disposables",
+      "url": "https://www.zepto.com/cn/home-needs/tissues-disposables/cid/ac7b3ee1-98cb-48b8-8c62-27f47b4185a2/scid/9d0a7e11-73b6-4cbb-b00b-108b2f65e59f"
+    },
+    {
+      "category_slug": "skincare",
+      "subcategory_slug": "face-wash-scrubs",
+      "category_id": "d6c455aa-496b-4599-8f7d-81ecee8cf5a3",
+      "subcategory_id": "9e89c253-515a-49f6-b80b-6eac6e3a5e52",
+      "category_name": "Skincare",
+      "subcategory_name": "Face Wash Scrubs",
+      "url": "https://www.zepto.com/cn/skincare/face-wash-scrubs/cid/d6c455aa-496b-4599-8f7d-81ecee8cf5a3/scid/9e89c253-515a-49f6-b80b-6eac6e3a5e52"
+    },
+    {
+      "category_slug": "protein-nutrition",
+      "subcategory_slug": "pre-post-workout",
+      "category_id": "2e75e2ea-5cb9-4f14-8a66-f3a61addeb32",
+      "subcategory_id": "a0878422-50f7-4cdc-8d6c-49428cbb9373",
+      "category_name": "Protein Nutrition",
+      "subcategory_name": "Pre Post Workout",
+      "url": "https://www.zepto.com/cn/protein-nutrition/pre-post-workout/cid/2e75e2ea-5cb9-4f14-8a66-f3a61addeb32/scid/a0878422-50f7-4cdc-8d6c-49428cbb9373"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "girls-swimwear",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "a3231440-34d1-42a4-b8d8-5164c2f6b162",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Girls Swimwear",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/girls-swimwear/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/a3231440-34d1-42a4-b8d8-5164c2f6b162"
+    },
+    {
+      "category_slug": "pharma-wellness",
+      "subcategory_slug": "stomach-care",
+      "category_id": "46853481-25d4-4126-947b-c6d96f0669f6",
+      "subcategory_id": "a6dd3dc8-fc04-464e-82cb-62c5432b9149",
+      "category_name": "Pharma Wellness",
+      "subcategory_name": "Stomach Care",
+      "url": "https://www.zepto.com/cn/pharma-wellness/stomach-care/cid/46853481-25d4-4126-947b-c6d96f0669f6/scid/a6dd3dc8-fc04-464e-82cb-62c5432b9149"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "men-s-innerwear",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "a7bfbde4-087f-4fcc-92ff-848cfd13ad2c",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Men S Innerwear",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/men-s-innerwear/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/a7bfbde4-087f-4fcc-92ff-848cfd13ad2c"
+    },
+    {
+      "category_slug": "pharma-wellness",
+      "subcategory_slug": "other-pharma-items",
+      "category_id": "46853481-25d4-4126-947b-c6d96f0669f6",
+      "subcategory_id": "a833c701-9e3d-419d-ba7c-1d405c7e020e",
+      "category_name": "Pharma Wellness",
+      "subcategory_name": "Other Pharma Items",
+      "url": "https://www.zepto.com/cn/pharma-wellness/other-pharma-items/cid/46853481-25d4-4126-947b-c6d96f0669f6/scid/a833c701-9e3d-419d-ba7c-1d405c7e020e"
+    },
+    {
+      "category_slug": "home-needs",
+      "subcategory_slug": "gardening",
+      "category_id": "ac7b3ee1-98cb-48b8-8c62-27f47b4185a2",
+      "subcategory_id": "ac5a1bc2-2865-4050-a01b-527e014b73d8",
+      "category_name": "Home Needs",
+      "subcategory_name": "Gardening",
+      "url": "https://www.zepto.com/cn/home-needs/gardening/cid/ac7b3ee1-98cb-48b8-8c62-27f47b4185a2/scid/ac5a1bc2-2865-4050-a01b-527e014b73d8"
+    },
+    {
+      "category_slug": "skincare",
+      "subcategory_slug": "face-care",
+      "category_id": "d6c455aa-496b-4599-8f7d-81ecee8cf5a3",
+      "subcategory_id": "ac7f892d-2f77-4d4a-88b3-608d58245a72",
+      "category_name": "Skincare",
+      "subcategory_name": "Face Care",
+      "url": "https://www.zepto.com/cn/skincare/face-care/cid/d6c455aa-496b-4599-8f7d-81ecee8cf5a3/scid/ac7f892d-2f77-4d4a-88b3-608d58245a72"
+    },
+    {
+      "category_slug": "apparel-lifestyle",
+      "subcategory_slug": "men-s-topwear",
+      "category_id": "f6e7553c-7720-40b2-8de3-9a6a10f285dc",
+      "subcategory_id": "b280c20c-0eb9-430f-a90a-a2d4ae0294c2",
+      "category_name": "Apparel Lifestyle",
+      "subcategory_name": "Men S Topwear",
+      "url": "https://www.zepto.com/cn/apparel-lifestyle/men-s-topwear/cid/f6e7553c-7720-40b2-8de3-9a6a10f285dc/scid/b280c20c-0eb9-430f-a90a-a2d4ae0294c2"
+    },
+    {
+      "category_slug": "home-needs",
+      "subcategory_slug": "home-furnishing",
+      "category_id": "ac7b3ee1-98cb-48b8-8c62-27f47b4185a2",
+      "subcategory_id": "b4ddbe38-f680-499d-ac87-2cc30b8baa43",
+      "category_name": "Home Needs",
+      "subcategory_name": "Home Furnishing",
+      "url": "https://www.zepto.com/cn/home-needs/home-furnishing/cid/ac7b3ee1-98cb-48b8-8c62-27f47b4185a2/scid/b4ddbe38-f680-499d-ac87-2cc30b8baa43"
+    },
+    {
+      "category_slug": "home-needs",
+      "subcategory_slug": "pooja-worship-needs",
+      "category_id": "ac7b3ee1-98cb-48b8-8c62-27f47b4185a2",
+      "subcategory_id": "b61dac0b-7229-48f8-ab6d-37c4bb03ffe3",
+      "category_name": "Home Needs",
+      "subcategory_name": "Pooja Worship Needs",
+      "url": "https://www.zepto.com/cn/home-needs/pooja-worship-needs/cid/ac7b3ee1-98cb-48b8-8c62-27f47b4185a2/scid/b61dac0b-7229-48f8-ab6d-37c4bb03ffe3"
+    },
+    {
+      "category_slug": "tea-coffee-more",
+      "subcategory_slug": "drink-mixes",
+      "category_id": "d7e98d87-6850-4cf9-a37c-e4fa34ae302c",
+      "subcategory_id": "ba628461-3043-41a7-abba-32518b742930",
+      "category_name": "Tea Coffee More",
+      "subcategory_name": "Drink Mixes",
+      "url": "https://www.zepto.com/cn/tea-coffee-more/drink-mixes/cid/d7e98d87-6850-4cf9-a37c-e4fa34ae302c/scid/ba628461-3043-41a7-abba-32518b742930"
+    },
+    {
+      "category_slug": "ice-creams-more",
+      "subcategory_slug": "ice-cubes-ice-pops",
+      "category_id": "65ee1b69-4e24-45b9-ac84-aace3c0854d8",
+      "subcategory_id": "bef8a1a8-889e-4703-9df9-2cff145f18ff",
+      "category_name": "Ice Creams More",
+      "subcategory_name": "Ice Cubes Ice Pops",
+      "url": "https://www.zepto.com/cn/ice-creams-more/ice-cubes-ice-pops/cid/65ee1b69-4e24-45b9-ac84-aace3c0854d8/scid/bef8a1a8-889e-4703-9df9-2cff145f18ff"
+    },
+    {
+      "category_slug": "packaged-food",
+      "subcategory_slug": "ready-to-eat",
+      "category_id": "5736ad99-f589-4d58-a24b-a12222320a37",
+      "subcategory_id": "c28114a0-2fc3-4274-8a68-04ead1adfb47",
+      "category_name": "Packaged Food",
+      "subcategory_name": "Ready To Eat",
+      "url": "https://www.zepto.com/cn/packaged-food/ready-to-eat/cid/5736ad99-f589-4d58-a24b-a12222320a37/scid/c28114a0-2fc3-4274-8a68-04ead1adfb47"
+    },
+    {
+      "category_slug": "sexual-wellness",
+      "subcategory_slug": "gift-kits",
+      "category_id": "5ff01c62-4d1a-4eae-b566-2fe3b345abe9",
+      "subcategory_id": "c6bb95de-be71-48cc-b033-1f4f7f86469e",
+      "category_name": "Sexual Wellness",
+      "subcategory_name": "Gift Kits",
+      "url": "https://www.zepto.com/cn/sexual-wellness/gift-kits/cid/5ff01c62-4d1a-4eae-b566-2fe3b345abe9/scid/c6bb95de-be71-48cc-b033-1f4f7f86469e"
+    },
+    {
+      "category_slug": "bath-body",
+      "subcategory_slug": "talcum-powder",
+      "category_id": "26e64367-19ad-4f80-a763-42599d4215ee",
+      "subcategory_id": "c95e9e86-e3c1-4806-be5b-ab323bf86c6b",
+      "category_name": "Bath Body",
+      "subcategory_name": "Talcum Powder",
+      "url": "https://www.zepto.com/cn/bath-body/talcum-powder/cid/26e64367-19ad-4f80-a763-42599d4215ee/scid/c95e9e86-e3c1-4806-be5b-ab323bf86c6b"
+    },
+    {
+      "category_slug": "sweet-cravings",
+      "subcategory_slug": "chocolates",
+      "category_id": "adab2f81-7140-4fe9-b8cf-3d809f40e38a",
+      "subcategory_id": "ca984d2d-70b8-464c-b182-41aa328b3d4b",
+      "category_name": "Sweet Cravings",
+      "subcategory_name": "Chocolates",
+      "url": "https://www.zepto.com/cn/sweet-cravings/chocolates/cid/adab2f81-7140-4fe9-b8cf-3d809f40e38a/scid/ca984d2d-70b8-464c-b182-41aa328b3d4b"
+    },
+    {
+      "category_slug": "breakfast-sauces",
+      "subcategory_slug": "ketchup-sauces",
+      "category_id": "f804bccc-c565-4879-b6ab-1b964bb1ed41",
+      "subcategory_id": "cbacc78b-ae17-4324-8fd5-0ba540b10fb7",
+      "category_name": "Breakfast Sauces",
+      "subcategory_name": "Ketchup Sauces",
+      "url": "https://www.zepto.com/cn/breakfast-sauces/ketchup-sauces/cid/f804bccc-c565-4879-b6ab-1b964bb1ed41/scid/cbacc78b-ae17-4324-8fd5-0ba540b10fb7"
+    },
+    {
+      "category_slug": "hair-care",
+      "subcategory_slug": "shampoo",
+      "category_id": "513e1b9e-7f62-4063-bf57-4335521dc5de",
+      "subcategory_id": "cbc00f48-d856-4900-ad3e-859f332f199b",
+      "category_name": "Hair Care",
+      "subcategory_name": "Shampoo",
+      "url": "https://www.zepto.com/cn/hair-care/shampoo/cid/513e1b9e-7f62-4063-bf57-4335521dc5de/scid/cbc00f48-d856-4900-ad3e-859f332f199b"
+    },
+    {
+      "category_slug": "cleaning-essentials",
+      "subcategory_slug": "floor-surface-cleaners",
+      "category_id": "1a7e46a8-e627-450f-8960-490b550eeee6",
+      "subcategory_id": "d22a9423-0063-4102-9f09-57e79ff030e3",
+      "category_name": "Cleaning Essentials",
+      "subcategory_name": "Floor Surface Cleaners",
+      "url": "https://www.zepto.com/cn/cleaning-essentials/floor-surface-cleaners/cid/1a7e46a8-e627-450f-8960-490b550eeee6/scid/d22a9423-0063-4102-9f09-57e79ff030e3"
+    },
+    {
+      "category_slug": "tea-coffee-more",
+      "subcategory_slug": "green-herbal-tea",
+      "category_id": "d7e98d87-6850-4cf9-a37c-e4fa34ae302c",
+      "subcategory_id": "d9d62fba-e97d-4d9d-88a9-c226f116e976",
+      "category_name": "Tea Coffee More",
+      "subcategory_name": "Green Herbal Tea",
+      "url": "https://www.zepto.com/cn/tea-coffee-more/green-herbal-tea/cid/d7e98d87-6850-4cf9-a37c-e4fa34ae302c/scid/d9d62fba-e97d-4d9d-88a9-c226f116e976"
+    },
+    {
+      "category_slug": "munchies",
+      "subcategory_slug": "local-favorites-deactivated",
+      "category_id": "d2c2a144-43cd-43e5-b308-92628fa68596",
+      "subcategory_id": "dcdee4e9-009d-483c-bd8f-084c874bbb62",
+      "category_name": "Munchies",
+      "subcategory_name": "Local Favorites Deactivated",
+      "url": "https://www.zepto.com/cn/munchies/local-favorites-deactivated/cid/d2c2a144-43cd-43e5-b308-92628fa68596/scid/dcdee4e9-009d-483c-bd8f-084c874bbb62"
+    },
+    {
+      "category_slug": "protein-nutrition",
+      "subcategory_slug": "fitness-supplements",
+      "category_id": "2e75e2ea-5cb9-4f14-8a66-f3a61addeb32",
+      "subcategory_id": "e9ea98c4-1c62-4e0c-9e0b-009636d1bed4",
+      "category_name": "Protein Nutrition",
+      "subcategory_name": "Fitness Supplements",
+      "url": "https://www.zepto.com/cn/protein-nutrition/fitness-supplements/cid/2e75e2ea-5cb9-4f14-8a66-f3a61addeb32/scid/e9ea98c4-1c62-4e0c-9e0b-009636d1bed4"
+    },
+    {
+      "category_slug": "makeup-beauty",
+      "subcategory_slug": "beauty-accessories",
+      "category_id": "2e5eae34-1666-4ddc-8903-76e6547f72e4",
+      "subcategory_id": "ec8f18ec-4d22-46cf-b4e1-f81df396f560",
+      "category_name": "Makeup Beauty",
+      "subcategory_name": "Beauty Accessories",
+      "url": "https://www.zepto.com/cn/makeup-beauty/beauty-accessories/cid/2e5eae34-1666-4ddc-8903-76e6547f72e4/scid/ec8f18ec-4d22-46cf-b4e1-f81df396f560"
+    },
+    {
+      "category_slug": "pharma-wellness",
+      "subcategory_slug": "women-care",
+      "category_id": "46853481-25d4-4126-947b-c6d96f0669f6",
+      "subcategory_id": "f11e6ee4-03ae-406b-b6a0-d886c514ae9a",
+      "category_name": "Pharma Wellness",
+      "subcategory_name": "Women Care",
+      "url": "https://www.zepto.com/cn/pharma-wellness/women-care/cid/46853481-25d4-4126-947b-c6d96f0669f6/scid/f11e6ee4-03ae-406b-b6a0-d886c514ae9a"
+    },
+    {
+      "category_slug": "masala-dry-fruits-more",
+      "subcategory_slug": "dates-seeds",
+      "category_id": "0c2ccf87-e32c-4438-9560-8d9488fc73e0",
+      "subcategory_id": "fd487995-4d2b-4b23-a6ef-831bc118dedb",
+      "category_name": "Masala Dry Fruits More",
+      "subcategory_name": "Dates Seeds",
+      "url": "https://www.zepto.com/cn/masala-dry-fruits-more/dates-seeds/cid/0c2ccf87-e32c-4438-9560-8d9488fc73e0/scid/fd487995-4d2b-4b23-a6ef-831bc118dedb"
+    }
+  ]
+}
