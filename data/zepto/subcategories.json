@@ -1,0 +1,49 @@
+{
+  "atta_rice_oil_dals": [
+    {"name": "Oil", "url": "https://www.zepto.com/cn/atta-rice-oil-dals/oil/cid/2f7190d0-7c40-458b-b450-9a1006db3d95/scid/2b5e863c-9497-46ae-a7e9-85f6ef7380da"},
+    {"name": "Atta", "url": "https://www.zepto.com/cn/atta-rice-oil-dals/atta/cid/2f7190d0-7c40-458b-b450-9a1006db3d95/scid/15644eea-d781-4cdd-8d85-e63bd9706b96"},
+    {"name": "Besan Sooji Maida", "url": "https://www.zepto.com/cn/atta-rice-oil-dals/besan-sooji-maida/cid/2f7190d0-7c40-458b-b450-9a1006db3d95/scid/170f0eb7-78b2-4f0f-b4c5-566e4991db5b"},
+    {"name": "Healthy Atta & Millets", "url": "https://www.zepto.com/cn/atta-rice-oil-dals/healthy-atta-millets/cid/2f7190d0-7c40-458b-b450-9a1006db3d95/scid/443bc767-1e82-46fb-a87a-3d4a2e8f6c4b"},
+    {"name": "Ghee", "url": "https://www.zepto.com/cn/atta-rice-oil-dals/ghee/cid/2f7190d0-7c40-458b-b450-9a1006db3d95/scid/56c015a7-b283-4e7a-b3ba-0f76f4f181dc"},
+    {"name": "Dals & Pulses", "url": "https://www.zepto.com/cn/atta-rice-oil-dals/dals-pulses/cid/2f7190d0-7c40-458b-b450-9a1006db3d95/scid/59c951bd-4cb4-4659-9467-1e72a8f972d9"},
+    {"name": "Rice & More", "url": "https://www.zepto.com/cn/atta-rice-oil-dals/rice-more/cid/2f7190d0-7c40-458b-b450-9a1006db3d95/scid/9798b797-0db0-4b04-b198-31b0a5849318"},
+    {"name": "Olive & Cold Press Oil", "url": "https://www.zepto.com/cn/atta-rice-oil-dals/olive-cold-press-oil/cid/2f7190d0-7c40-458b-b450-9a1006db3d95/scid/98cf88c0-6895-459a-ad43-ffeb1ceee2e0"}
+  ],
+  "dairy_bread_eggs": [
+    {"name": "Yogurts & Dahi", "url": "https://www.zepto.com/cn/dairy-bread-eggs/yogurts-dahi/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/4e975d7a-b3f9-4958-99e9-cd96cb7e7b0b"},
+    {"name": "Eggs", "url": "https://www.zepto.com/cn/dairy-bread-eggs/eggs/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/d638f064-e7f3-4161-b692-a3f472c64020"},
+    {"name": "Cheese", "url": "https://www.zepto.com/cn/dairy-bread-eggs/cheese/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/f594b28a-4775-48ac-8840-b9030229ff87"},
+    {"name": "Butter", "url": "https://www.zepto.com/cn/dairy-bread-eggs/butter/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/62b2b1eb-cd07-41b2-b567-cc878d2287fc"},
+    {"name": "Paneer & Cream", "url": "https://www.zepto.com/cn/dairy-bread-eggs/paneer-cream/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/1806412f-190a-46b1-be42-4237a4146eb1"},
+    {"name": "Milk", "url": "https://www.zepto.com/cn/dairy-bread-eggs/milk/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/8fb65b63-0d7a-4ceb-9d1f-11f0e7d4f7eb"},
+    {"name": "Breads & Buns", "url": "https://www.zepto.com/cn/dairy-bread-eggs/breads-buns/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/30566884-bbd7-49fa-8c3f-43c90a571c9e"}
+  ],
+  "fruits_vegetables": [
+    {"name": "Fresh Fruits", "url": "https://www.zepto.com/cn/fruits-vegetables/fresh-fruits/cid/64374cfe-d06f-4a01-898e-c07c46462c36/scid/09e63c15-e5f7-4712-9ff8-513250b79942"},
+    {"name": "Fresh Vegetables", "url": "https://www.zepto.com/cn/fruits-vegetables/fresh-vegetables/cid/64374cfe-d06f-4a01-898e-c07c46462c36/scid/b4827798-fcb6-4520-ba5b-0f2bd9bd7208"},
+    {"name": "Herbs & Seasonings", "url": "https://www.zepto.com/cn/fruits-vegetables/herbs-seasonings/cid/64374cfe-d06f-4a01-898e-c07c46462c36/scid/89f5a1bc-8c5f-4a31-b123-45678abcdef0"}
+  ],
+  "munchies": [
+    {"name": "Chips & Crisps", "url": "https://www.zepto.com/cn/munchies/chips-crisps/cid/d2c2a144-43cd-43e5-b308-92628fa68596/scid/df4f5100-c02f-4906-83b8-ddb744081a7a"},
+    {"name": "Nachos", "url": "https://www.zepto.com/cn/munchies/nachos/cid/d2c2a144-43cd-43e5-b308-92628fa68596/scid/f6abc123-4567-890d-ef12-34567890abcd"},
+    {"name": "Namkeen", "url": "https://www.zepto.com/cn/munchies/namkeen/cid/d2c2a144-43cd-43e5-b308-92628fa68596/scid/a1b2c3d4-5678-90ab-cdef-1234567890ab"}
+  ],
+  "masala_dry_fruits": [
+    {"name": "Dry Fruits", "url": "https://www.zepto.com/cn/masala-dry-fruits-more/dry-fruits/cid/0c2ccf87-e32c-4438-9560-8d9488fc73e0/scid/12345678-abcd-ef01-2345-67890abcdef0"},
+    {"name": "Spices & Masala", "url": "https://www.zepto.com/cn/masala-dry-fruits-more/spices-masala/cid/0c2ccf87-e32c-4438-9560-8d9488fc73e0/scid/abcdef12-3456-7890-abcd-ef0123456789"},
+    {"name": "Salt Sugar & Jaggery", "url": "https://www.zepto.com/cn/masala-dry-fruits-more/salt-sugar-jaggery/cid/0c2ccf87-e32c-4438-9560-8d9488fc73e0/scid/98765432-fedc-ba09-8765-43210fedcba9"}
+  ],
+  "tea_coffee": [
+    {"name": "Tea", "url": "https://www.zepto.com/cn/tea-coffee-more/tea/cid/d7e98d87-6850-4cf9-a37c-e4fa34ae302c/scid/11223344-5566-7788-99aa-bbccddeeff00"},
+    {"name": "Coffee", "url": "https://www.zepto.com/cn/tea-coffee-more/coffee/cid/d7e98d87-6850-4cf9-a37c-e4fa34ae302c/scid/aabbccdd-eeff-0011-2233-445566778899"}
+  ],
+  "biscuits": [
+    {"name": "Cream Biscuits", "url": "https://www.zepto.com/cn/biscuits/cream-biscuits/cid/2552acf2-2f77-4714-adc8-e505de3985db/scid/cream12345"},
+    {"name": "Glucose & Marie", "url": "https://www.zepto.com/cn/biscuits/glucose-marie/cid/2552acf2-2f77-4714-adc8-e505de3985db/scid/glucose12345"}
+  ],
+  "breakfast_sauces": [
+    {"name": "Ketchup & Sauces", "url": "https://www.zepto.com/cn/breakfast-sauces/ketchup-sauces/cid/f804bccc-c565-4879-b6ab-1b964bb1ed41/scid/ketchup12345"},
+    {"name": "Jams & Spreads", "url": "https://www.zepto.com/cn/breakfast-sauces/jams-spreads/cid/f804bccc-c565-4879-b6ab-1b964bb1ed41/scid/jams12345"},
+    {"name": "Honey", "url": "https://www.zepto.com/cn/breakfast-sauces/honey/cid/f804bccc-c565-4879-b6ab-1b964bb1ed41/scid/honey12345"}
+  ]
+}

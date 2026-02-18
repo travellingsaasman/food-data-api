@@ -1,0 +1,507 @@
+[
+  {
+    "category": "Frozen Food",
+    "subcategory": "Roti Paratha",
+    "url": "https://www.zepto.com/cn/frozen-food/roti-paratha/cid/aae1447d-1403-4a5c-a65f-bcb3afb93b5e/scid/007dfd66-b8b4-4cbe-8454-ddcaaecafe16"
+  },
+  {
+    "category": "Atta Rice Oil Dals",
+    "subcategory": "Atta",
+    "url": "https://www.zepto.com/cn/atta-rice-oil-dals/atta/cid/2f7190d0-7c40-458b-b450-9a1006db3d95/scid/15644eea-d781-4cdd-8d85-e63bd9706b96"
+  },
+  {
+    "category": "Atta Rice Oil Dals",
+    "subcategory": "Besan Sooji Maida",
+    "url": "https://www.zepto.com/cn/atta-rice-oil-dals/besan-sooji-maida/cid/2f7190d0-7c40-458b-b450-9a1006db3d95/scid/170f0eb7-78b2-4f0f-b4c5-566e4991db5b"
+  },
+  {
+    "category": "Meats Fish Eggs",
+    "subcategory": "Canned Dry Fish Pickles",
+    "url": "https://www.zepto.com/cn/meats-fish-eggs/canned-dry-fish-pickles/cid/4654bd8a-fb30-4ee1-ab30-4bf581b6c6e3/scid/391ae139-16d9-4cdf-8c4f-22f5694a9d9e"
+  },
+  {
+    "category": "Dairy Bread Eggs",
+    "subcategory": "Milk Based Drinks",
+    "url": "https://www.zepto.com/cn/dairy-bread-eggs/milk-based-drinks/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/3f31272f-bf35-4e1c-b1f9-cc44d38ca464"
+  },
+  {
+    "category": "Dairy Bread Eggs",
+    "subcategory": "Fresh Bakery",
+    "url": "https://www.zepto.com/cn/dairy-bread-eggs/fresh-bakery/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/40a4be6f-9589-4a6e-9554-99e4039393a8"
+  },
+  {
+    "category": "Fruits Vegetables",
+    "subcategory": "Organics Hydroponics",
+    "url": "https://www.zepto.com/cn/fruits-vegetables/organics-hydroponics/cid/64374cfe-d06f-4a01-898e-c07c46462c36/scid/414e9381-3ba3-4632-92e0-00fc29304900"
+  },
+  {
+    "category": "Meats Fish Eggs",
+    "subcategory": "Marinades Snacks",
+    "url": "https://www.zepto.com/cn/meats-fish-eggs/marinades-snacks/cid/4654bd8a-fb30-4ee1-ab30-4bf581b6c6e3/scid/4c2742c5-f4ca-4454-90ef-17527af7160f"
+  },
+  {
+    "category": "Atta Rice Oil Dals",
+    "subcategory": "Dals Pulses",
+    "url": "https://www.zepto.com/cn/atta-rice-oil-dals/dals-pulses/cid/2f7190d0-7c40-458b-b450-9a1006db3d95/scid/59c951bd-4cb4-4659-9467-1e72a8f972d9"
+  },
+  {
+    "category": "Meats Fish Eggs",
+    "subcategory": "Chicken",
+    "url": "https://www.zepto.com/cn/meats-fish-eggs/chicken/cid/4654bd8a-fb30-4ee1-ab30-4bf581b6c6e3/scid/95157c69-f03e-48e5-ae2f-d947af34397f"
+  },
+  {
+    "category": "Masala Dry Fruits More",
+    "subcategory": "Dehydrated Dried",
+    "url": "https://www.zepto.com/cn/masala-dry-fruits-more/dehydrated-dried/cid/0c2ccf87-e32c-4438-9560-8d9488fc73e0/scid/9dfe488f-ee38-43e2-99c6-78d6d17676d2"
+  },
+  {
+    "category": "Masala Dry Fruits More",
+    "subcategory": "Dry Fruits Nuts",
+    "url": "https://www.zepto.com/cn/masala-dry-fruits-more/dry-fruits-nuts/cid/0c2ccf87-e32c-4438-9560-8d9488fc73e0/scid/dee4d0bc-0348-492c-9fa3-e55b7e2a44b3"
+  },
+  {
+    "category": "Dairy Bread Eggs",
+    "subcategory": "Paneer Cream",
+    "url": "https://www.zepto.com/cn/dairy-bread-eggs/paneer-cream/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/1806412f-190a-46b1-be42-4237a4146eb1"
+  },
+  {
+    "category": "Atta Rice Oil Dals",
+    "subcategory": "Oil",
+    "url": "https://www.zepto.com/cn/atta-rice-oil-dals/oil/cid/2f7190d0-7c40-458b-b450-9a1006db3d95/scid/2b5e863c-9497-46ae-a7e9-85f6ef7380da"
+  },
+  {
+    "category": "Dairy Bread Eggs",
+    "subcategory": "Batters Mixes",
+    "url": "https://www.zepto.com/cn/dairy-bread-eggs/batters-mixes/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/30fc9ec2-394f-4d84-8aca-51a8929c4870"
+  },
+  {
+    "category": "Dairy Bread Eggs",
+    "subcategory": "Curd Probiotic Drink",
+    "url": "https://www.zepto.com/cn/dairy-bread-eggs/curd-probiotic-drink/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/5418d83c-4c50-4914-a768-b02c2aac2fea"
+  },
+  {
+    "category": "Biscuits",
+    "subcategory": "Digestives",
+    "url": "https://www.zepto.com/cn/biscuits/digestives/cid/2552acf2-2f77-4714-adc8-e505de3985db/scid/55908138-86a0-49d8-a77a-1ebb4bc1bb8f"
+  },
+  {
+    "category": "Breakfast Sauces",
+    "subcategory": "Peanut Butter",
+    "url": "https://www.zepto.com/cn/breakfast-sauces/peanut-butter/cid/f804bccc-c565-4879-b6ab-1b964bb1ed41/scid/645a456e-adb6-4756-89d7-d9dda53738f8"
+  },
+  {
+    "category": "Breakfast Sauces",
+    "subcategory": "Top Picks",
+    "url": "https://www.zepto.com/cn/breakfast-sauces/top-picks/cid/f804bccc-c565-4879-b6ab-1b964bb1ed41/scid/68922181-4e0e-4a6b-9862-cf1a02ba240e"
+  },
+  {
+    "category": "Biscuits",
+    "subcategory": "Rusk Khari",
+    "url": "https://www.zepto.com/cn/biscuits/rusk-khari/cid/2552acf2-2f77-4714-adc8-e505de3985db/scid/703faebd-1224-4913-8c32-bb862d1fda62"
+  },
+  {
+    "category": "Biscuits",
+    "subcategory": "Cookies",
+    "url": "https://www.zepto.com/cn/biscuits/cookies/cid/2552acf2-2f77-4714-adc8-e505de3985db/scid/7b07c0b3-d0c6-4ec0-995a-35c17adce0d8"
+  },
+  {
+    "category": "Atta Rice Oil Dals",
+    "subcategory": "Rice More",
+    "url": "https://www.zepto.com/cn/atta-rice-oil-dals/rice-more/cid/2f7190d0-7c40-458b-b450-9a1006db3d95/scid/9798b797-0db0-4b04-b198-31b0a5849318"
+  },
+  {
+    "category": "Breakfast Sauces",
+    "subcategory": "Honey Spreads",
+    "url": "https://www.zepto.com/cn/breakfast-sauces/honey-spreads/cid/f804bccc-c565-4879-b6ab-1b964bb1ed41/scid/afce5895-f724-458f-8e23-28354a437c96"
+  },
+  {
+    "category": "Meats Fish Eggs",
+    "subcategory": "Sausages Salami",
+    "url": "https://www.zepto.com/cn/meats-fish-eggs/sausages-salami/cid/4654bd8a-fb30-4ee1-ab30-4bf581b6c6e3/scid/bb339b8b-5c92-4813-a95d-c856ac083556"
+  },
+  {
+    "category": "Fruits Vegetables",
+    "subcategory": "Leafy Herbs Seasonings",
+    "url": "https://www.zepto.com/cn/fruits-vegetables/leafy-herbs-seasonings/cid/64374cfe-d06f-4a01-898e-c07c46462c36/scid/bc8ec1d3-95cf-4af5-aa60-43cde99798c1"
+  },
+  {
+    "category": "Masala Dry Fruits More",
+    "subcategory": "Whole Spices Seasonings",
+    "url": "https://www.zepto.com/cn/masala-dry-fruits-more/whole-spices-seasonings/cid/0c2ccf87-e32c-4438-9560-8d9488fc73e0/scid/bd6ea174-5b9a-4071-aae1-a7807615351e"
+  },
+  {
+    "category": "Ice Creams More",
+    "subcategory": "Sticks",
+    "url": "https://www.zepto.com/cn/ice-creams-more/sticks/cid/65ee1b69-4e24-45b9-ac84-aace3c0854d8/scid/ce577733-e375-48f8-9009-97f5c9a5e68f"
+  },
+  {
+    "category": "Sweet Cravings",
+    "subcategory": "Candies Gums Mints",
+    "url": "https://www.zepto.com/cn/sweet-cravings/candies-gums-mints/cid/adab2f81-7140-4fe9-b8cf-3d809f40e38a/scid/e300bbfe-74db-4a3f-ba9c-052f296212c2"
+  },
+  {
+    "category": "Packaged Food",
+    "subcategory": "Pasta Soups",
+    "url": "https://www.zepto.com/cn/packaged-food/pasta-soups/cid/5736ad99-f589-4d58-a24b-a12222320a37/scid/3d2b3d99-63d3-43da-b100-baa0c8b283bf"
+  },
+  {
+    "category": "Cold Drinks Juices",
+    "subcategory": "Non Alcoholic Drink",
+    "url": "https://www.zepto.com/cn/cold-drinks-juices/non-alcoholic-drink/cid/947a72ae-b371-45cb-ad3a-778c05b64399/scid/48634884-3014-4718-b5c7-c7684ff34bee"
+  },
+  {
+    "category": "Atta Rice Oil Dals",
+    "subcategory": "Ghee",
+    "url": "https://www.zepto.com/cn/atta-rice-oil-dals/ghee/cid/2f7190d0-7c40-458b-b450-9a1006db3d95/scid/56c015a7-b283-4e7a-b3ba-0f76f4f181dc"
+  },
+  {
+    "category": "Sweet Cravings",
+    "subcategory": "Indian Mithai",
+    "url": "https://www.zepto.com/cn/sweet-cravings/indian-mithai/cid/adab2f81-7140-4fe9-b8cf-3d809f40e38a/scid/b353a8f7-7dd6-4efe-954f-45bbddb6be5f"
+  },
+  {
+    "category": "Fruits Vegetables",
+    "subcategory": "Fresh Vegetables",
+    "url": "https://www.zepto.com/cn/fruits-vegetables/fresh-vegetables/cid/64374cfe-d06f-4a01-898e-c07c46462c36/scid/b4827798-fcb6-4520-ba5b-0f2bd9bd7208"
+  },
+  {
+    "category": "Ice Creams More",
+    "subcategory": "Cones",
+    "url": "https://www.zepto.com/cn/ice-creams-more/cones/cid/65ee1b69-4e24-45b9-ac84-aace3c0854d8/scid/b7093ed5-7170-408a-99f0-c8d0bd21b25a"
+  },
+  {
+    "category": "Atta Rice Oil Dals",
+    "subcategory": "Millets Other Flours",
+    "url": "https://www.zepto.com/cn/atta-rice-oil-dals/millets-other-flours/cid/2f7190d0-7c40-458b-b450-9a1006db3d95/scid/bc973579-943e-49c2-90ac-6a304665bd08"
+  },
+  {
+    "category": "Cold Drinks Juices",
+    "subcategory": "Fruit Juices Drinks",
+    "url": "https://www.zepto.com/cn/cold-drinks-juices/fruit-juices-drinks/cid/947a72ae-b371-45cb-ad3a-778c05b64399/scid/c41e2ad3-2dcc-42b6-829b-7e3a8e78d754"
+  },
+  {
+    "category": "Cold Drinks Juices",
+    "subcategory": "Energy Drink",
+    "url": "https://www.zepto.com/cn/cold-drinks-juices/energy-drink/cid/947a72ae-b371-45cb-ad3a-778c05b64399/scid/c6bba2b2-6b2d-4bd4-ae3d-adb6f9383393"
+  },
+  {
+    "category": "Packaged Food",
+    "subcategory": "Ready To Cook",
+    "url": "https://www.zepto.com/cn/packaged-food/ready-to-cook/cid/5736ad99-f589-4d58-a24b-a12222320a37/scid/c827a6d8-3834-4f80-9146-14dc7cc69eb4"
+  },
+  {
+    "category": "Frozen Food",
+    "subcategory": "Veg Snacks",
+    "url": "https://www.zepto.com/cn/frozen-food/veg-snacks/cid/aae1447d-1403-4a5c-a65f-bcb3afb93b5e/scid/dd3fd11a-5ed1-40a9-8e3c-edf3b82e7d32"
+  },
+  {
+    "category": "Fruits Vegetables",
+    "subcategory": "Fresh Fruits",
+    "url": "https://www.zepto.com/cn/fruits-vegetables/fresh-fruits/cid/64374cfe-d06f-4a01-898e-c07c46462c36/scid/09e63c15-e5f7-4712-9ff8-513250b79942"
+  },
+  {
+    "category": "Tea Coffee More",
+    "subcategory": "Cold Coffee Iced Tea",
+    "url": "https://www.zepto.com/cn/tea-coffee-more/cold-coffee-iced-tea/cid/d7e98d87-6850-4cf9-a37c-e4fa34ae302c/scid/0d755c75-58ff-446e-8761-8b06781d167a"
+  },
+  {
+    "category": "Frozen Food",
+    "subcategory": "Raw Meats",
+    "url": "https://www.zepto.com/cn/frozen-food/raw-meats/cid/aae1447d-1403-4a5c-a65f-bcb3afb93b5e/scid/1ee9ca43-47d6-470e-8b3e-158f0c951fb0"
+  },
+  {
+    "category": "Frozen Food",
+    "subcategory": "Sausages Salami Ham",
+    "url": "https://www.zepto.com/cn/frozen-food/sausages-salami-ham/cid/aae1447d-1403-4a5c-a65f-bcb3afb93b5e/scid/5fd934bf-6fea-41e6-b7aa-9a98f45bf015"
+  },
+  {
+    "category": "Dairy Bread Eggs",
+    "subcategory": "Butter",
+    "url": "https://www.zepto.com/cn/dairy-bread-eggs/butter/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/62b2b1eb-cd07-41b2-b567-cc878d2287fc"
+  },
+  {
+    "category": "Fruits Vegetables",
+    "subcategory": "Plants Gardening",
+    "url": "https://www.zepto.com/cn/fruits-vegetables/plants-gardening/cid/64374cfe-d06f-4a01-898e-c07c46462c36/scid/97c725c2-41b3-4d78-ba3e-75e92b3ba054"
+  },
+  {
+    "category": "Fruits Vegetables",
+    "subcategory": "Dried Dehydrated",
+    "url": "https://www.zepto.com/cn/fruits-vegetables/dried-dehydrated/cid/64374cfe-d06f-4a01-898e-c07c46462c36/scid/ac416c10-4eee-45bb-b1ec-3a91e89c32d5"
+  },
+  {
+    "category": "Meats Fish Eggs",
+    "subcategory": "Mutton",
+    "url": "https://www.zepto.com/cn/meats-fish-eggs/mutton/cid/4654bd8a-fb30-4ee1-ab30-4bf581b6c6e3/scid/af20acbf-4144-4482-8e42-1352843803a1"
+  },
+  {
+    "category": "Breakfast Sauces",
+    "subcategory": "Breakfast Cereals",
+    "url": "https://www.zepto.com/cn/breakfast-sauces/breakfast-cereals/cid/f804bccc-c565-4879-b6ab-1b964bb1ed41/scid/c07e4c22-d076-45b0-9c73-92c117956810"
+  },
+  {
+    "category": "Dairy Bread Eggs",
+    "subcategory": "Cheese",
+    "url": "https://www.zepto.com/cn/dairy-bread-eggs/cheese/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/f594b28a-4775-48ac-8840-b9030229ff87"
+  },
+  {
+    "category": "Fruits Vegetables",
+    "subcategory": "Exotics Premium",
+    "url": "https://www.zepto.com/cn/fruits-vegetables/exotics-premium/cid/64374cfe-d06f-4a01-898e-c07c46462c36/scid/0a065d7d-ea57-4359-9900-b03425028d47"
+  },
+  {
+    "category": "Masala Dry Fruits More",
+    "subcategory": "Powders Pastes",
+    "url": "https://www.zepto.com/cn/masala-dry-fruits-more/powders-pastes/cid/0c2ccf87-e32c-4438-9560-8d9488fc73e0/scid/80f4308e-91ad-4cc4-b804-57783fe4c667"
+  },
+  {
+    "category": "Biscuits",
+    "subcategory": "Crackers",
+    "url": "https://www.zepto.com/cn/biscuits/crackers/cid/2552acf2-2f77-4714-adc8-e505de3985db/scid/9fbe608d-c5b9-4ade-b1cb-09eb1a493bb0"
+  },
+  {
+    "category": "Munchies",
+    "subcategory": "Nachos",
+    "url": "https://www.zepto.com/cn/munchies/nachos/cid/d2c2a144-43cd-43e5-b308-92628fa68596/scid/b3a8697a-e355-4368-976d-c389ff34a90e"
+  },
+  {
+    "category": "Munchies",
+    "subcategory": "Namkeens",
+    "url": "https://www.zepto.com/cn/munchies/namkeens/cid/d2c2a144-43cd-43e5-b308-92628fa68596/scid/bfd35e8f-39b8-483f-8e3a-b80231d614ce"
+  },
+  {
+    "category": "Meats Fish Eggs",
+    "subcategory": "Fish Sea Food",
+    "url": "https://www.zepto.com/cn/meats-fish-eggs/fish-sea-food/cid/4654bd8a-fb30-4ee1-ab30-4bf581b6c6e3/scid/c41382e7-5331-4116-ab96-8cf25af8eab9"
+  },
+  {
+    "category": "Packaged Food",
+    "subcategory": "Noodles Vermicelli",
+    "url": "https://www.zepto.com/cn/packaged-food/noodles-vermicelli/cid/5736ad99-f589-4d58-a24b-a12222320a37/scid/d5fbe386-0579-4461-b88b-af427ffb31ea"
+  },
+  {
+    "category": "Dairy Bread Eggs",
+    "subcategory": "Eggs",
+    "url": "https://www.zepto.com/cn/dairy-bread-eggs/eggs/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/d638f064-e7f3-4161-b692-a3f472c64020"
+  },
+  {
+    "category": "Fruits Vegetables",
+    "subcategory": "Flowers Leaves",
+    "url": "https://www.zepto.com/cn/fruits-vegetables/flowers-leaves/cid/64374cfe-d06f-4a01-898e-c07c46462c36/scid/ec911f07-e53f-4086-81e7-089a789860c8"
+  },
+  {
+    "category": "Sweet Cravings",
+    "subcategory": "Premium Chocolates",
+    "url": "https://www.zepto.com/cn/sweet-cravings/premium-chocolates/cid/adab2f81-7140-4fe9-b8cf-3d809f40e38a/scid/fda4043f-c6b5-4edb-bc74-9173c334499a"
+  },
+  {
+    "category": "Tea Coffee More",
+    "subcategory": "Coffee",
+    "url": "https://www.zepto.com/cn/tea-coffee-more/coffee/cid/d7e98d87-6850-4cf9-a37c-e4fa34ae302c/scid/0055bf0a-f578-4fa7-8b98-0c6e446bbe29"
+  },
+  {
+    "category": "Dairy Bread Eggs",
+    "subcategory": "Milk",
+    "url": "https://www.zepto.com/cn/dairy-bread-eggs/milk/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/22964a2b-0439-4236-9950-0d71b532b243"
+  },
+  {
+    "category": "Ice Creams More",
+    "subcategory": "Cakes Sandwiches More",
+    "url": "https://www.zepto.com/cn/ice-creams-more/cakes-sandwiches-more/cid/65ee1b69-4e24-45b9-ac84-aace3c0854d8/scid/30e08b20-9431-4f46-9636-521a33015bae"
+  },
+  {
+    "category": "Biscuits",
+    "subcategory": "Glucose Marie",
+    "url": "https://www.zepto.com/cn/biscuits/glucose-marie/cid/2552acf2-2f77-4714-adc8-e505de3985db/scid/557279cf-a155-4b94-b5cc-97185bd30aee"
+  },
+  {
+    "category": "Munchies",
+    "subcategory": "Dry Fruits Nuts Munchies",
+    "url": "https://www.zepto.com/cn/munchies/dry-fruits-nuts-munchies/cid/d2c2a144-43cd-43e5-b308-92628fa68596/scid/67fe57ab-558c-4949-9e52-60a1306d3619"
+  },
+  {
+    "category": "Ice Creams More",
+    "subcategory": "Kulfi",
+    "url": "https://www.zepto.com/cn/ice-creams-more/kulfi/cid/65ee1b69-4e24-45b9-ac84-aace3c0854d8/scid/7aab08ec-9f55-4b8c-ab0e-0af011e900a1"
+  },
+  {
+    "category": "Masala Dry Fruits More",
+    "subcategory": "Salt Sugar Jaggery",
+    "url": "https://www.zepto.com/cn/masala-dry-fruits-more/salt-sugar-jaggery/cid/0c2ccf87-e32c-4438-9560-8d9488fc73e0/scid/b5826992-5cfc-4554-8075-a3f33709ddf2"
+  },
+  {
+    "category": "Cold Drinks Juices",
+    "subcategory": "Water",
+    "url": "https://www.zepto.com/cn/cold-drinks-juices/water/cid/947a72ae-b371-45cb-ad3a-778c05b64399/scid/b783925b-6b57-4750-99f6-01ea5145ec5e"
+  },
+  {
+    "category": "Cold Drinks Juices",
+    "subcategory": "Milk Drinks",
+    "url": "https://www.zepto.com/cn/cold-drinks-juices/milk-drinks/cid/947a72ae-b371-45cb-ad3a-778c05b64399/scid/c5638eba-30c0-4a40-8c63-c9947fd22c16"
+  },
+  {
+    "category": "Cold Drinks Juices",
+    "subcategory": "Vegan Drinks",
+    "url": "https://www.zepto.com/cn/cold-drinks-juices/vegan-drinks/cid/947a72ae-b371-45cb-ad3a-778c05b64399/scid/dcfd1067-a597-4ef0-81d6-9a3d1b9a2891"
+  },
+  {
+    "category": "Sweet Cravings",
+    "subcategory": "Pastries Cakes",
+    "url": "https://www.zepto.com/cn/sweet-cravings/pastries-cakes/cid/adab2f81-7140-4fe9-b8cf-3d809f40e38a/scid/fce3a00a-4543-424a-a5af-73bbd2ce3f75"
+  },
+  {
+    "category": "Munchies",
+    "subcategory": "Popcorn",
+    "url": "https://www.zepto.com/cn/munchies/popcorn/cid/d2c2a144-43cd-43e5-b308-92628fa68596/scid/06fd05d2-ed6d-4355-9c1d-ef7909ff1584"
+  },
+  {
+    "category": "Munchies",
+    "subcategory": "Energy Bars",
+    "url": "https://www.zepto.com/cn/munchies/energy-bars/cid/d2c2a144-43cd-43e5-b308-92628fa68596/scid/08b6d5d6-ff35-4172-8240-514f84e7c0ee"
+  },
+  {
+    "category": "Ice Creams More",
+    "subcategory": "Tubs",
+    "url": "https://www.zepto.com/cn/ice-creams-more/tubs/cid/65ee1b69-4e24-45b9-ac84-aace3c0854d8/scid/21c1011a-c677-4007-ac20-abc1542cb89c"
+  },
+  {
+    "category": "Dairy Bread Eggs",
+    "subcategory": "Breads Buns",
+    "url": "https://www.zepto.com/cn/dairy-bread-eggs/breads-buns/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/30566884-bbd7-49fa-8c3f-43c90a571c9e"
+  },
+  {
+    "category": "Ice Creams More",
+    "subcategory": "Cups",
+    "url": "https://www.zepto.com/cn/ice-creams-more/cups/cid/65ee1b69-4e24-45b9-ac84-aace3c0854d8/scid/32173cd6-b8e4-497e-8e95-9c1ff04ae46b"
+  },
+  {
+    "category": "Tea Coffee More",
+    "subcategory": "Tea",
+    "url": "https://www.zepto.com/cn/tea-coffee-more/tea/cid/d7e98d87-6850-4cf9-a37c-e4fa34ae302c/scid/3c1856d3-7dd9-4657-8b14-4f47046c9369"
+  },
+  {
+    "category": "Packaged Food",
+    "subcategory": "Papads Pickles Chutney",
+    "url": "https://www.zepto.com/cn/packaged-food/papads-pickles-chutney/cid/5736ad99-f589-4d58-a24b-a12222320a37/scid/460558e5-c6bf-401f-9f8d-fa86f0b6043a"
+  },
+  {
+    "category": "Cold Drinks Juices",
+    "subcategory": "Instant Drink Mixes",
+    "url": "https://www.zepto.com/cn/cold-drinks-juices/instant-drink-mixes/cid/947a72ae-b371-45cb-ad3a-778c05b64399/scid/4d088b94-ba43-4bf0-a881-a573862aa0a1"
+  },
+  {
+    "category": "Dairy Bread Eggs",
+    "subcategory": "Indian Breads",
+    "url": "https://www.zepto.com/cn/dairy-bread-eggs/indian-breads/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/501906d3-efcc-45c5-805e-5450b9d10476"
+  },
+  {
+    "category": "Packaged Food",
+    "subcategory": "Infant Food",
+    "url": "https://www.zepto.com/cn/packaged-food/infant-food/cid/5736ad99-f589-4d58-a24b-a12222320a37/scid/5eef200f-d318-4dad-90bd-ccc579d165f3"
+  },
+  {
+    "category": "Biscuits",
+    "subcategory": "Creamfills",
+    "url": "https://www.zepto.com/cn/biscuits/creamfills/cid/2552acf2-2f77-4714-adc8-e505de3985db/scid/76b87813-c0ff-451d-accf-d6840a42a067"
+  },
+  {
+    "category": "Packaged Food",
+    "subcategory": "Baking Mixes Ingredients",
+    "url": "https://www.zepto.com/cn/packaged-food/baking-mixes-ingredients/cid/5736ad99-f589-4d58-a24b-a12222320a37/scid/941f0a50-2122-4e9e-baf9-35d66323f948"
+  },
+  {
+    "category": "Packaged Food",
+    "subcategory": "Dessert Mixes",
+    "url": "https://www.zepto.com/cn/packaged-food/dessert-mixes/cid/5736ad99-f589-4d58-a24b-a12222320a37/scid/a62e5e4f-1c24-44cc-b911-cc684fa4ad24"
+  },
+  {
+    "category": "Frozen Food",
+    "subcategory": "Non Veg Snacks",
+    "url": "https://www.zepto.com/cn/frozen-food/non-veg-snacks/cid/aae1447d-1403-4a5c-a65f-bcb3afb93b5e/scid/c7506b56-1bb6-4bfb-8622-854d744d45ca"
+  },
+  {
+    "category": "Breakfast Sauces",
+    "subcategory": "Muesli Oats",
+    "url": "https://www.zepto.com/cn/breakfast-sauces/muesli-oats/cid/f804bccc-c565-4879-b6ab-1b964bb1ed41/scid/dafa5c98-3367-4624-90a4-0a2af6e695c3"
+  },
+  {
+    "category": "Munchies",
+    "subcategory": "Chips Crisps",
+    "url": "https://www.zepto.com/cn/munchies/chips-crisps/cid/d2c2a144-43cd-43e5-b308-92628fa68596/scid/df4f5100-c02f-4906-83b8-ddb744081a7a"
+  },
+  {
+    "category": "Cold Drinks Juices",
+    "subcategory": "Soft Drinks",
+    "url": "https://www.zepto.com/cn/cold-drinks-juices/soft-drinks/cid/947a72ae-b371-45cb-ad3a-778c05b64399/scid/dff3658b-c351-4e7f-8196-e98d0c66d99e"
+  },
+  {
+    "category": "Biscuits",
+    "subcategory": "Wafers",
+    "url": "https://www.zepto.com/cn/biscuits/wafers/cid/2552acf2-2f77-4714-adc8-e505de3985db/scid/f9502427-0360-4926-9db3-94a65d04d9ed"
+  },
+  {
+    "category": "Cold Drinks Juices",
+    "subcategory": "Soda Mixers",
+    "url": "https://www.zepto.com/cn/cold-drinks-juices/soda-mixers/cid/947a72ae-b371-45cb-ad3a-778c05b64399/scid/0df54b3f-11f6-4ada-b38a-9be38ea25eba"
+  },
+  {
+    "category": "Frozen Food",
+    "subcategory": "Momos More",
+    "url": "https://www.zepto.com/cn/frozen-food/momos-more/cid/aae1447d-1403-4a5c-a65f-bcb3afb93b5e/scid/112b3aac-feee-4e01-9e5a-701dc1b5464e"
+  },
+  {
+    "category": "Dairy Bread Eggs",
+    "subcategory": "Yogurt Shrikhand",
+    "url": "https://www.zepto.com/cn/dairy-bread-eggs/yogurt-shrikhand/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/4e975d7a-b3f9-4958-99e9-cd96cb7e7b0b"
+  },
+  {
+    "category": "Frozen Food",
+    "subcategory": "Frozen Veggies Pulp",
+    "url": "https://www.zepto.com/cn/frozen-food/frozen-veggies-pulp/cid/aae1447d-1403-4a5c-a65f-bcb3afb93b5e/scid/5fd4bc47-3a98-4984-a2ac-a8f02c4149cd"
+  },
+  {
+    "category": "Fruits Vegetables",
+    "subcategory": "Cuts Sprouts",
+    "url": "https://www.zepto.com/cn/fruits-vegetables/cuts-sprouts/cid/64374cfe-d06f-4a01-898e-c07c46462c36/scid/6eb7a384-5edf-4a68-aa99-a1c2b30c2f19"
+  },
+  {
+    "category": "Tea Coffee More",
+    "subcategory": "Drink Mixes",
+    "url": "https://www.zepto.com/cn/tea-coffee-more/drink-mixes/cid/d7e98d87-6850-4cf9-a37c-e4fa34ae302c/scid/ba628461-3043-41a7-abba-32518b742930"
+  },
+  {
+    "category": "Ice Creams More",
+    "subcategory": "Ice Cubes Ice Pops",
+    "url": "https://www.zepto.com/cn/ice-creams-more/ice-cubes-ice-pops/cid/65ee1b69-4e24-45b9-ac84-aace3c0854d8/scid/bef8a1a8-889e-4703-9df9-2cff145f18ff"
+  },
+  {
+    "category": "Packaged Food",
+    "subcategory": "Ready To Eat",
+    "url": "https://www.zepto.com/cn/packaged-food/ready-to-eat/cid/5736ad99-f589-4d58-a24b-a12222320a37/scid/c28114a0-2fc3-4274-8a68-04ead1adfb47"
+  },
+  {
+    "category": "Sweet Cravings",
+    "subcategory": "Chocolates",
+    "url": "https://www.zepto.com/cn/sweet-cravings/chocolates/cid/adab2f81-7140-4fe9-b8cf-3d809f40e38a/scid/ca984d2d-70b8-464c-b182-41aa328b3d4b"
+  },
+  {
+    "category": "Breakfast Sauces",
+    "subcategory": "Ketchup Sauces",
+    "url": "https://www.zepto.com/cn/breakfast-sauces/ketchup-sauces/cid/f804bccc-c565-4879-b6ab-1b964bb1ed41/scid/cbacc78b-ae17-4324-8fd5-0ba540b10fb7"
+  },
+  {
+    "category": "Tea Coffee More",
+    "subcategory": "Green Herbal Tea",
+    "url": "https://www.zepto.com/cn/tea-coffee-more/green-herbal-tea/cid/d7e98d87-6850-4cf9-a37c-e4fa34ae302c/scid/d9d62fba-e97d-4d9d-88a9-c226f116e976"
+  },
+  {
+    "category": "Munchies",
+    "subcategory": "Local Favorites Deactivated",
+    "url": "https://www.zepto.com/cn/munchies/local-favorites-deactivated/cid/d2c2a144-43cd-43e5-b308-92628fa68596/scid/dcdee4e9-009d-483c-bd8f-084c874bbb62"
+  },
+  {
+    "category": "Masala Dry Fruits More",
+    "subcategory": "Dates Seeds",
+    "url": "https://www.zepto.com/cn/masala-dry-fruits-more/dates-seeds/cid/0c2ccf87-e32c-4438-9560-8d9488fc73e0/scid/fd487995-4d2b-4b23-a6ef-831bc118dedb"
+  }
+]
