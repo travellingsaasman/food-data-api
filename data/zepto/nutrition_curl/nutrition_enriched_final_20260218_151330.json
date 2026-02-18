@@ -1,0 +1,300 @@
+{
+  "extracted_at": "2026-02-18T15:13:30.238501",
+  "count": 20,
+  "with_nutrition": 14,
+  "products": [
+    {
+      "pvid": "a7861fd9-190c-4bb1-9b00-00e402cf133f",
+      "name": "24 Mantra Organic Ragi Flour",
+      "nutrition": {
+        "protein_g": 2.0,
+        "sodium_mg": 2.0,
+        "trans_fat_g": 0.0
+      },
+      "ingredients": "Fine Granules Of Raw Rice",
+      "fssai": "10019051003029",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:13:10.950394"
+    },
+    {
+      "pvid": "6b81904d-64e3-48a8-8218-0811995b817a",
+      "name": "Aashirvaad Organic 100% Organic Whole Wheat Atta",
+      "nutrition": {
+        "energy_kcal": 343.0,
+        "protein_g": 10.6,
+        "carbs_g": 77.6,
+        "fat_g": 1.6,
+        "sugar_g": 5.4,
+        "added_sugar_g": 0.0,
+        "fiber_g": 10.6,
+        "sodium_mg": 2.1,
+        "saturated_fat_g": 0.34,
+        "trans_fat_g": 0.0
+      },
+      "ingredients": "Energy (kcal) - 367, Protein (g) - 10.9, Carbohydrate (g) - 77, Of which Sugar (g) - 5.4, Fat (g) - 1.7, Dietary Fibre (g) - 10.5",
+      "fssai": "11225302001221",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:13:11.915707"
+    },
+    {
+      "pvid": "c0781799-72e5-4bb2-8b82-d96ffe9aab6f",
+      "name": "Organic Tattva Ragi Atta",
+      "nutrition": {
+        "energy_kcal": 336.3,
+        "protein_g": 7.6,
+        "carbs_g": 72.3,
+        "fat_g": 1.9,
+        "sodium_mg": 9.2,
+        "saturated_fat_g": 0.5,
+        "trans_fat_g": 0.0
+      },
+      "ingredients": "Fine Granules Of Raw Rice",
+      "fssai": "10019051003029",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:13:12.863676"
+    },
+    {
+      "pvid": "3587eb86-cc71-4dda-aee1-786f8e1ae3dc",
+      "name": "Organic Tattva Wheat Flour Chakki Atta",
+      "nutrition": {
+        "energy_kcal": 366.9,
+        "protein_g": 12.2,
+        "carbs_g": 75.7,
+        "fat_g": 1.7,
+        "sodium_mg": 5.3,
+        "saturated_fat_g": 0.5,
+        "trans_fat_g": 0.0
+      },
+      "ingredients": "Energy (kcal) - 367, Protein (g) - 10.9, Carbohydrate (g) - 77, Of which Sugar (g) - 5.4, Fat (g) - 1.7, Dietary Fibre (g) - 10.5",
+      "fssai": "11225302001221",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:13:13.742972"
+    },
+    {
+      "pvid": "9a7eed43-18b1-4e8a-b2a5-38897c6cff87",
+      "name": "24 Mantra Organic Whole Wheat Atta",
+      "nutrition": {
+        "energy_kcal": 320.0,
+        "protein_g": 10.0,
+        "fat_g": 2.0,
+        "sodium_mg": 2.0,
+        "trans_fat_g": 0.0
+      },
+      "ingredients": "Whole wheat Atta",
+      "fssai": "10015047000447",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:13:14.722779"
+    },
+    {
+      "pvid": "226523cf-f83b-4c63-9257-6711b5c1233d",
+      "name": "Organic Tattva Organic Suji",
+      "nutrition": {
+        "energy_kcal": 350.0,
+        "protein_g": 12.0,
+        "carbs_g": 74.0,
+        "fat_g": 1.0,
+        "sugar_g": 0.0,
+        "sodium_mg": 0.0,
+        "saturated_fat_g": 0.18
+      },
+      "ingredients": "Roasted Sooji",
+      "fssai": "FSSAI No 10019051003029",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:13:16.405338"
+    },
+    {
+      "pvid": "4afd1a1f-c443-439a-8228-41a91f1b085c",
+      "name": "Tata Simply Better Groundnut Cold Pressed Oil",
+      "nutrition": {
+        "energy_kcal": 898.0,
+        "protein_g": 0.0,
+        "carbs_g": 0.0,
+        "fat_g": 99.8,
+        "sugar_g": 0.0,
+        "added_sugar_g": 0.0,
+        "sodium_mg": 0.5,
+        "saturated_fat_g": 20.9
+      },
+      "ingredients": "Physically Refined Ricebran Oil (80%) u0026 Refined Pomace Oil (20%).",
+      "fssai": "12225032000292",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:13:17.374140"
+    },
+    {
+      "pvid": "82f40ed9-e970-42ab-8285-1984f831732b",
+      "name": "Safe Harvest Pesticide-Free Roasted Sooji",
+      "nutrition": null,
+      "ingredients": "Roasted Sooji",
+      "fssai": "10013021000661",
+      "has_nutrition": false,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:13:18.308371"
+    },
+    {
+      "pvid": "614e1f29-4932-4360-aa70-df2076d02f9a",
+      "name": "Organic Tattva Organic Multigrain Flour",
+      "nutrition": null,
+      "ingredients": "Wheat Flour, Brown Gram Flour, Roasted Bengal Gram Flour, Ragi Flour, Jowar Flour, Soybean Flour, Amaranth Flour.",
+      "fssai": "FSSAI No 10019051003029",
+      "has_nutrition": false,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:13:19.174816"
+    },
+    {
+      "pvid": "a0be231a-63a3-472d-9a1b-d8844053f0c5",
+      "name": "Organic Tattva Bajra Flour",
+      "nutrition": null,
+      "ingredients": "Kodo Millet",
+      "fssai": "10019051003029",
+      "has_nutrition": false,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:13:20.157926"
+    },
+    {
+      "pvid": "bf103eb4-f2a8-4a8b-a258-a6ef62a622ad",
+      "name": "24 Mantra Organic Sona Masoori Rice",
+      "nutrition": {
+        "energy_kcal": 355.0,
+        "protein_g": 8.0,
+        "fat_g": 1.0,
+        "sodium_mg": 2.0
+      },
+      "ingredients": "Sonamasuri Brown rice.",
+      "fssai": "FSSAI No 10018043002243",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:13:21.081768"
+    },
+    {
+      "pvid": "8ac39629-0d08-453d-8048-d725d13aa307",
+      "name": "Tata Sampann Organic Unpolished Toor Dal",
+      "nutrition": {
+        "protein_g": 23.0
+      },
+      "ingredients": "Organic\u00a0Toor Dal",
+      "fssai": "FSSAI No 10013022002508",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:13:22.006837"
+    },
+    {
+      "pvid": "037ea3c6-2e54-43a0-b661-13f2a10bd67e",
+      "name": "Safe Harvest Pesticide-Free Sona Masuri Rice",
+      "nutrition": null,
+      "ingredients": "Jeera Rice.",
+      "fssai": "FSSAI No 10018043002243",
+      "has_nutrition": false,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:13:22.919654"
+    },
+    {
+      "pvid": "5527238d-4230-4633-862f-090e5c73502a",
+      "name": "Organic Tattva Brown Sugar",
+      "nutrition": {
+        "energy_kcal": 400.0,
+        "protein_g": 0.0,
+        "carbs_g": 100.0,
+        "fat_g": 0.0,
+        "sodium_mg": 20.0
+      },
+      "ingredients": "100 % Unrefined sugar",
+      "fssai": "FSSAI No 11518004000011",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:13:24.022082"
+    },
+    {
+      "pvid": "14a972ad-ca1a-4012-bc34-c1c3fd7dc85a",
+      "name": "Organic Tattva Wheat Maida",
+      "nutrition": {
+        "energy_kcal": 360.0,
+        "protein_g": 12.0,
+        "carbs_g": 77.0,
+        "fat_g": 1.0,
+        "sugar_g": 0.0,
+        "sodium_mg": 0.0,
+        "saturated_fat_g": 0.2,
+        "trans_fat_g": 0.0
+      },
+      "ingredients": "Organic Maida",
+      "fssai": "FSSAI No 10019051003029",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:13:24.944517"
+    },
+    {
+      "pvid": "c69adc79-9e64-412f-b85c-7b1e24d9bd9c",
+      "name": "Tata Simply Better Virgin Coconut Cold Pressed Oil",
+      "nutrition": {
+        "energy_kcal": 897.0,
+        "protein_g": 0.0,
+        "carbs_g": 0.0,
+        "fat_g": 99.7,
+        "sugar_g": 0.0,
+        "added_sugar_g": 0.0,
+        "sodium_mg": 0.5,
+        "saturated_fat_g": 6.2
+      },
+      "ingredients": "Physically Refined Ricebran Oil (80%) u0026 Refined Pomace Oil (20%).",
+      "fssai": "12225032000292",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:13:26.093789"
+    },
+    {
+      "pvid": "205e77c5-774b-40a8-9af1-543100cc7290",
+      "name": "Organic India Jaggery Powder",
+      "nutrition": null,
+      "ingredients": "Plantation White Sugar.",
+      "fssai": "13615012000137",
+      "has_nutrition": false,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:13:27.058323"
+    },
+    {
+      "pvid": "bd152528-7939-444c-9d02-e2a77151c546",
+      "name": "24 Mantra Organic Jaggery Powder",
+      "nutrition": {
+        "energy_kcal": 380.0,
+        "protein_g": 3.0,
+        "sodium_mg": 25.0
+      },
+      "ingredients": "Concentrated Sugar cane juice",
+      "fssai": "13615012000137",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:13:27.990817"
+    },
+    {
+      "pvid": "ab549fb1-6a6f-4284-bc64-72961cab34ac",
+      "name": "Indic Wisdom Groundnut Wood Cold Pressed Oil",
+      "nutrition": {
+        "energy_kcal": 899.1,
+        "fat_g": 99.9,
+        "saturated_fat_g": 18.44
+      },
+      "ingredients": "Cold Pressed Groundnut Oil",
+      "fssai": "11518019000643",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:13:28.969104"
+    },
+    {
+      "pvid": "5734e812-e9b5-4170-8a82-20f8b23cd628",
+      "name": "Tata Simply Better Mustard Cold Pressed Oil",
+      "nutrition": null,
+      "ingredients": "Physically Refined Ricebran Oil (80%) u0026 Refined Pomace Oil (20%).",
+      "fssai": "12225032000292",
+      "has_nutrition": false,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:13:29.934902"
+    }
+  ]
+}

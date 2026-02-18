@@ -1,0 +1,3041 @@
+{
+  "extracted_at": "2026-02-18T15:30:40.523160",
+  "count": 408,
+  "with_nutrition": 49,
+  "products": [
+    {
+      "pvid": "a7861fd9-190c-4bb1-9b00-00e402cf133f",
+      "name": "24 Mantra Organic Ragi Flour",
+      "nutrition": {
+        "protein_g": 2.0,
+        "sodium_mg": 2.0,
+        "trans_fat_g": 0.0
+      },
+      "ingredients": "Fine Granules Of Raw Rice",
+      "fssai": "10019051003029",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:04.780680"
+    },
+    {
+      "pvid": "6b81904d-64e3-48a8-8218-0811995b817a",
+      "name": "Aashirvaad Organic 100% Organic Whole Wheat Atta",
+      "nutrition": {
+        "energy_kcal": 343.0,
+        "protein_g": 10.6,
+        "carbs_g": 77.6,
+        "fat_g": 1.6,
+        "sugar_g": 5.4,
+        "added_sugar_g": 0.0,
+        "fiber_g": 10.6,
+        "sodium_mg": 2.1,
+        "saturated_fat_g": 0.34,
+        "trans_fat_g": 0.0
+      },
+      "ingredients": "Energy (kcal) - 367, Protein (g) - 10.9, Carbohydrate (g) - 77, Of which Sugar (g) - 5.4, Fat (g) - 1.7, Dietary Fibre (g) - 10.5",
+      "fssai": "11225302001221",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:05.856337"
+    },
+    {
+      "pvid": "c0781799-72e5-4bb2-8b82-d96ffe9aab6f",
+      "name": "Organic Tattva Ragi Atta",
+      "nutrition": {
+        "energy_kcal": 336.3,
+        "protein_g": 7.6,
+        "carbs_g": 72.3,
+        "fat_g": 1.9,
+        "sodium_mg": 9.2,
+        "saturated_fat_g": 0.5,
+        "trans_fat_g": 0.0
+      },
+      "ingredients": "Fine Granules Of Raw Rice",
+      "fssai": "10019051003029",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:07.102846"
+    },
+    {
+      "pvid": "3587eb86-cc71-4dda-aee1-786f8e1ae3dc",
+      "name": "Organic Tattva Wheat Flour Chakki Atta",
+      "nutrition": {
+        "energy_kcal": 366.9,
+        "protein_g": 12.2,
+        "carbs_g": 75.7,
+        "fat_g": 1.7,
+        "sodium_mg": 5.3,
+        "saturated_fat_g": 0.5,
+        "trans_fat_g": 0.0
+      },
+      "ingredients": "Energy (kcal) - 367, Protein (g) - 10.9, Carbohydrate (g) - 77, Of which Sugar (g) - 5.4, Fat (g) - 1.7, Dietary Fibre (g) - 10.5",
+      "fssai": "11225302001221",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:08.113693"
+    },
+    {
+      "pvid": "9a7eed43-18b1-4e8a-b2a5-38897c6cff87",
+      "name": "24 Mantra Organic Whole Wheat Atta",
+      "nutrition": {
+        "energy_kcal": 320.0,
+        "protein_g": 10.0,
+        "fat_g": 2.0,
+        "sodium_mg": 2.0,
+        "trans_fat_g": 0.0
+      },
+      "ingredients": "Whole wheat Atta",
+      "fssai": "10015047000447",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:09.099466"
+    },
+    {
+      "pvid": "226523cf-f83b-4c63-9257-6711b5c1233d",
+      "name": "Organic Tattva Organic Suji",
+      "nutrition": {
+        "energy_kcal": 350.0,
+        "protein_g": 12.0,
+        "carbs_g": 74.0,
+        "fat_g": 1.0,
+        "sugar_g": 0.0,
+        "sodium_mg": 0.0,
+        "saturated_fat_g": 0.18
+      },
+      "ingredients": "Roasted Sooji",
+      "fssai": "FSSAI No 10019051003029",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:10.190001"
+    },
+    {
+      "pvid": "4afd1a1f-c443-439a-8228-41a91f1b085c",
+      "name": "Tata Simply Better Groundnut Cold Pressed Oil",
+      "nutrition": {
+        "energy_kcal": 898.0,
+        "protein_g": 0.0,
+        "carbs_g": 0.0,
+        "fat_g": 99.8,
+        "sugar_g": 0.0,
+        "added_sugar_g": 0.0,
+        "sodium_mg": 0.5,
+        "saturated_fat_g": 20.9
+      },
+      "ingredients": "Physically Refined Ricebran Oil (80%) u0026 Refined Pomace Oil (20%).",
+      "fssai": "12225032000292",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:11.202252"
+    },
+    {
+      "pvid": "82f40ed9-e970-42ab-8285-1984f831732b",
+      "name": "Safe Harvest Pesticide-Free Roasted Sooji",
+      "nutrition": null,
+      "ingredients": "Roasted Sooji",
+      "fssai": "10013021000661",
+      "has_nutrition": false,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:12.154211"
+    },
+    {
+      "pvid": "614e1f29-4932-4360-aa70-df2076d02f9a",
+      "name": "Organic Tattva Organic Multigrain Flour",
+      "nutrition": null,
+      "ingredients": "Wheat Flour, Brown Gram Flour, Roasted Bengal Gram Flour, Ragi Flour, Jowar Flour, Soybean Flour, Amaranth Flour.",
+      "fssai": "FSSAI No 10019051003029",
+      "has_nutrition": false,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:13.287895"
+    },
+    {
+      "pvid": "a0be231a-63a3-472d-9a1b-d8844053f0c5",
+      "name": "Organic Tattva Bajra Flour",
+      "nutrition": null,
+      "ingredients": "Kodo Millet",
+      "fssai": "10019051003029",
+      "has_nutrition": false,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:14.308600"
+    },
+    {
+      "pvid": "bf103eb4-f2a8-4a8b-a258-a6ef62a622ad",
+      "name": "24 Mantra Organic Sona Masoori Rice",
+      "nutrition": {
+        "energy_kcal": 355.0,
+        "protein_g": 8.0,
+        "fat_g": 1.0,
+        "sodium_mg": 2.0
+      },
+      "ingredients": "Sonamasuri Brown rice.",
+      "fssai": "FSSAI No 10018043002243",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:15.395056"
+    },
+    {
+      "pvid": "8ac39629-0d08-453d-8048-d725d13aa307",
+      "name": "Tata Sampann Organic Unpolished Toor Dal",
+      "nutrition": {
+        "protein_g": 23.0
+      },
+      "ingredients": "Organic\u00a0Toor Dal",
+      "fssai": "FSSAI No 10013022002508",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:16.388698"
+    },
+    {
+      "pvid": "037ea3c6-2e54-43a0-b661-13f2a10bd67e",
+      "name": "Safe Harvest Pesticide-Free Sona Masuri Rice",
+      "nutrition": null,
+      "ingredients": "Jeera Rice.",
+      "fssai": "FSSAI No 10018043002243",
+      "has_nutrition": false,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:17.435036"
+    },
+    {
+      "pvid": "5527238d-4230-4633-862f-090e5c73502a",
+      "name": "Organic Tattva Brown Sugar",
+      "nutrition": {
+        "energy_kcal": 400.0,
+        "protein_g": 0.0,
+        "carbs_g": 100.0,
+        "fat_g": 0.0,
+        "sodium_mg": 20.0
+      },
+      "ingredients": "100 % Unrefined sugar",
+      "fssai": "FSSAI No 11518004000011",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:18.462499"
+    },
+    {
+      "pvid": "14a972ad-ca1a-4012-bc34-c1c3fd7dc85a",
+      "name": "Organic Tattva Wheat Maida",
+      "nutrition": {
+        "energy_kcal": 360.0,
+        "protein_g": 12.0,
+        "carbs_g": 77.0,
+        "fat_g": 1.0,
+        "sugar_g": 0.0,
+        "sodium_mg": 0.0,
+        "saturated_fat_g": 0.2,
+        "trans_fat_g": 0.0
+      },
+      "ingredients": "Organic Maida",
+      "fssai": "FSSAI No 10019051003029",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:19.421463"
+    },
+    {
+      "pvid": "c69adc79-9e64-412f-b85c-7b1e24d9bd9c",
+      "name": "Tata Simply Better Virgin Coconut Cold Pressed Oil",
+      "nutrition": {
+        "energy_kcal": 897.0,
+        "protein_g": 0.0,
+        "carbs_g": 0.0,
+        "fat_g": 99.7,
+        "sugar_g": 0.0,
+        "added_sugar_g": 0.0,
+        "sodium_mg": 0.5,
+        "saturated_fat_g": 6.2
+      },
+      "ingredients": "Physically Refined Ricebran Oil (80%) u0026 Refined Pomace Oil (20%).",
+      "fssai": "12225032000292",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:21.533948"
+    },
+    {
+      "pvid": "205e77c5-774b-40a8-9af1-543100cc7290",
+      "name": "Organic India Jaggery Powder",
+      "nutrition": null,
+      "ingredients": "Plantation White Sugar.",
+      "fssai": "13615012000137",
+      "has_nutrition": false,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:22.670319"
+    },
+    {
+      "pvid": "bd152528-7939-444c-9d02-e2a77151c546",
+      "name": "24 Mantra Organic Jaggery Powder",
+      "nutrition": {
+        "energy_kcal": 380.0,
+        "protein_g": 3.0,
+        "sodium_mg": 25.0
+      },
+      "ingredients": "Concentrated Sugar cane juice",
+      "fssai": "13615012000137",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:24.447361"
+    },
+    {
+      "pvid": "ab549fb1-6a6f-4284-bc64-72961cab34ac",
+      "name": "Indic Wisdom Groundnut Wood Cold Pressed Oil",
+      "nutrition": {
+        "energy_kcal": 899.1,
+        "fat_g": 99.9,
+        "saturated_fat_g": 18.44
+      },
+      "ingredients": "Cold Pressed Groundnut Oil",
+      "fssai": "11518019000643",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:25.543185"
+    },
+    {
+      "pvid": "5734e812-e9b5-4170-8a82-20f8b23cd628",
+      "name": "Tata Simply Better Mustard Cold Pressed Oil",
+      "nutrition": null,
+      "ingredients": "Physically Refined Ricebran Oil (80%) u0026 Refined Pomace Oil (20%).",
+      "fssai": "12225032000292",
+      "has_nutrition": false,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:26.674313"
+    },
+    {
+      "pvid": "10b2c93e-8226-4066-876c-9f3e65e42145",
+      "name": "DeHaat HF Raw Peanuts",
+      "nutrition": {
+        "energy_kcal": 345.0,
+        "protein_g": 6.8,
+        "carbs_g": 78.2,
+        "fat_g": 0.5,
+        "sugar_g": 0.0,
+        "added_sugar_g": 0.0,
+        "sodium_mg": 2.3
+      },
+      "ingredients": "Organic Peanut",
+      "fssai": "12225032000292",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:27.709761"
+    },
+    {
+      "pvid": "9012a1d3-3726-40dd-b454-ad238198f933",
+      "name": "Tata Simply Better Sesame-Gingelly Cold Pressed Oil",
+      "nutrition": {
+        "energy_kcal": 897.0,
+        "protein_g": 0.0,
+        "carbs_g": 0.0,
+        "fat_g": 99.7,
+        "sugar_g": 0.0,
+        "added_sugar_g": 0.0,
+        "sodium_mg": 0.5,
+        "saturated_fat_g": 17.2
+      },
+      "ingredients": "Physically Refined Ricebran Oil (80%) u0026 Refined Pomace Oil (20%).",
+      "fssai": "12225032000292",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:28.743477"
+    },
+    {
+      "pvid": "f91646e6-84e3-4cdd-b012-7dc6404325c3",
+      "name": "Organic Tattva Whole Wheat Flour Chakki Atta",
+      "nutrition": {
+        "energy_kcal": 370.0,
+        "protein_g": 14.0,
+        "carbs_g": 73.0
+      },
+      "ingredients": "Energy (kcal) - 367, Protein (g) - 10.9, Carbohydrate (g) - 77, Of which Sugar (g) - 5.4, Fat (g) - 1.7, Dietary Fibre (g) - 10.5",
+      "fssai": "11225302001221",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:29.917873"
+    },
+    {
+      "pvid": "0077f3d0-282a-413b-af13-d2ec99296ae7",
+      "name": "24 Mantra Organic Whole Wheat Atta",
+      "nutrition": {
+        "energy_kcal": 319.0,
+        "protein_g": 10.5,
+        "carbs_g": 64.7
+      },
+      "ingredients": "Whole wheat Atta",
+      "fssai": "11225302001221",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:30.962270"
+    },
+    {
+      "pvid": "c70f8068-84bf-43d8-a8ad-0908aad93e06",
+      "name": "Milagro Farm Oregano",
+      "nutrition": {
+        "energy_kcal": 265.0,
+        "protein_g": 9.0,
+        "carbs_g": 68.9
+      },
+      "ingredients": "Oregano (Herb)",
+      "fssai": "FSSAI No 10018026001291",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:32.017789"
+    },
+    {
+      "pvid": "b3544e58-33eb-46ab-98a3-f6bb6d342d6d",
+      "name": "Anveshan Groundnut Wood Pressed Oil",
+      "nutrition": {
+        "energy_kcal": 126.0,
+        "fat_g": 14.0,
+        "saturated_fat_g": 2.52
+      },
+      "ingredients": "Cold Pressed Groundnut Oil",
+      "fssai": "10822999000041",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:33.417165"
+    },
+    {
+      "pvid": "5b8e3941-f08f-41a4-b43c-c6cc3e15d6cf",
+      "name": "Anveshan Mustard Wood Cold Pressed Oil",
+      "nutrition": {
+        "energy_kcal": 126.0,
+        "protein_g": 0.0,
+        "fat_g": 14.0,
+        "fiber_g": 0.0,
+        "sodium_mg": 0.0,
+        "saturated_fat_g": 1.14
+      },
+      "ingredients": "Cold Pressed Black Mustard Oil",
+      "fssai": "10822999000041",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:34.766377"
+    },
+    {
+      "pvid": "370fe3c6-58c9-42a1-af1f-8ce189a3efae",
+      "name": "Two Brothers Khapli Emmer Long Wheat Atta",
+      "nutrition": {
+        "energy_kcal": 360.0,
+        "protein_g": 12.0
+      },
+      "ingredients": "White Poha Flakes",
+      "fssai": "10013022002508",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:36.106124"
+    },
+    {
+      "pvid": "03e6da4e-0dc4-4aeb-844d-e57f79569a61",
+      "name": "Anveshan A2 Gir Cow Ghee Bilona",
+      "nutrition": {
+        "energy_kcal": 126.0,
+        "protein_g": 0.0,
+        "fat_g": 14.0,
+        "sugar_g": 0.0,
+        "fiber_g": 0.0,
+        "sodium_mg": 0.0,
+        "saturated_fat_g": 9.3,
+        "trans_fat_g": 0.0
+      },
+      "ingredients": "Desi Gir Cow A2 Ghee",
+      "fssai": "FSSAI No 11519007000126",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:38.237994"
+    },
+    {
+      "pvid": "a9da2861-358c-4824-b58c-d357e36eeca7",
+      "name": "Modern 100% Whole Wheat Bread",
+      "nutrition": {
+        "energy_kcal": 235.0,
+        "protein_g": 9.6,
+        "carbs_g": 4.7,
+        "sodium_mg": 480.0,
+        "saturated_fat_g": 1.33
+      },
+      "ingredients": "Whole Wheat Flour (Atta) (57.3%), Sugar, Gluten, Yeast, Edible Vegetable Oil (Refined Palmolein Oil), Iodized Salt, Milk Solids, Oat Flour, Soya Flour, Preservatives (282, 200), Malt Product, Acidity Regulators {341(i), 260, 297}, Emulsifier (471), Flour Treatment Agent (510), and Antioxidant (300). (Numbers referred above are as per International Numbering System). Contains Wheat, Milk, Oat, Soya and Barley ingredients",
+      "fssai": "10014021001010",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:39.397566"
+    },
+    {
+      "pvid": "58bd25ce-8f73-4031-96ed-7a1278834d2b",
+      "name": "The Health Factory Zero Maida Whole Wheat Bread",
+      "nutrition": {
+        "protein_g": 13.47,
+        "carbs_g": 43.91,
+        "fat_g": 1.33,
+        "fiber_g": 6.31,
+        "sodium_mg": 347.12
+      },
+      "ingredients": "Whole Wheat Flour (Atta) (57.3%), Sugar, Gluten, Yeast, Edible Vegetable Oil (Refined Palmolein Oil), Iodized Salt, Milk Solids, Oat Flour, Soya Flour, Preservatives (282, 200), Malt Product, Acidity Regulators {341(i), 260, 297}, Emulsifier (471), Flour Treatment Agent (510), and Antioxidant (300). (Numbers referred above are as per International Numbering System). Contains Wheat, Milk, Oat, Soya and Barley ingredients",
+      "fssai": "1.00121E+13",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:40.549344"
+    },
+    {
+      "pvid": "f9b293df-bab7-4436-b4c2-46ccf9936da9",
+      "name": "Modern Milk Plus Bread",
+      "nutrition": null,
+      "ingredients": "Whole Wheat Flour (Atta) (57.3%), Sugar, Gluten, Yeast, Edible Vegetable Oil (Refined Palmolein Oil), Iodized Salt, Milk Solids, Oat Flour, Soya Flour, Preservatives (282, 200), Malt Product, Acidity Regulators {341(i), 260, 297}, Emulsifier (471), Flour Treatment Agent (510), and Antioxidant (300). (Numbers referred above are as per International Numbering System). Contains Wheat, Milk, Oat, Soya and Barley ingredients",
+      "fssai": "1.00121E+13",
+      "has_nutrition": false,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:41.670881"
+    },
+    {
+      "pvid": "8cb7e20c-828c-4117-be49-6f4a374d421a",
+      "name": "Modern Sandwich Supreme White Bread",
+      "nutrition": {
+        "energy_kcal": 254.0,
+        "protein_g": 7.9,
+        "carbs_g": 51.0,
+        "sodium_mg": 388.1,
+        "saturated_fat_g": 1.2
+      },
+      "ingredients": "Whole Wheat Flour (Atta) (57.3%), Sugar, Gluten, Yeast, Edible Vegetable Oil (Refined Palmolein Oil), Iodized Salt, Milk Solids, Oat Flour, Soya Flour, Preservatives (282, 200), Malt Product, Acidity Regulators {341(i), 260, 297}, Emulsifier (471), Flour Treatment Agent (510), and Antioxidant (300). (Numbers referred above are as per International Numbering System). Contains Wheat, Milk, Oat, Soya and Barley ingredients",
+      "fssai": "1.00121E+13",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:42.691924"
+    },
+    {
+      "pvid": "3b35affb-59ec-468c-9c59-c79649ffb1de",
+      "name": "English Oven Milk Bread",
+      "nutrition": null,
+      "ingredients": "Whole Wheat Flour (Atta) (57.3%), Sugar, Gluten, Yeast, Edible Vegetable Oil (Refined Palmolein Oil), Iodized Salt, Milk Solids, Oat Flour, Soya Flour, Preservatives (282, 200), Malt Product, Acidity Regulators {341(i), 260, 297}, Emulsifier (471), Flour Treatment Agent (510), and Antioxidant (300). (Numbers referred above are as per International Numbering System). Contains Wheat, Milk, Oat, Soya and Barley ingredients",
+      "fssai": "1.00121E+13",
+      "has_nutrition": false,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:43.723060"
+    },
+    {
+      "pvid": "fd98be99-5687-45fe-9fcc-a60ca95746d1",
+      "name": "Britannia Milk Slice White Bread",
+      "nutrition": null,
+      "ingredients": "Whole Wheat Flour (Atta) (57.3%), Sugar, Gluten, Yeast, Edible Vegetable Oil (Refined Palmolein Oil), Iodized Salt, Milk Solids, Oat Flour, Soya Flour, Preservatives (282, 200), Malt Product, Acidity Regulators {341(i), 260, 297}, Emulsifier (471), Flour Treatment Agent (510), and Antioxidant (300). (Numbers referred above are as per International Numbering System). Contains Wheat, Milk, Oat, Soya and Barley ingredients",
+      "fssai": "13618010000003",
+      "has_nutrition": false,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:44.750416"
+    },
+    {
+      "pvid": "3360ce87-0a87-4e97-93fe-8b4f524aefb2",
+      "name": "Baker's Loaf Zero Preservatives Whole Wheat Bread",
+      "nutrition": null,
+      "ingredients": "BREAD :- BREAD :- Whole Wheat Flour (Atta) (51%), Water, Yeast, Sugar , Edible Common Salt, Edible Vegetable Oils (Palm),Wheat Gluten, Class II Preservative (282), Malt Powder, Acidity Regulator (260), Emulsifiers (471,472e,481 (i)), Improvers (170 (i),510,923,1100) and Antioxidant (300) (Numbers in brackets are as per International Numbering System)",
+      "fssai": "10013013000537",
+      "has_nutrition": false,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:45.903933"
+    },
+    {
+      "pvid": "07029311-ef07-4ce8-819b-a2dfce156cb2",
+      "name": "The Health Factory Zero Maida Whole Wheat Bread 250g",
+      "nutrition": {
+        "protein_g": 13.47,
+        "carbs_g": 43.91,
+        "fat_g": 1.33,
+        "fiber_g": 6.31,
+        "sodium_mg": 347.12
+      },
+      "ingredients": "Whole Wheat Flour (Atta) (57.3%), Sugar, Gluten, Yeast, Edible Vegetable Oil (Refined Palmolein Oil), Iodized Salt, Milk Solids, Oat Flour, Soya Flour, Preservatives (282, 200), Malt Product, Acidity Regulators {341(i), 260, 297}, Emulsifier (471), Flour Treatment Agent (510), and Antioxidant (300). (Numbers referred above are as per International Numbering System). Contains Wheat, Milk, Oat, Soya and Barley ingredients",
+      "fssai": "1.00121E+13",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:46.900809"
+    },
+    {
+      "pvid": "c58f1b83-4064-4b52-bdf6-c568a221dc11",
+      "name": "Britannia 100% Whole Wheat Bread",
+      "nutrition": {
+        "energy_kcal": 245.0,
+        "protein_g": 8.3,
+        "carbs_g": 50.7,
+        "fat_g": 2.0,
+        "sugar_g": 1.5,
+        "added_sugar_g": 1.5,
+        "fiber_g": 4.4,
+        "sodium_mg": 478.6
+      },
+      "ingredients": "Whole Wheat Flour, Water, Sugar, Oil, Salt, Improvers.",
+      "fssai": "10015047000523",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:48.110700"
+    },
+    {
+      "pvid": "68c08f6d-4d38-459c-b87b-ce71f0560d01",
+      "name": "English Oven Zero Maida 100% Atta Bread",
+      "nutrition": {
+        "energy_kcal": 290.56,
+        "protein_g": 10.26,
+        "sodium_mg": 388.0
+      },
+      "ingredients": "BREAD :- BREAD :- Whole Wheat Flour (Atta) (51%), Water, Yeast, Sugar , Edible Common Salt, Edible Vegetable Oils (Palm),Wheat Gluten, Class II Preservative (282), Malt Powder, Acidity Regulator (260), Emulsifiers (471,472e,481 (i)), Improvers (170 (i),510,923,1100) and Antioxidant (300) (Numbers in brackets are as per International Numbering System)",
+      "fssai": "1.00121E+13",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:49.143652"
+    },
+    {
+      "pvid": "e6327c54-8b6a-41ef-8730-855f1834b0b5",
+      "name": "Iyengars Bakery Special Bread",
+      "nutrition": {
+        "energy_kcal": 331.8,
+        "protein_g": 9.6,
+        "carbs_g": 58.0,
+        "fat_g": 6.9,
+        "fiber_g": 3.0,
+        "sodium_mg": 273.3,
+        "saturated_fat_g": 1.7
+      },
+      "ingredients": "Wheat Flour (Atta(52%), Water, Yeast, Sugar, Edible Common Salt, Wheat Gluten, Edible Vegetable Oils (Palm), Class II Preservative (282), Malt Powder, Improvers (170 (i), 510,923,1100), Acidity Regulator (260), Emulsifiers (471, 472e, 481 (i)), Antioxidant (300) (Numbers in brackets are as per International Numbering System)",
+      "fssai": "1.00121E+13",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:50.224362"
+    },
+    {
+      "pvid": "49665e03-a09c-4a51-b5e0-cda18d152544",
+      "name": "Brik Oven Whole Wheat Sourdough Bread",
+      "nutrition": {
+        "energy_kcal": 313.0,
+        "protein_g": 12.4,
+        "fiber_g": 27.49,
+        "saturated_fat_g": 0.04
+      },
+      "ingredients": "Whole Wheat Flour (Atta) (57.3%), Sugar, Gluten, Yeast, Edible Vegetable Oil (Refined Palmolein Oil), Iodized Salt, Milk Solids, Oat Flour, Soya Flour, Preservatives (282, 200), Malt Product, Acidity Regulators {341(i), 260, 297}, Emulsifier (471), Flour Treatment Agent (510), and Antioxidant (300). (Numbers referred above are as per International Numbering System). Contains Wheat, Milk, Oat, Soya and Barley ingredients",
+      "fssai": "10821005000022",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:51.250402"
+    },
+    {
+      "pvid": "330b74a6-1a52-41e8-baee-fd0192a0b6fb",
+      "name": "English Oven Sandwich White Bread",
+      "nutrition": {
+        "energy_kcal": 252.41,
+        "protein_g": 8.37,
+        "fat_g": 2.01,
+        "sugar_g": 3.99,
+        "sodium_mg": 468.0,
+        "saturated_fat_g": 0.89,
+        "trans_fat_g": 0.0
+      },
+      "ingredients": "Whole Wheat Flour (Atta) (57.3%), Sugar, Gluten, Yeast, Edible Vegetable Oil (Refined Palmolein Oil), Iodized Salt, Milk Solids, Oat Flour, Soya Flour, Preservatives (282, 200), Malt Product, Acidity Regulators {341(i), 260, 297}, Emulsifier (471), Flour Treatment Agent (510), and Antioxidant (300). (Numbers referred above are as per International Numbering System). Contains Wheat, Milk, Oat, Soya and Barley ingredients",
+      "fssai": "10012051000068",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:52.362133"
+    },
+    {
+      "pvid": "599eb2e4-a83d-4caa-9163-3137890dfa3f",
+      "name": "Theobroma 100% Whole Wheat Bread",
+      "nutrition": null,
+      "ingredients": "Whole Wheat Flour (Atta) 52%, Legumes Seeds, Rolled Oats, Ragi Flour, Wheat Bran, Yeast, Sugar, Iodised Salt, Preservative, Improvers, Acidity Regulator, Vitamins",
+      "fssai": "10014021001010",
+      "has_nutrition": false,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:53.338230"
+    },
+    {
+      "pvid": "90d14ba9-6d61-4c7c-80b7-8fc6e7615b50",
+      "name": "English Oven Zero Maida Multigrain Bread",
+      "nutrition": {
+        "energy_kcal": 170.8,
+        "protein_g": 6.18,
+        "fat_g": 1.7,
+        "sugar_g": 2.61,
+        "added_sugar_g": 1.06,
+        "sodium_mg": 239.0,
+        "saturated_fat_g": 0.61,
+        "trans_fat_g": 0.0
+      },
+      "ingredients": "Whole Wheat Flour (Atta) (57.3%), Sugar, Gluten, Yeast, Edible Vegetable Oil (Refined Palmolein Oil), Iodized Salt, Milk Solids, Oat Flour, Soya Flour, Preservatives (282, 200), Malt Product, Acidity Regulators {341(i), 260, 297}, Emulsifier (471), Flour Treatment Agent (510), and Antioxidant (300). (Numbers referred above are as per International Numbering System). Contains Wheat, Milk, Oat, Soya and Barley ingredients",
+      "fssai": "10012051000068",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:54.359588"
+    },
+    {
+      "pvid": "a907840c-1e69-4589-956b-69b987601dda",
+      "name": "Britannia Pav",
+      "nutrition": {
+        "energy_kcal": 308.0,
+        "protein_g": 7.0,
+        "saturated_fat_g": 1.5,
+        "trans_fat_g": 0.0
+      },
+      "ingredients": "Refined Wheat Flour Maida, Yeast, Sugar, Virtual Gluten, Iodised Salt, Preservative, Improvers, Acidity Regulator, Vitamins",
+      "fssai": "1.00121E+13",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:55.382111"
+    },
+    {
+      "pvid": "5c7bd61a-cd55-4caf-97ef-6ba8e4e4afef",
+      "name": "Modern Multigrain Bread 13 Grains & Seeds",
+      "nutrition": {
+        "energy_kcal": 266.87,
+        "protein_g": 10.3,
+        "carbs_g": 45.73,
+        "sugar_g": 4.33,
+        "added_sugar_g": 3.35,
+        "fiber_g": 7.77,
+        "sodium_mg": 9.47,
+        "saturated_fat_g": 0.66,
+        "trans_fat_g": 0.0
+      },
+      "ingredients": "Whole Wheat Flour (Atta) (48.15%), Grains* and seeds (15.2%) {Rolled Oats (3.76%), Flax Seeds (2.31%), Maize Flour (1.44%), Rice Flour (120%), Barley Flour (1.20%), Bajra Flour (0.96%), Ragi Flour (0.96%), Jowar Flour (0.96), Sesame seeds (0.96%), Soya Flour (0.48%), Sunflower Seeds(0.36%), White Watermelon Seeds (0.36%), Bengal Gram Flour (0.24%)}, Sugar, Yeast, Gluten, Edible Vegetable Oil (Refined Palmolein Oil), Iodized Salt, Preservatives (282, 200), Malt Extract, Emulsifier (471), Acidity Regulators (260, 297), Wheat Bran and Antioxidant (300).(Numbers referred above are as per International Numbering System) *Other Grain and Grain Flour Mix (flour basis) u003e20% Contains wheat, Oats, Soy, and Barley Ingredients",
+      "fssai": "10014021001010",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:56.418336"
+    },
+    {
+      "pvid": "1b4d5867-dd92-427c-a9ef-7568b03b6be1",
+      "name": "The Health Factory Zero Maida Multigrain Bread",
+      "nutrition": {
+        "protein_g": 12.91,
+        "carbs_g": 43.19,
+        "fat_g": 1.53,
+        "fiber_g": 7.37,
+        "sodium_mg": 365.91
+      },
+      "ingredients": "Whole Wheat Flour (Atta) 52%, Legumes Seeds, Rolled Oats, Ragi Flour, Wheat Bran, Yeast, Sugar, Iodised Salt, Preservative, Improvers, Acidity Regulator, Vitamins",
+      "fssai": "1.00121E+13",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:57.522479"
+    },
+    {
+      "pvid": "60fede07-01d4-4171-9cc3-2ec4813a57a8",
+      "name": "English Oven Brown Bread",
+      "nutrition": {
+        "energy_kcal": 251.3,
+        "protein_g": 8.4,
+        "fat_g": 1.6,
+        "sugar_g": 3.9,
+        "added_sugar_g": 1.0,
+        "fiber_g": 8.1,
+        "sodium_mg": 431.0,
+        "saturated_fat_g": 0.6,
+        "trans_fat_g": 0.0
+      },
+      "ingredients": "Whole Wheat Flour (Atta) (57.3%), Sugar, Gluten, Yeast, Edible Vegetable Oil (Refined Palmolein Oil), Iodized Salt, Milk Solids, Oat Flour, Soya Flour, Preservatives (282, 200), Malt Product, Acidity Regulators {341(i), 260, 297}, Emulsifier (471), Flour Treatment Agent (510), and Antioxidant (300). (Numbers referred above are as per International Numbering System). Contains Wheat, Milk, Oat, Soya and Barley ingredients",
+      "fssai": "10012051000068",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:58.563800"
+    },
+    {
+      "pvid": "fb47103d-b4f4-4313-bd20-fb0d6d5b7ace",
+      "name": "English Oven Burger Bun",
+      "nutrition": {
+        "energy_kcal": 277.0,
+        "protein_g": 8.63,
+        "saturated_fat_g": 0.7,
+        "trans_fat_g": 0.0
+      },
+      "ingredients": "Whole Wheat Flour (Atta) (57.3%), Sugar, Gluten, Yeast, Edible Vegetable Oil (Refined Palmolein Oil), Iodized Salt, Milk Solids, Oat Flour, Soya Flour, Preservatives (282, 200), Malt Product, Acidity Regulators {341(i), 260, 297}, Emulsifier (471), Flour Treatment Agent (510), and Antioxidant (300). (Numbers referred above are as per International Numbering System). Contains Wheat, Milk, Oat, Soya and Barley ingredients",
+      "fssai": "10014021001010",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:14:59.783062"
+    },
+    {
+      "pvid": "3c746df5-d556-4e95-96db-42f817c8bacd",
+      "name": "Britannia Bombay Pav",
+      "nutrition": {
+        "energy_kcal": 288.0,
+        "protein_g": 7.6,
+        "carbs_g": 56.2,
+        "fat_g": 3.7,
+        "sugar_g": 6.4,
+        "added_sugar_g": 6.3,
+        "sodium_mg": 510.0
+      },
+      "ingredients": "Whole Wheat Flour (Atta) 52%, Legumes Seeds, Rolled Oats, Ragi Flour, Wheat Bran, Yeast, Sugar, Iodised Salt, Preservative, Improvers, Acidity Regulator, Vitamins",
+      "fssai": "10012051000068",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:15:00.846992"
+    },
+    {
+      "pvid": "50ce2591-795f-4eaa-bfc7-62f7c0e758ba",
+      "name": "Baker's Loaf Zero Preservatives Multigrain Bread",
+      "nutrition": null,
+      "ingredients": "Refined Wheat Flour (Maida), Water, Sugar, Yeast,Edible Vegetable Oils (Palm), Wheat Gluten, Edible Common Salt, Garlic Seasoning (0.5% - Maize starch, Garlic bits, Salt, Yeast extract powder, Flavour Enhancer (627, 631), Spice extract (garlic), Oregano, Anticaking Agent (551)), Class II Preservative(282), Acidity Regulator (260), Emulsifiers (471,472e,481 (i)), Improvers (170(i),510, 923,1100) and Antioxidant (300) (Numbers in brackets are as per International Numbering System)",
+      "fssai": "10012051000068",
+      "has_nutrition": false,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:15:01.926450"
+    },
+    {
+      "pvid": "a6e5e618-f87e-41ef-9e5a-799b96ca250b",
+      "name": "The Baker's Dozen Country Sourdough Bread",
+      "nutrition": {
+        "energy_kcal": 244.0,
+        "protein_g": 11.0,
+        "carbs_g": 49.0,
+        "fat_g": 0.63,
+        "fiber_g": 5.0,
+        "sodium_mg": 265.0,
+        "saturated_fat_g": 0.29,
+        "trans_fat_g": 0.0
+      },
+      "ingredients": "Whole Wheat Flour (Atta) (57.3%), Sugar, Gluten, Yeast, Edible Vegetable Oil (Refined Palmolein Oil), Iodized Salt, Milk Solids, Oat Flour, Soya Flour, Preservatives (282, 200), Malt Product, Acidity Regulators {341(i), 260, 297}, Emulsifier (471), Flour Treatment Agent (510), and Antioxidant (300). (Numbers referred above are as per International Numbering System). Contains Wheat, Milk, Oat, Soya and Barley ingredients",
+      "fssai": "1.00121E+13",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:15:02.908093"
+    },
+    {
+      "pvid": "5206d918-f6f8-4021-938c-7fb5aae87000",
+      "name": "The Health Factory Zero Maida Milk Bread",
+      "nutrition": {
+        "protein_g": 11.12,
+        "carbs_g": 45.51,
+        "fat_g": 3.21,
+        "fiber_g": 6.18,
+        "sodium_mg": 246.09
+      },
+      "ingredients": "Whole Wheat Flour (Atta) (57.3%), Sugar, Gluten, Yeast, Edible Vegetable Oil (Refined Palmolein Oil), Iodized Salt, Milk Solids, Oat Flour, Soya Flour, Preservatives (282, 200), Malt Product, Acidity Regulators {341(i), 260, 297}, Emulsifier (471), Flour Treatment Agent (510), and Antioxidant (300). (Numbers referred above are as per International Numbering System). Contains Wheat, Milk, Oat, Soya and Barley ingredients",
+      "fssai": "1.00121E+13",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:15:03.908257"
+    },
+    {
+      "pvid": "d3eaa022-099a-4edd-9f2a-48246d9c5229",
+      "name": "English Oven Zero Maida 100% Whole Wheat Bread",
+      "nutrition": {
+        "energy_kcal": 254.54,
+        "protein_g": 8.7,
+        "sodium_mg": 436.0
+      },
+      "ingredients": "Wheat Flour (Atta(52%), Water, Yeast, Sugar, Edible Common Salt, Wheat Gluten, Edible Vegetable Oils (Palm), Class II Preservative (282), Malt Powder, Improvers (170 (i), 510,923,1100), Acidity Regulator (260), Emulsifiers (471, 472e, 481 (i)), Antioxidant (300) (Numbers in brackets are as per International Numbering System)",
+      "fssai": "1.00121E+13",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:15:05.030067"
+    },
+    {
+      "pvid": "5e4a9b9b-26b1-4f21-883b-43fa72837ba1",
+      "name": "Brik Oven Artisinal Sourdough Bread",
+      "nutrition": null,
+      "ingredients": "Whole Wheat Flour (Atta) (57.3%), Sugar, Gluten, Yeast, Edible Vegetable Oil (Refined Palmolein Oil), Iodized Salt, Milk Solids, Oat Flour, Soya Flour, Preservatives (282, 200), Malt Product, Acidity Regulators {341(i), 260, 297}, Emulsifier (471), Flour Treatment Agent (510), and Antioxidant (300). (Numbers referred above are as per International Numbering System). Contains Wheat, Milk, Oat, Soya and Barley ingredients",
+      "fssai": "1.00121E+13",
+      "has_nutrition": false,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:15:06.134159"
+    },
+    {
+      "pvid": "5655c9dc-2517-4acb-b7ef-86b6d8e72b09",
+      "name": "The Baker's Dozen Fourgrain Sourdough Bread",
+      "nutrition": {
+        "energy_kcal": 335.0,
+        "protein_g": 13.4,
+        "carbs_g": 56.42,
+        "fat_g": 6.16,
+        "fiber_g": 9.95,
+        "sodium_mg": 260.0,
+        "saturated_fat_g": 0.74,
+        "trans_fat_g": 0.0
+      },
+      "ingredients": "Whole Wheat Flour (Atta) (57.3%), Sugar, Gluten, Yeast, Edible Vegetable Oil (Refined Palmolein Oil), Iodized Salt, Milk Solids, Oat Flour, Soya Flour, Preservatives (282, 200), Malt Product, Acidity Regulators {341(i), 260, 297}, Emulsifier (471), Flour Treatment Agent (510), and Antioxidant (300). (Numbers referred above are as per International Numbering System). Contains Wheat, Milk, Oat, Soya and Barley ingredients",
+      "fssai": "13618010000003",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:15:07.179405"
+    },
+    {
+      "pvid": "8da0c985-dc37-495c-a8bd-6019c120cb44",
+      "name": "Amul Salted Butter",
+      "nutrition": {
+        "energy_kcal": 724.0,
+        "protein_g": 1.0,
+        "carbs_g": 0.0,
+        "fat_g": 80.0,
+        "sugar_g": 0.0,
+        "added_sugar_g": 0.0,
+        "sodium_mg": 955.0,
+        "saturated_fat_g": 48.0,
+        "trans_fat_g": 0.0
+      },
+      "ingredients": "Butter (82.5%), Water, Common\nsalt, Emulsifiers (INS 471, INS 322),\nPreservatives (INS 202, INS 200), Acidity\nRegulator (INS 330), Nature Identical (Butter)\nFlavouring Substances, Probiotics\nL, rhamnosus UALr\u202206, L, reuteri UALre\u202216),\ntarch, Vitamins, Sequestering Agent\n(INS 385 , Antioxidant (INS 319), Natural\nColour ( NS 160a (ii)).\nALLERGENS: CONTAINS AND soy,",
+      "fssai": "10014021001010",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:15:08.020227"
+    },
+    {
+      "pvid": "7457c7d6-26b9-466b-8950-9c1adb6faa9a",
+      "name": "Amul Salted Butter (Chiplets)",
+      "nutrition": {
+        "energy_kcal": 724.0,
+        "protein_g": 1.0,
+        "carbs_g": 0.0,
+        "fat_g": 80.0,
+        "added_sugar_g": 0.0,
+        "sodium_mg": 955.0,
+        "saturated_fat_g": 48.0,
+        "trans_fat_g": 0.0
+      },
+      "ingredients": "Butter, Common Salt, NutritionAmount Per 100g, Energy, Kcal 722, Energy fron Fat, Kcal 720, Total Fat, g 80, Saturated fat, g 51, Cholesterol, mg 180, Sodium, mg 836, Total Carbohydrate, g 0, Added Sugar, g 0, Protein, g 0.5, Vitamin A, mcg 65.",
+      "fssai": "10012021000071",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:15:08.965931"
+    },
+    {
+      "pvid": "b316b19d-e309-4233-a1f0-e1f0de4005fb",
+      "name": "Amul Butter Tub",
+      "nutrition": null,
+      "ingredients": "Edible Vegetable Oils (Refined Palm and Palm Kernel\nOil, Sunflower Oil, Sesame Oil, Linseed Oil (source of\nOmega-3)), Water, Common Salt, Milk Solids, Emulsifiers\n(INS 471, INS 322), Preservatives (INS 202, INS 200), Thickener\n(INS 415), Acidity Regulator (INS 330), Nature Identical (Butter)\nFlavouring Substances, Starch, Vitamins, Sequestering Agent\n(INS 385), Natural Colour (INS 160a (ii)), Antioxidant (INS 319).\nALLERGENS: CONTAINS MILK AND SOY.",
+      "fssai": "10012021000071",
+      "has_nutrition": false,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:15:09.790192"
+    },
+    {
+      "pvid": "bebc0d21-3d61-49ad-bedc-a7155a5169d3",
+      "name": "Amul Salted Butter",
+      "nutrition": {
+        "energy_kcal": 722.0,
+        "protein_g": 0.5,
+        "sodium_mg": 836.0
+      },
+      "ingredients": "Butter (82.5%), Water, Common\nsalt, Emulsifiers (INS 471, INS 322),\nPreservatives (INS 202, INS 200), Acidity\nRegulator (INS 330), Nature Identical (Butter)\nFlavouring Substances, Probiotics\nL, rhamnosus UALr\u202206, L, reuteri UALre\u202216),\ntarch, Vitamins, Sequestering Agent\n(INS 385 , Antioxidant (INS 319), Natural\nColour ( NS 160a (ii)).\nALLERGENS: CONTAINS AND soy,",
+      "fssai": "10012021000071",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:15:10.602339"
+    },
+    {
+      "pvid": "1685c097-3845-4e73-be56-9910c3391c0c",
+      "name": "Amul Unsalted Cooking Butter",
+      "nutrition": {
+        "energy_kcal": 740.0,
+        "protein_g": 0.6,
+        "carbs_g": 0.0,
+        "fat_g": 82.0
+      },
+      "ingredients": "Butter (82.5%), Water, Common\nsalt, Emulsifiers (INS 471, INS 322),\nPreservatives (INS 202, INS 200), Acidity\nRegulator (INS 330), Nature Identical (Butter)\nFlavouring Substances, Probiotics\nL, rhamnosus UALr\u202206, L, reuteri UALre\u202216),\ntarch, Vitamins, Sequestering Agent\n(INS 385 , Antioxidant (INS 319), Natural\nColour ( NS 160a (ii)).\nALLERGENS: CONTAINS AND soy,",
+      "fssai": "FSSAI No 10014047000258",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:15:11.408353"
+    },
+    {
+      "pvid": "fc2ffbca-a36b-4728-b6be-3168475f3b75",
+      "name": "Amul Salted Butter",
+      "nutrition": {
+        "energy_kcal": 724.0,
+        "protein_g": 1.0,
+        "carbs_g": 0.0,
+        "fat_g": 80.0,
+        "added_sugar_g": 0.0,
+        "sodium_mg": 955.0,
+        "saturated_fat_g": 48.0,
+        "trans_fat_g": 0.0
+      },
+      "ingredients": "Butter (82.5%), Water, Common\nsalt, Emulsifiers (INS 471, INS 322),\nPreservatives (INS 202, INS 200), Acidity\nRegulator (INS 330), Nature Identical (Butter)\nFlavouring Substances, Probiotics\nL, rhamnosus UALr\u202206, L, reuteri UALre\u202216),\ntarch, Vitamins, Sequestering Agent\n(INS 385 , Antioxidant (INS 319), Natural\nColour ( NS 160a (ii)).\nALLERGENS: CONTAINS AND soy,",
+      "fssai": "FSSAI No 10014047000258",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:15:12.280573"
+    },
+    {
+      "pvid": "e1f5d8b0-ac7a-42d3-b4fa-17a5f8a99904",
+      "name": "Amul Unsalted Cooking Butter",
+      "nutrition": {
+        "energy_kcal": 740.0,
+        "protein_g": 0.6,
+        "carbs_g": 0.0,
+        "fat_g": 82.0
+      },
+      "ingredients": "Butter (82.5%), Water, Common\nsalt, Emulsifiers (INS 471, INS 322),\nPreservatives (INS 202, INS 200), Acidity\nRegulator (INS 330), Nature Identical (Butter)\nFlavouring Substances, Probiotics\nL, rhamnosus UALr\u202206, L, reuteri UALre\u202216),\ntarch, Vitamins, Sequestering Agent\n(INS 385 , Antioxidant (INS 319), Natural\nColour ( NS 160a (ii)).\nALLERGENS: CONTAINS AND soy,",
+      "fssai": "FSSAI No 10014047000258",
+      "has_nutrition": true,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:15:13.283873"
+    },
+    {
+      "pvid": "7616a7d1-abd7-4e30-ae4e-e364710b9bc8",
+      "name": "Milky Mist Cooking Butter Unsalted",
+      "nutrition": null,
+      "ingredients": "Strawberry Puree (36%),Valencia Orange Juice, SugarcaneJuice, Banana Puree (11%), Blueberry(9%), Lemon Juice",
+      "fssai": "FSSAI No 10014047000258",
+      "has_nutrition": false,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:15:14.121990"
+    },
+    {
+      "pvid": "b5582f18-8232-4920-b962-14665e6a2cab",
+      "name": "Amul Safed Makkhan",
+      "nutrition": null,
+      "ingredients": "Milk Solids",
+      "fssai": "FSSAI No 10014047000258",
+      "has_nutrition": false,
+      "is_404": false,
+      "scraped_at": "2026-02-18T15:15:14.985149"
+    },
+    {
+      "pvid": "98507230-5aaf-46b3-90c2-69c86786a994",
+      "name": "Delicious Fat Spread - Cholesterol Free",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:15:17.627939"
+    },
+    {
+      "pvid": "e600868b-693e-4f8b-ae63-23aade3cb112",
+      "name": "Delicious Fat Spread - Cholesterol Free",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:15:20.283665"
+    },
+    {
+      "pvid": "84f8b683-8a8c-48a9-a44d-aa38b1f7cff1",
+      "name": "Akshayakalpa Organic Salted Table Butter",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:15:22.954375"
+    },
+    {
+      "pvid": "cde95315-d6f1-4ccd-8af4-f9acd08bfbd2",
+      "name": "Akshayakalpa Organic Salted Table Butter",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:15:25.645300"
+    },
+    {
+      "pvid": "9735d632-cbce-4790-8db7-f7bf3d38c5c9",
+      "name": "Akshayakalpa Organic Unsalted Cooking Butter",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:15:28.308224"
+    },
+    {
+      "pvid": "2a94aa3c-721e-452f-a7c3-7ddc2598d02b",
+      "name": "Akshayakalpa Organic Unsalted Cooking Butter",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:15:30.978365"
+    },
+    {
+      "pvid": "ad432ec6-c284-4d17-92c5-996d39341200",
+      "name": "Nutralite Yummy Spread | Low Cholesterol",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:15:33.646119"
+    },
+    {
+      "pvid": "d08d3ad4-0fd5-43ab-8c1a-d950a6f73163",
+      "name": "Nutralite Premium Fat Spread Tub",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:15:36.385524"
+    },
+    {
+      "pvid": "fa8b6831-172b-4d8f-993b-90384421d316",
+      "name": "Amul Safed Makkhan",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:15:39.087663"
+    },
+    {
+      "pvid": "44eff39d-5e2f-4d80-b482-6e65fa0fb165",
+      "name": "Nutralite Premium Fat Spread",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:15:41.759759"
+    },
+    {
+      "pvid": "a3cc11d8-a12d-4ffe-a005-114bcab2ed5b",
+      "name": "Milky Mist Table Butter Tub",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:15:44.464891"
+    },
+    {
+      "pvid": "0acb07c2-6c83-4eab-920a-8b931a7ae72d",
+      "name": "Milky Mist Cooking Butter Unsalted",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:15:47.120174"
+    },
+    {
+      "pvid": "ef66cec9-239c-4fdd-989c-571df1d8947b",
+      "name": "Nutralite Activ Plant Based Buttery Spread - Garlic & Herbs",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:15:49.865345"
+    },
+    {
+      "pvid": "9073e6b5-ede7-44d2-b46b-5a7db12e0b6c",
+      "name": "Nutralite Doodhshakti Probiotic Butter Spread Tub",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:15:52.522278"
+    },
+    {
+      "pvid": "3abef2db-a394-442e-87dc-2cd9ac007e06",
+      "name": "Nutralite Doodhshakti Probiotic Butter Spread",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:15:55.217088"
+    },
+    {
+      "pvid": "d3477075-f8fa-4f9a-be8a-52357c75c354",
+      "name": "Nutralite Activ Plant Based Buttery Spread - Olive",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:15:57.938089"
+    },
+    {
+      "pvid": "bb3b57c0-4a26-4c7b-8ff2-9e50ee19bb51",
+      "name": "Amul Garlic & Herbs Buttery Spread",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:16:00.590597"
+    },
+    {
+      "pvid": "5fe7ad1b-0036-4356-9d18-cda79c1c6f88",
+      "name": "Milky Mist Butter Chiplet",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:16:03.238213"
+    },
+    {
+      "pvid": "7b9f1535-30f4-4d8c-92c8-17a4ed39a9b9",
+      "name": "Heritage Table Butter",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:16:05.974714"
+    },
+    {
+      "pvid": "b10d82d4-24a8-4176-ab10-d565ce63e2c1",
+      "name": "Nutralite Doodhshakti Probiotic Butter Spread",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:16:08.795228"
+    },
+    {
+      "pvid": "cd685c9c-748b-4ac3-9281-701d66954c65",
+      "name": "Amul Lite Spread",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:16:11.567825"
+    },
+    {
+      "pvid": "18fa8072-a91b-4cb7-ab28-c9f7a0d1404f",
+      "name": "Milky Mist Table Butter",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:16:14.462337"
+    },
+    {
+      "pvid": "0bcd8497-3c8a-4400-9531-c6651db54fd8",
+      "name": "Heritage Table Butter",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:16:17.199104"
+    },
+    {
+      "pvid": "933cb209-4656-4b62-b57f-ade419232ba0",
+      "name": "Let's try Potato Wafers Vrat Fasting Chips",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:16:19.931258"
+    },
+    {
+      "pvid": "0977f75b-cd5b-4769-b959-f7e6082dbacd",
+      "name": "Bingo! Popped Chips Indian Spice Mix",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:16:22.593762"
+    },
+    {
+      "pvid": "d6aebca5-958a-40d7-8ae2-e8d434a231ec",
+      "name": "Crax Cheese Balls Puff Snacks",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:16:25.342506"
+    },
+    {
+      "pvid": "ce26fa96-909a-4038-b166-d6075f05c8ae",
+      "name": "Healthy Master Baked Chips Combo",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:16:27.992056"
+    },
+    {
+      "pvid": "1e28f2c0-fbc5-4366-9efb-a65bd12428cb",
+      "name": "Lay's American Cream & Onion Potato Chips",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:16:30.645995"
+    },
+    {
+      "pvid": "07878a63-2656-4618-a7cc-ecfe8c2faf22",
+      "name": "Lay's India's Magic Masala Potato Chips",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:16:33.318606"
+    },
+    {
+      "pvid": "cc0c8026-9b71-4bdd-bc88-b55d08e50185",
+      "name": "Bingo! Original Style Chilli Sprinkled",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:16:35.986561"
+    },
+    {
+      "pvid": "70bda37d-7f15-4189-b90c-e16dc170d950",
+      "name": "Lay's West Indies Hot 'n' Sweet Chilli",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:16:38.666293"
+    },
+    {
+      "pvid": "0a0906b1-8096-490c-b419-4235b92ee525",
+      "name": "Farmley Makha Shaka Achaari Stix",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:16:41.365631"
+    },
+    {
+      "pvid": "50b47a3b-0639-4a60-989b-bb7555c7e637",
+      "name": "Farmley Makha Shaka Masala Stix",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:16:44.092318"
+    },
+    {
+      "pvid": "4b0a3db9-bb0f-49d4-bdf3-2c39db3b1e05",
+      "name": "Bingo! Tedhe Medhe",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:16:46.781205"
+    },
+    {
+      "pvid": "c3ff38bd-c4be-4783-a08c-f8e04f9b2d1b",
+      "name": "Kurkure Yummy Cheese PuffCorn",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:16:49.472236"
+    },
+    {
+      "pvid": "911fff51-a236-4923-ae64-2766512564ac",
+      "name": "Cheetos Cheese Puffs",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:16:52.147144"
+    },
+    {
+      "pvid": "449be56f-8d8d-413a-a13e-77e7389e46c8",
+      "name": "Bingo! Popped Chips Salt N Pepper",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:16:54.820807"
+    },
+    {
+      "pvid": "c32d9425-0bdb-4d31-bb21-47630f1811f9",
+      "name": "Kurkure Masala Munch",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:16:57.545034"
+    },
+    {
+      "pvid": "11eda568-fc40-4507-98ab-30ef862afe30",
+      "name": "Bingo! Popped Chips Indian Spice Mix Small",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:17:00.280802"
+    },
+    {
+      "pvid": "e4f415f5-7fdd-436b-9ca0-cabd634da3a2",
+      "name": "Cheetos Masala Balls",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:17:02.996212"
+    },
+    {
+      "pvid": "dbbe718b-d0f0-4e11-aaa0-59518bf7e7c1",
+      "name": "Bingo! Popped Chips Sour Cream & Herbs",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:17:05.775679"
+    },
+    {
+      "pvid": "28239b4b-a028-4ccb-b8dd-62de1006b208",
+      "name": "Bingo! Mad Angles Achaari Masti",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:17:08.486978"
+    },
+    {
+      "pvid": "7ffb904c-6169-46a2-9c9f-bdfc287572c7",
+      "name": "Lay's Chile Lemon Flavour",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:17:11.285527"
+    },
+    {
+      "pvid": "64cfe3fd-d3f1-431f-9655-d57c3a38e1d4",
+      "name": "Lay's Spanish Tomato Tango",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:17:14.060235"
+    },
+    {
+      "pvid": "12cdefc2-c4c6-4a74-8b63-cefd3e293a3c",
+      "name": "Lay's Classic Salted",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:17:16.866118"
+    },
+    {
+      "pvid": "cff91b9e-62d9-46a4-bd36-974c1e8df51c",
+      "name": "Bingo! Original Style Chilli Large",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:17:19.595972"
+    },
+    {
+      "pvid": "955ee89f-e341-4386-8582-7296905a9c09",
+      "name": "Uncle Chips Spicy Treat",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:17:22.304137"
+    },
+    {
+      "pvid": "408b9b30-e7f8-40a5-b834-997dbae8bc55",
+      "name": "Theatre Project Crinkle Cut",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:17:24.980694"
+    },
+    {
+      "pvid": "9468186f-3b4f-401e-821c-94683949453c",
+      "name": "Bingo! Mad Angles Tomato Madness",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:17:27.650036"
+    },
+    {
+      "pvid": "22d79b35-23f3-4380-aeb5-32f0d4f6eb05",
+      "name": "Balaji Crunchex Chili Tadka",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:17:30.426842"
+    },
+    {
+      "pvid": "b086d167-28f2-4a94-8fe0-a32eb637fa36",
+      "name": "Kurkure Red Chilli Chataka",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:17:33.130223"
+    },
+    {
+      "pvid": "e80a8a61-b648-49f7-bf3d-74837a16f7b6",
+      "name": "Piknik Classic Tomato Chilli",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:17:35.848981"
+    },
+    {
+      "pvid": "7bfb3f6f-c392-4dcf-acbc-ba268e1bf92c",
+      "name": "Bingo! Mad Angles Masala Madness",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:17:38.508392"
+    },
+    {
+      "pvid": "0189c83e-8f41-4c9a-ae72-750a422b2e63",
+      "name": "Bingo! Tedhe Medhe Xtraa Teekha",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:17:41.216334"
+    },
+    {
+      "pvid": "2d82e742-f8fc-4cdc-95a0-f0218064686f",
+      "name": "Too Yumm! Bhoot Potato Chips",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:17:43.886791"
+    },
+    {
+      "pvid": "c163250b-3001-40d5-8f84-cd63405d6fa4",
+      "name": "Figaro Pure Olive Oil",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:17:46.602850"
+    },
+    {
+      "pvid": "46b5c8a6-4b6d-41a7-8d6d-4f572a69cb47",
+      "name": "Organic Tattva Sunflower Cold Pressed Oil",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:17:49.277181"
+    },
+    {
+      "pvid": "8546b13c-dc23-41bc-beaf-5f48baf28ac4",
+      "name": "Borges Extra Virgin Olive Oil",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:17:51.962551"
+    },
+    {
+      "pvid": "1b73f9b2-49ab-4923-92c2-13aacb52752e",
+      "name": "Pure Nutrition Organic Extra Virgin Olive Oil",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:17:54.650928"
+    },
+    {
+      "pvid": "2b82ebea-f4b5-4992-b651-a1478a038521",
+      "name": "Organic India Sunflower Oil Cold Pressed",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:17:57.341568"
+    },
+    {
+      "pvid": "cae5bb67-ad43-4baf-baad-09870f426081",
+      "name": "Borges Extra Light Olive Oil",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:18:00.044082"
+    },
+    {
+      "pvid": "dec9534b-d7a4-4af8-bd31-463a35f54537",
+      "name": "Del Monte Extra Light Olive Oil",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:18:02.718608"
+    },
+    {
+      "pvid": "6ef644ba-ec29-40bb-9bf2-901e1cfcd0f8",
+      "name": "Anveshan Extra Virgin Olive Oil",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:18:05.409970"
+    },
+    {
+      "pvid": "e723b984-c0fb-4f72-bbff-146368925e9b",
+      "name": "Conscious Food Cold Pressed Sunflower Oil",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:18:08.115732"
+    },
+    {
+      "pvid": "cff0ac4a-5a26-499a-9c7b-79685005ad09",
+      "name": "Dhara Refined Sun Flower Oil Jar",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:18:10.813520"
+    },
+    {
+      "pvid": "209f1ba7-cc8a-4b2b-8032-2a8fa2e59da2",
+      "name": "Aroga Foods Sunflower Cold Pressed Oil",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:18:13.584939"
+    },
+    {
+      "pvid": "5ea3f29b-bf53-4777-9c44-600d17c27e1f",
+      "name": "Jivika Sunflower Cold Pressed Oil",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:18:16.258070"
+    },
+    {
+      "pvid": "a858f598-1f35-45e0-a4d5-b5992fdf8277",
+      "name": "Cold Pressed Oil",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:18:18.920891"
+    },
+    {
+      "pvid": "5d186472-6fe2-4643-af2f-2f9cd773986d",
+      "name": "Jivo Extra Virgin Olive Oil",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:18:21.624951"
+    },
+    {
+      "pvid": "c396b48e-302b-44d2-933e-c82057ea238e",
+      "name": "Gaia Extra Light Olive Oil",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:18:24.331392"
+    },
+    {
+      "pvid": "ee6d77ad-72b3-46d6-81f5-781f5801d988",
+      "name": "Pure Nutrition Extra Light Olive Oil",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:18:27.047595"
+    },
+    {
+      "pvid": "2b3bc33f-d477-44fd-8800-4d09591588fb",
+      "name": "Vimal Oil Extra Virgin Olive Oil",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:18:29.757076"
+    },
+    {
+      "pvid": "e9a7a177-a3c5-4958-b98f-724c9531d1c8",
+      "name": "Indic Wisdom Groundnut Wood Cold Pressed",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:18:32.444777"
+    },
+    {
+      "pvid": "cee0e4b1-9d87-4a04-8b44-8f83f781f8fa",
+      "name": "Two Brothers Coconut Wood Pressed Oil",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:18:35.257574"
+    },
+    {
+      "pvid": "84c36720-6b0f-4937-a541-8e2c0c519711",
+      "name": "Akshayakalpa Organic Coconut Cold Pressed Oil",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:18:38.049890"
+    },
+    {
+      "pvid": "e519dbb8-61d1-48b7-b61d-aa17446fd420",
+      "name": "Saffola Gold Oil Power of 3",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:18:40.748540"
+    },
+    {
+      "pvid": "60fc6828-a222-4183-bc01-a6f2bc40f975",
+      "name": "Natureland Organics Mustard Cold Pressed Oil",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:18:43.440195"
+    },
+    {
+      "pvid": "7537fd12-9893-45d9-aa4d-695e9a286b52",
+      "name": "Natureland Organics Groundnut Cold Pressed Oil",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:18:46.130214"
+    },
+    {
+      "pvid": "0eec54ea-bc04-419e-997f-728f5f4e5b41",
+      "name": "Borges Extra Light Olive Oil",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:18:48.871370"
+    },
+    {
+      "pvid": "07fd1af5-e475-4887-9847-c857227da145",
+      "name": "Del Monte Extra Virgin Olive Oil",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:18:51.534418"
+    },
+    {
+      "pvid": "199dfb62-de20-4cf2-bbbf-b97d3f65c5a5",
+      "name": "24 Mantra Sunflower Cold Pressed Oil",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:18:54.215424"
+    },
+    {
+      "pvid": "0276d6cb-d4d2-4726-9742-9189bee562b5",
+      "name": "Natureland Organics Sunflower Cold Pressed Oil",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:18:56.903929"
+    },
+    {
+      "pvid": "0e0cd9b2-956b-4021-a987-c32d9e3f27a9",
+      "name": "House of Veda Organic Sunflower Cold Pressed Oil",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:18:59.569843"
+    },
+    {
+      "pvid": "adaf0e37-3082-4a87-bea3-44ba3e73d3c1",
+      "name": "Pure Nutrition Olive Pomace Oil",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:19:02.294498"
+    },
+    {
+      "pvid": "c290de0b-031e-4a5b-b871-37db3a47df01",
+      "name": "Phalada Pure & Sure Groundnut Cold Pressed Oil",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:19:05.042169"
+    },
+    {
+      "pvid": "e4b3a94c-7c5f-47e3-82a5-857ac301e66e",
+      "name": "Earthen Story Organic Yellow Mustard Cold Pressed Oil",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:19:07.791635"
+    },
+    {
+      "pvid": "1fd1772a-7445-4a06-aef4-14d53cd28700",
+      "name": "Gulab Coconut Cold Pressed Oil",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:19:10.468345"
+    },
+    {
+      "pvid": "f05fb698-1b4a-4c68-a16a-1dbc018ccb0c",
+      "name": "Nandini Thick Curd Pouch",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:19:13.190551"
+    },
+    {
+      "pvid": "0e7d1f54-816e-4461-9f79-a651a41fec02",
+      "name": "Akshayakalpa Artisanal Organic Set Curd Cup",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:19:15.865275"
+    },
+    {
+      "pvid": "867c532d-78ee-4b54-a623-fb0f86411a53",
+      "name": "Mother Dairy Mishti Doi Cup",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:19:18.525712"
+    },
+    {
+      "pvid": "23a90a6f-2dab-4bd1-a911-bfd3ab97648c",
+      "name": "Heritage Total Curd Tub",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:19:21.218910"
+    },
+    {
+      "pvid": "cf8c88da-d6d3-40af-893c-db15c351513b",
+      "name": "Amul Masti Set Curd Tub",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:19:23.878594"
+    },
+    {
+      "pvid": "0af6a1a5-373b-4ddb-a661-cefc7f18298e",
+      "name": "Milky Mist Set Curd Tub",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:19:26.540985"
+    },
+    {
+      "pvid": "61ae2733-9ff4-4968-9271-b119c38b37f1",
+      "name": "Milky Mist Probiotic Curd Tub",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:19:29.318892"
+    },
+    {
+      "pvid": "a1f91e85-5ccc-4d8e-921a-b81ca9f8d896",
+      "name": "Akshayakalpa Artisanal Organic Set Curd Cup",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:19:32.049375"
+    },
+    {
+      "pvid": "469f147b-c676-47c9-b2da-1e90a421e984",
+      "name": "Desi Farms Creamy & Thick Dahi Tub",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:19:34.702775"
+    },
+    {
+      "pvid": "1363a5ff-b43b-439b-a814-a0982e8559de",
+      "name": "Milky Mist Plain Curd Cup",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:19:37.370341"
+    },
+    {
+      "pvid": "31ddcfa7-0114-4343-9bac-7ae170f23db6",
+      "name": "Mother Dairy Thick & Tasty Curd Tub",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:19:40.063861"
+    },
+    {
+      "pvid": "e90e8c07-553f-4169-9c44-cb468b6b2741",
+      "name": "Amul High Protein Cup Dahi",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:19:42.762556"
+    },
+    {
+      "pvid": "6fe48002-44ec-4c37-af80-7034d3fc6db6",
+      "name": "Heritage Total Curd Pouch",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:19:45.441553"
+    },
+    {
+      "pvid": "22c5e201-2f80-43b6-9476-5822b97d4958",
+      "name": "Akshayakalpa Amrutha A2 Organic Curd Pouch",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:19:48.099567"
+    },
+    {
+      "pvid": "06806c10-0b66-4131-8279-ccf912d0758e",
+      "name": "Milky Mist Curd Pouch",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:19:50.771978"
+    },
+    {
+      "pvid": "11aef640-1525-4c3e-bda8-fb72b89225ed",
+      "name": "Mother Dairy Classic Dahi Cup",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:19:53.424385"
+    },
+    {
+      "pvid": "d13a1bd1-aeaa-4388-9f32-2be8b1815ae7",
+      "name": "Akshayakalpa Organic Probiotic Curd Pouch",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:19:56.107873"
+    },
+    {
+      "pvid": "e44249e2-37fc-438e-a905-4e0cdcb2077e",
+      "name": "Yakult Probiotic Fermented Milk Drink",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:19:58.828324"
+    },
+    {
+      "pvid": "d3e8e9e0-7e0f-4fcd-8725-a6b64409b5ad",
+      "name": "Heritage Total Curd Tub",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:20:01.591138"
+    },
+    {
+      "pvid": "b0e9defa-42c5-44ab-88a1-1d9d2a26bb37",
+      "name": "Country Delight | Ghar Jaisa Dahi Cup",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:20:04.290422"
+    },
+    {
+      "pvid": "b87ff0cd-08a4-4d2d-972d-0e458dc67d85",
+      "name": "Hatsun Curd Pouch",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:20:07.035984"
+    },
+    {
+      "pvid": "d26207e4-d61b-473c-9934-a4d47adca6f8",
+      "name": "Milky Mist Probiotic Curd Cup",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:20:09.685270"
+    },
+    {
+      "pvid": "a21e9137-c66b-4d46-9cfa-adf70a4715bd",
+      "name": "Country Delight 30g Protein Ghar Jaisa Dahi",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:20:12.425571"
+    },
+    {
+      "pvid": "7e56925a-9fda-4ee8-9c34-1e933e0077dc",
+      "name": "Sids Farm Cow Curd Cup",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:20:15.100064"
+    },
+    {
+      "pvid": "6bf52672-9a74-4f97-b3c2-9250f7cce0d8",
+      "name": "Heritage Sampurna A2 Curd Tub",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:20:17.759104"
+    },
+    {
+      "pvid": "e46b6766-4d38-437c-b58d-0edfdf9ee5db",
+      "name": "Epigamia Lactose Free Cup Curd",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:20:20.408387"
+    },
+    {
+      "pvid": "71624ddb-9eff-4fec-b756-034c94b97190",
+      "name": "Sid's Farm Curd Tub",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:20:23.092126"
+    },
+    {
+      "pvid": "ce6fac84-94c2-4a22-b52c-7ba92c8a15d7",
+      "name": "Godrej Jersey Curd Tub",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:20:25.749076"
+    },
+    {
+      "pvid": "34cb1ac2-0680-4c50-96ed-9f1480024d28",
+      "name": "Godrej Jersey Curd Pouch",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:20:28.421535"
+    },
+    {
+      "pvid": "1b3c9c59-924f-436c-91fb-910bcc3dee01",
+      "name": "Tata Sampann Unpolished Toor Dal 1kg",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:20:31.152759"
+    },
+    {
+      "pvid": "27f6d723-530b-4cb9-9d8d-15f145586b30",
+      "name": "Daily Good Raw Peanut",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:20:33.828282"
+    },
+    {
+      "pvid": "b112aa30-e6ab-4f7c-9326-16c1733a057a",
+      "name": "Tata Sampann Toor Dal 500g",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:20:36.497081"
+    },
+    {
+      "pvid": "6c92632d-e112-4550-aeaa-cd1f117f26ba",
+      "name": "Sri Bhagyalakshmi Ground Nut",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:20:39.166955"
+    },
+    {
+      "pvid": "cfc5e58e-1b02-4f88-9ae4-85630c217570",
+      "name": "Tata Sampann Moong Dal",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:20:41.809479"
+    },
+    {
+      "pvid": "cfbf008c-0d22-4a25-ae4b-c23629483eba",
+      "name": "Daily Good Raw Peanut 1kg",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:20:44.668670"
+    },
+    {
+      "pvid": "36153031-3e4e-4f9c-9082-16ec095479b4",
+      "name": "Tata Sampann Green Moong",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:20:47.369290"
+    },
+    {
+      "pvid": "632519f7-c5b2-4da3-97df-809c46d3484e",
+      "name": "Daily Good Urad White Whole",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:20:50.035622"
+    },
+    {
+      "pvid": "21a538c3-2470-4930-b670-1866caf5027b",
+      "name": "Tata Sampann Moong Dal 1kg",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:20:52.750463"
+    },
+    {
+      "pvid": "4a7d4796-0d8a-4627-907f-e6df14abf923",
+      "name": "Daily Good Toor Dal Regular",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:20:55.402908"
+    },
+    {
+      "pvid": "77c6f32c-d410-49d0-a5ce-151de13f3485",
+      "name": "Sri Bhagyalakshmi Fried Gram",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:20:58.079026"
+    },
+    {
+      "pvid": "2aa43aa2-14b5-45ee-b2c4-502193df52c3",
+      "name": "Tata Sampann Chana Dal",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:21:00.749387"
+    },
+    {
+      "pvid": "d86025a7-fbff-439e-9c8b-3ddcd17afe0c",
+      "name": "Tata Sampann Urad Dal Split",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:21:03.428778"
+    },
+    {
+      "pvid": "d05b8f97-2ccb-49ea-b1a2-9ec699a82871",
+      "name": "Daily Good Toor Dal 1kg",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:21:06.112369"
+    },
+    {
+      "pvid": "31fdc8f2-657b-4396-a1a2-8c6010d03de3",
+      "name": "Tata Sampann Urad Dal Whole 1kg",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:21:08.846903"
+    },
+    {
+      "pvid": "f2a67edc-e486-47a8-86b7-88900a9ffe34",
+      "name": "Fortune Arhar Dal",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:21:11.536161"
+    },
+    {
+      "pvid": "e675145d-fbb6-4bbb-b0eb-a0a7aecfe926",
+      "name": "Halt Raw Peanut Whole",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:21:14.231894"
+    },
+    {
+      "pvid": "1facfe3f-48a0-4425-9f3f-4dfe3c594096",
+      "name": "Tata Sampann Masoor Whole",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:21:17.103173"
+    },
+    {
+      "pvid": "d5b10343-87c2-4e79-b2d9-cd3233ac6218",
+      "name": "Sri Bhagyalakshmi Toor Dal",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:21:19.766934"
+    },
+    {
+      "pvid": "93231985-9ad3-4da1-9740-928def2d9631",
+      "name": "Tata Sampann Urad Dal Whole 500g",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:21:22.481293"
+    },
+    {
+      "pvid": "88b07c97-61d7-406e-9f14-c2bdb148f29d",
+      "name": "Tata Sampann Kabuli Chana",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:21:25.155103"
+    },
+    {
+      "pvid": "30c8c4d8-813b-4993-8427-dde70b87d3f1",
+      "name": "Daily Good Moong Dal",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:21:27.835405"
+    },
+    {
+      "pvid": "e0c65e93-3f0e-4a79-8d2b-e09d0348f90a",
+      "name": "Daily Good Urad Dal Split 1kg",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:21:30.546417"
+    },
+    {
+      "pvid": "554cf524-77e5-444c-81c8-a9cb2457c886",
+      "name": "Daily Good Yellow Moong Dal",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:21:33.218068"
+    },
+    {
+      "pvid": "adc738d6-0124-43e7-832a-9214c1758d23",
+      "name": "Sri Bhagyalakshmi Urad Split Dal",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:21:35.882770"
+    },
+    {
+      "pvid": "d37a3cfd-ddbc-44df-8a3d-de1c40f0ae90",
+      "name": "Daily Good Urad Dal Split 500g",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:21:38.658361"
+    },
+    {
+      "pvid": "ac6a76c9-5131-4855-963d-be340c0a0f4a",
+      "name": "Fortune Soya Chunks",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:21:41.327193"
+    },
+    {
+      "pvid": "f37072d8-de04-474b-bd13-9297e5f75456",
+      "name": "Daily Good Roasted Chana Dal",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:21:44.078853"
+    },
+    {
+      "pvid": "5f18a24c-62ec-428c-9a2f-d09ddb9a3d67",
+      "name": "Sri Bhagyalakshmi Moong Dal",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:21:46.820278"
+    },
+    {
+      "pvid": "d0a3ad74-8c00-4b37-bd4c-d87cef26714e",
+      "name": "Strawberry (Mahabaleshwar)",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:21:49.481873"
+    },
+    {
+      "pvid": "0a4ebf39-b2a9-413b-9126-99ec3670216d",
+      "name": "Grapes Green Sonaka Seedless",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:21:52.141230"
+    },
+    {
+      "pvid": "436c0025-de54-4748-a189-79e292f26071",
+      "name": "Banana Robusta",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:21:54.808006"
+    },
+    {
+      "pvid": "6ed88f72-38da-433a-8506-d601f4d5916d",
+      "name": "Guava Thai",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:21:57.473135"
+    },
+    {
+      "pvid": "b64f96b8-d2e3-49b4-85a7-01da1921b6d4",
+      "name": "Papaya Cut",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:22:00.200163"
+    },
+    {
+      "pvid": "b9fbf0e7-de2d-4a89-ae74-b12a7c0ab236",
+      "name": "Tender Coconut",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:22:02.939088"
+    },
+    {
+      "pvid": "862df01f-c0d6-4bc9-9731-347885d2113d",
+      "name": "Kiwi Green",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:22:05.610290"
+    },
+    {
+      "pvid": "db471557-f745-4574-9e82-1916a88d9e6b",
+      "name": "Banana Elaichi / Yelakki",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:22:08.271693"
+    },
+    {
+      "pvid": "55835f1d-aaa2-4331-8279-b3adf07dca3d",
+      "name": "Apple Royal Gala Imported",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:22:10.929708"
+    },
+    {
+      "pvid": "322e8a80-d094-47d5-bb6c-6b5b184c0a97",
+      "name": "Mosambi",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:22:13.603247"
+    },
+    {
+      "pvid": "e6d376c7-ea3b-4c34-afd3-bc18ad473530",
+      "name": "Gooseberry (Amla)",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:22:16.269638"
+    },
+    {
+      "pvid": "af5a46a1-12de-4d86-9a45-2e4c3dec9206",
+      "name": "Baby Orange (Mandarin)",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:22:18.950542"
+    },
+    {
+      "pvid": "7cb4b263-9029-42cb-834a-0cd2f16379fd",
+      "name": "Pomegranate Peeled",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:22:21.603478"
+    },
+    {
+      "pvid": "c2c8e164-7476-4b42-a10e-6b27e12bc84f",
+      "name": "Baby Apple Shimla",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:22:24.290143"
+    },
+    {
+      "pvid": "b6d3358d-92b2-4364-a7a9-91f26854d185",
+      "name": "Sugarcane Diced",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:22:26.964235"
+    },
+    {
+      "pvid": "707ae90d-e115-40e9-96b2-85b43471d33c",
+      "name": "Coconut",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:22:29.645966"
+    },
+    {
+      "pvid": "8de5b360-c890-4e1f-967c-4717f2867db9",
+      "name": "Snacky Apple",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:22:32.337311"
+    },
+    {
+      "pvid": "0bd2c8f7-6dfb-4af0-a2e0-2f5fb707518e",
+      "name": "Coconut Cut",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:22:35.013517"
+    },
+    {
+      "pvid": "e954f385-e7b9-44d5-ad8c-d5c94512903a",
+      "name": "Sapota",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:22:37.668249"
+    },
+    {
+      "pvid": "b7d27beb-b7da-4caa-b7a3-4e520062d9c7",
+      "name": "Blueberry Imported",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:22:40.352152"
+    },
+    {
+      "pvid": "2abc91ec-2fe9-452c-8123-eb1353a3f35e",
+      "name": "Orange Nagpur",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:22:43.019756"
+    },
+    {
+      "pvid": "41bdd706-3d49-4c67-abc2-364679e3a16b",
+      "name": "Snacky Avocado Regular",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:22:45.687718"
+    },
+    {
+      "pvid": "ecbe9d0c-e79b-4348-af0a-12b14c090ad7",
+      "name": "Banana Robusta",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:22:48.360880"
+    },
+    {
+      "pvid": "49516f23-73b2-433d-a787-27cc1a668d22",
+      "name": "Coconut Grated",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:22:51.074823"
+    },
+    {
+      "pvid": "dbd29c3a-90de-428f-8750-b6e697e49b01",
+      "name": "Litchi Imported (Longan)",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:22:53.776074"
+    },
+    {
+      "pvid": "9d6ab15c-70e5-410f-9d4b-82be81494244",
+      "name": "Papaya",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:22:56.460511"
+    },
+    {
+      "pvid": "747bca2c-284c-41b9-88e0-a556e2bd086a",
+      "name": "Coconut Pooja",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:22:59.153397"
+    },
+    {
+      "pvid": "4db7d95b-1bc9-429a-9456-f4393526796e",
+      "name": "Avocado Hass Imported",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:23:01.817558"
+    },
+    {
+      "pvid": "0e899cce-7474-464c-a36a-b533482bc9f8",
+      "name": "Orange Kinnow",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:23:04.497927"
+    },
+    {
+      "pvid": "c266bd53-26f6-4ddf-8bd7-a3fbc605cb4d",
+      "name": "Watermelon Slice",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:23:07.290124"
+    },
+    {
+      "pvid": "2409ac14-1b83-4c4c-83fe-a95972799530",
+      "name": "Grapes Black Seedless",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:23:09.968664"
+    },
+    {
+      "pvid": "bf57e72c-c633-4c97-81e6-59a5c461da11",
+      "name": "Mulberry",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:23:12.724857"
+    },
+    {
+      "pvid": "4b83db84-5dab-4fd4-9888-34d71f0cd458",
+      "name": "Beans Haricot",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:23:15.456218"
+    },
+    {
+      "pvid": "fac392a6-34be-4190-b35d-81e1562cef9e",
+      "name": "Organically Grown Coriander Leaves",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:23:18.122250"
+    },
+    {
+      "pvid": "7e261768-88d6-4cbb-8b9b-8718625577bd",
+      "name": "Tomato Local",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:23:20.804951"
+    },
+    {
+      "pvid": "5b5c1960-d2d1-4528-8a74-bc7280174071",
+      "name": "Fresh Onion",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:23:23.469244"
+    },
+    {
+      "pvid": "178b3f0f-c01d-4065-8f5c-d1902cbb5d51",
+      "name": "Mushroom Button",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:23:26.161845"
+    },
+    {
+      "pvid": "8432f6be-fa56-47e6-b4eb-edce77e41923",
+      "name": "Sweet Corn Kernels",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:23:28.823777"
+    },
+    {
+      "pvid": "a8043677-61c7-4af4-b784-b6aa225306a4",
+      "name": "Fresh Potato",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:23:31.488525"
+    },
+    {
+      "pvid": "a23b9914-8c62-4d83-b30d-12609ea50339",
+      "name": "Broccoli",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:23:34.146892"
+    },
+    {
+      "pvid": "38e1b33f-32d2-48bc-8b97-e5b04abf0743",
+      "name": "Carrot Local",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:23:36.834197"
+    },
+    {
+      "pvid": "df5ee788-00ce-4cce-afb7-102cb7b3b40d",
+      "name": "Green Peas (Matar)",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:23:39.485554"
+    },
+    {
+      "pvid": "eace231a-5f63-4cbc-bb50-f6a3a0000790",
+      "name": "Organically Grown Capsicum Green",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:23:42.191389"
+    },
+    {
+      "pvid": "9c9791ae-6467-4043-86d7-f992aec97cf7",
+      "name": "Baby Corn Peeled",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:23:44.870359"
+    },
+    {
+      "pvid": "26574e4c-d976-4428-a3a6-2711e0a17485",
+      "name": "Cauliflower",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:23:47.555369"
+    },
+    {
+      "pvid": "bd8794bf-157d-4e44-adbf-16c67e829949",
+      "name": "Pumpkin Diced",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:23:50.207333"
+    },
+    {
+      "pvid": "4c397720-b07a-494a-a89e-81b4abf70746",
+      "name": "Organically Grown Cucumber Indian",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:23:52.867607"
+    },
+    {
+      "pvid": "abe657be-567e-4288-ba48-7ddd0a8a1271",
+      "name": "Lady Finger",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:23:55.528420"
+    },
+    {
+      "pvid": "2dc82b6a-f898-40c9-a47c-1b9b0888c01c",
+      "name": "Tomato Hybrid",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:23:58.180773"
+    },
+    {
+      "pvid": "2130e3f3-dda7-4774-a9a7-c0335c1502ec",
+      "name": "Capsicum Red & Yellow",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:24:00.830948"
+    },
+    {
+      "pvid": "40fa30d1-178b-402e-a103-a06731d77f9a",
+      "name": "Organically Grown Beetroot",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:24:03.524773"
+    },
+    {
+      "pvid": "a0eb6a78-77b9-4e26-a1ff-fc6d72458792",
+      "name": "Bitter Gourd",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:24:06.208077"
+    },
+    {
+      "pvid": "c171ea4a-1c0d-46ea-a6fa-df18be17fd02",
+      "name": "Cucumber Green",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:24:08.889728"
+    },
+    {
+      "pvid": "be948caa-a17a-4a9f-aa58-9a8d7ca66fab",
+      "name": "Capsicum Green",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:24:11.552224"
+    },
+    {
+      "pvid": "b15d9e0d-f4dd-4c9a-90d3-ac6000c92b40",
+      "name": "Organically Grown Potato",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:24:14.241209"
+    },
+    {
+      "pvid": "6adc99f8-eb0e-44bc-acfa-9d41071c8699",
+      "name": "Green Peas Peeled",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:24:16.899257"
+    },
+    {
+      "pvid": "5973feaa-ff0c-465d-8c77-ad9fd24bc4a2",
+      "name": "Tomato Local",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:24:19.582382"
+    },
+    {
+      "pvid": "1530b5a9-09e7-4ef2-b4fc-cf454e9e2cf9",
+      "name": "Organically Grown Ridge Gourd",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:24:22.273532"
+    },
+    {
+      "pvid": "cda2b70b-3105-4734-82d2-41c0ae77ab42",
+      "name": "Carrot Red (Gajar)",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:24:24.964065"
+    },
+    {
+      "pvid": "72c21ed5-d555-46dd-82dd-8451f0dbd913",
+      "name": "Organically Grown Bitter Gourd",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:24:27.615482"
+    },
+    {
+      "pvid": "99164929-49f0-430d-8003-77663a6a4d2a",
+      "name": "Sambar Onion Peeled",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:24:30.278134"
+    },
+    {
+      "pvid": "850ede8d-7587-472d-9448-594db0c96c87",
+      "name": "Organically Grown Tomato Local",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:24:32.937624"
+    },
+    {
+      "pvid": "30db5880-2b4a-4955-9c2d-833749f7adc2",
+      "name": "Carrot Local",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:24:35.607197"
+    },
+    {
+      "pvid": "3f8cb7e9-6df1-4704-a790-d0903f171f91",
+      "name": "Cucumber English",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:24:38.267670"
+    },
+    {
+      "pvid": "42512c87-0b73-46a9-86c0-5bb8739c13dd",
+      "name": "Two Brothers A2 Cow Ghee 500ml",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:24:40.952222"
+    },
+    {
+      "pvid": "0bc2416e-3ff4-432e-808d-9e5b450f3395",
+      "name": "Two Brothers A2 Cow Ghee 250ml",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:24:43.606299"
+    },
+    {
+      "pvid": "de280f6f-955c-4ec6-875c-b4d252df720d",
+      "name": "Two Brothers A2 Gir Cow Ghee 100ml",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:24:46.269899"
+    },
+    {
+      "pvid": "027bf8bb-570b-4b9b-8966-45ad007bd23f",
+      "name": "Praakritik A2 Bilona Gir Cow Ghee",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:24:48.937303"
+    },
+    {
+      "pvid": "a15ae993-8e4e-4076-877a-0efc89c4734a",
+      "name": "Organic India Pure Cow Ghee",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:24:51.606302"
+    },
+    {
+      "pvid": "b56ae70b-e7a7-4f6f-8c54-7f74f4c95074",
+      "name": "Akshayakalpa Organic Cow Ghee",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:24:54.287148"
+    },
+    {
+      "pvid": "283538b0-e9f6-4f54-b5bb-44f035de9152",
+      "name": "Sid's Farm Cow Ghee",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:24:56.968243"
+    },
+    {
+      "pvid": "da36a2c7-58ce-4be7-a15e-62634319c937",
+      "name": "Barosi A2 Desi Cow Ghee 1L",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:24:59.623434"
+    },
+    {
+      "pvid": "4ac4f80d-287b-4719-ac33-0b5a8ab73e78",
+      "name": "Anveshan A2 Desi Cow Ghee",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:25:02.286837"
+    },
+    {
+      "pvid": "747a6ed8-9239-4ef4-bfa2-1aa548be8f84",
+      "name": "Godrej Jersey Cow Ghee",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:25:04.949351"
+    },
+    {
+      "pvid": "42bea882-94db-4a0c-8feb-ae53a8fd5ba5",
+      "name": "Anveshan A2 Gir Cow Bilona Ghee 1L",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:25:07.644283"
+    },
+    {
+      "pvid": "45cd34e6-ffcc-4e43-83f5-a203b62934a1",
+      "name": "Anveshan A2 Desi Cow Ghee 1L",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:25:10.313343"
+    },
+    {
+      "pvid": "88f7b083-15a6-468c-9ed5-f33606bb3645",
+      "name": "Pride Of Cows Pure Cow Ghee",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:25:13.016138"
+    },
+    {
+      "pvid": "d70b85f2-2d12-42b6-a8df-e115df06045b",
+      "name": "Nandini Pure Ghee 500ml",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:25:15.692516"
+    },
+    {
+      "pvid": "a676211d-7fa5-4276-9b99-3e34698cd36c",
+      "name": "Amul High Aroma Ghee 200ml",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:25:18.372391"
+    },
+    {
+      "pvid": "d5d4fb94-62a0-4c01-8257-45ea83ee98a4",
+      "name": "Nandini Pure Ghee 1L",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:25:21.062139"
+    },
+    {
+      "pvid": "e6ea39e2-ec96-4f0d-834f-3b9f15e9cdf7",
+      "name": "Nandini Pure Ghee 200ml",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:25:23.789219"
+    },
+    {
+      "pvid": "f49468a7-657c-49ea-93af-43e3905d5218",
+      "name": "GRB Ghee 200ml",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:25:26.481096"
+    },
+    {
+      "pvid": "e1b173a0-2ff8-4a56-b82d-64f9243c3517",
+      "name": "Heritage Cow Ghee 95ml",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:25:29.185886"
+    },
+    {
+      "pvid": "f3b7f506-f485-4233-979c-eab96079fa7a",
+      "name": "Amul Pure Ghee 500ml",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:25:31.847458"
+    },
+    {
+      "pvid": "2a3f76c7-dd94-4091-b8f3-2f97b7ad4796",
+      "name": "Milky Mist Ghee 200ml",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:25:34.548779"
+    },
+    {
+      "pvid": "d1e02c2b-7814-4cc0-b19a-8c6470d48b2d",
+      "name": "Heritage Cow Ghee 190ml",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:25:37.230702"
+    },
+    {
+      "pvid": "720a6930-074f-4c88-9dbc-85694cdc95a1",
+      "name": "Amul High Aroma Ghee 1L",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:25:39.924837"
+    },
+    {
+      "pvid": "2e0f013e-656d-4268-a0d3-a24220be47a1",
+      "name": "Amul Pure Ghee Tin 1L",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:25:42.596859"
+    },
+    {
+      "pvid": "2c1c8cef-ca10-44c3-9d87-f1ec734b3812",
+      "name": "GRB Cow Ghee 500ml",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:25:45.259784"
+    },
+    {
+      "pvid": "20246d0a-03d2-486b-8f61-4efb468ab8a9",
+      "name": "Organic India Bilona Cow Ghee",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:25:47.921370"
+    },
+    {
+      "pvid": "47bb462f-188e-4b3c-9e9f-72098e150b27",
+      "name": "Akshayakalpa Desi Cow Ghee",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:25:50.613203"
+    },
+    {
+      "pvid": "e5adb906-d1bd-41bd-aa4d-11678acfa6f3",
+      "name": "Kapiva Organic Cow Ghee",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:25:53.271071"
+    },
+    {
+      "pvid": "8c31eed3-1033-43ac-86c0-e9ace7513a55",
+      "name": "Earthen Story A2 Gir Cow Bilona Ghee",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:25:55.943867"
+    },
+    {
+      "pvid": "caecc422-ba93-4729-b950-bea9152879ee",
+      "name": "Kapiva A2 Cow Desi Ghee",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:25:58.624781"
+    },
+    {
+      "pvid": "24638022-2b6e-41f8-962e-def0414dc7a5",
+      "name": "Nandini Ghee 200ml",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:26:01.315136"
+    },
+    {
+      "pvid": "dcbca8b6-4855-4198-be37-607595d8d6ca",
+      "name": "Amul Pure Ghee Carton 1L",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:26:04.045947"
+    },
+    {
+      "pvid": "861549d8-effd-49de-a2d3-d2ffd3c7333d",
+      "name": "Milky Mist Paneer",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:26:06.757138"
+    },
+    {
+      "pvid": "be889ba2-ef6e-4e34-a40c-b979419d82cc",
+      "name": "Nandini Fresh Paneer (Pouch)",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:26:09.428854"
+    },
+    {
+      "pvid": "7c8ea69b-fd38-47ed-b212-75f6c825affd",
+      "name": "Milky Mist High Protein Paneer",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:26:12.505549"
+    },
+    {
+      "pvid": "4e9c62d1-8575-40b3-a3ba-b02a84c7ed1b",
+      "name": "Milky Mist Paneer",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:26:15.204990"
+    },
+    {
+      "pvid": "d659bcb1-a7a3-42af-99dd-d849e3d4268a",
+      "name": "Nandini Fresh Paneer (Pouch)",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:26:17.900177"
+    },
+    {
+      "pvid": "01b9375e-f09c-4447-9a16-8d32a4bd267a",
+      "name": "Akshayakalpa Organic High Protein Paneer",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:26:20.559917"
+    },
+    {
+      "pvid": "5c5e2f50-e1a9-4df1-a858-68354a231cc3",
+      "name": "Desi Farms Low Fat Paneer",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:26:23.234202"
+    },
+    {
+      "pvid": "5e98a85b-2ced-4cac-873c-40f2290bd7a6",
+      "name": "Mother Dairy Fresh Paneer",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:26:25.967690"
+    },
+    {
+      "pvid": "d8ebbf8c-7b12-401d-a25b-b405b16f5125",
+      "name": "Country Delight - Taaza Paneer",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:26:28.994121"
+    },
+    {
+      "pvid": "fd52902f-a759-4d57-9f0d-3e030ccb9c9b",
+      "name": "Heritage Paneer",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:26:31.816515"
+    },
+    {
+      "pvid": "23426bd6-fbce-43f6-bd58-5bcca2436ac0",
+      "name": "Nandini Khova Mawa",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:26:34.560518"
+    },
+    {
+      "pvid": "6419ed26-94ef-4810-a47f-2231f7e835b7",
+      "name": "Milky Mist Khova Mawa",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:26:37.211091"
+    },
+    {
+      "pvid": "39f5abb6-85fa-4790-981f-077bb996e62e",
+      "name": "Milky Mist Briyas Tofu Paneer",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:26:39.919673"
+    },
+    {
+      "pvid": "b0c6e3da-a000-410d-b136-09db332a8aa1",
+      "name": "Desi Farms A2 Paneer",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:26:42.645558"
+    },
+    {
+      "pvid": "9925a261-7160-44f0-b693-af7978e73f18",
+      "name": "Health On Plants Classic Tofu",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:26:45.424219"
+    },
+    {
+      "pvid": "3b398272-5b66-4c61-b2c5-a31b3f3acf17",
+      "name": "D'lecta Dairy Fresh Cream",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:26:48.120061"
+    },
+    {
+      "pvid": "5d93efe8-2046-450d-87ca-ce891fbf2a5b",
+      "name": "Amul Fresh Cream",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:26:50.825105"
+    },
+    {
+      "pvid": "689ff254-48d7-4a5e-af55-3b5a5d74302a",
+      "name": "Desi Farms Paneer",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:26:53.513219"
+    },
+    {
+      "pvid": "b53f0e0a-07af-41c3-aee2-656d2f9ab2b0",
+      "name": "Health On Plants Smoked Tofu",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:26:56.293710"
+    },
+    {
+      "pvid": "f5ab3600-b93a-4767-a95a-a476f2919cf7",
+      "name": "Cremeitalia Sour Cream",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:26:59.009191"
+    },
+    {
+      "pvid": "ec9183bf-805a-4d92-b19c-ebc1011dba96",
+      "name": "Soyarich Tofu - Mint & Chilli",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:27:01.682601"
+    },
+    {
+      "pvid": "c1c27dac-4402-44c4-88ee-2c23b17fe76d",
+      "name": "Amul Frozen Malai Paneer",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:27:04.377020"
+    },
+    {
+      "pvid": "ad0b43bf-635e-4bc2-a3ee-b357badff29f",
+      "name": "Hello Tempayy Tempeh Crumbles",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:27:07.075801"
+    },
+    {
+      "pvid": "a5b27839-d7bb-4c42-9687-16ba67ea2d83",
+      "name": "Akshayakalpa Organic Malai Paneer",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:27:09.829732"
+    },
+    {
+      "pvid": "040345fd-5a29-4d59-b178-dc95de72af18",
+      "name": "Sid's Farm Malai Paneer",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:27:12.531020"
+    },
+    {
+      "pvid": "c51e7fc3-aab6-4516-a6a7-7ec99aac31e2",
+      "name": "Country Delight 40g Protein Taaza Paneer",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:27:15.189551"
+    },
+    {
+      "pvid": "1232ac7d-b9e2-4f44-aa9e-e4aea9b70fa6",
+      "name": "Hatsun Fresh Paneer",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:27:17.857630"
+    },
+    {
+      "pvid": "6c24ae9b-73f7-4a7c-975c-2616a53503e5",
+      "name": "Milky Mist Pure Cream",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:27:20.552552"
+    },
+    {
+      "pvid": "1aeea0a9-50d3-4fc1-b29a-e4472cf66067",
+      "name": "Gowardhan Paneer Pouch",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:27:23.207993"
+    },
+    {
+      "pvid": "731c6a6e-380e-436a-9644-db0f1a1cc207",
+      "name": "Health On Plants Tandoori Tofu",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:27:25.894856"
+    },
+    {
+      "pvid": "e48a9dce-f3bb-469f-939e-272eb64752a3",
+      "name": "GTS Original Kolam Rice",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:27:28.577626"
+    },
+    {
+      "pvid": "bfe98cad-c52c-4c3f-9f99-ee9f0f71118f",
+      "name": "Daily Good Sona Masoori Raw Rice",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:27:31.255837"
+    },
+    {
+      "pvid": "28874f1f-f701-49ae-bb2e-66a6f7f4aa60",
+      "name": "Fortune Sona Masoori Regular",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:27:33.952195"
+    },
+    {
+      "pvid": "29043823-7e55-4e8d-b2fe-5bdd4cf9c8c0",
+      "name": "GTS Original Kolam Rice 10kg",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:27:36.639138"
+    },
+    {
+      "pvid": "7851f4a9-cab6-4b75-bae2-bcbc43bf0bdb",
+      "name": "Daawat Rozana Super Basmati Rice",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:27:39.331336"
+    },
+    {
+      "pvid": "042bfda1-564b-44a7-b1df-9a968a11333c",
+      "name": "Fortune Sona Masoori Supreme Raw Aged Rice",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:27:42.017515"
+    },
+    {
+      "pvid": "2e3dc1b7-a552-4ea4-a7fc-09e04439b66e",
+      "name": "Royal Bullet Sona Masuri Steamed Rice",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:27:44.708912"
+    },
+    {
+      "pvid": "95edc2a8-2f28-43e4-871a-2308c0c6c62a",
+      "name": "Daily Good Sona Masoori Raw Rice 5kg",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:27:47.385052"
+    },
+    {
+      "pvid": "f0c863a9-6798-4d29-b912-f154176b6ee1",
+      "name": "Double Horse Jyothi Vadi Matta Rice",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:27:50.077519"
+    },
+    {
+      "pvid": "fdf504dc-2aee-46e7-bbec-4e7c474eb9be",
+      "name": "Parry Bullet Kolam Steam Rice",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:27:52.753564"
+    },
+    {
+      "pvid": "1de4add4-6913-4493-8c8a-623a9f93611c",
+      "name": "India Gate Super Basmati Rice",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:27:55.418372"
+    },
+    {
+      "pvid": "75118c7a-2b92-441a-995c-ea416b67c05e",
+      "name": "India Gate Rozzana Basmati Rice",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:27:58.110143"
+    },
+    {
+      "pvid": "a8312897-ffa6-4bb8-b447-035dcbdd0157",
+      "name": "Double Horse Unda Matta Rice",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:28:00.799085"
+    },
+    {
+      "pvid": "68d45569-ee47-4f7e-9c48-572d02224b5e",
+      "name": "Popular Essentials Bullet Wada Kolam Rice",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:28:03.488905"
+    },
+    {
+      "pvid": "f0e72606-b78c-4719-b34b-552221968b34",
+      "name": "Daawat Kolam Rice",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:28:06.195669"
+    },
+    {
+      "pvid": "62b069eb-400c-4420-a173-e8f48a13a4b6",
+      "name": "India Gate Everyday Basmati Rice",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:28:08.866937"
+    },
+    {
+      "pvid": "8188d4ba-20c4-4774-80fa-ccb1e3b6ba4a",
+      "name": "Fortune Rozana Gold Basmati Rice",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:28:11.552978"
+    },
+    {
+      "pvid": "dc08d538-2786-4aca-9302-8608221fd376",
+      "name": "Devaaya Basmati Rice",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:28:14.283137"
+    },
+    {
+      "pvid": "2da2dcca-ab8e-4e00-afbc-7dd0652fcaca",
+      "name": "Daawat Super Basmati Rice Long Grain",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:28:16.964777"
+    },
+    {
+      "pvid": "1f01a4c6-58a3-41e7-b281-04db458cfa56",
+      "name": "India Gate Dubar Basmati Rice",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:28:19.625529"
+    },
+    {
+      "pvid": "3f3e18bb-6556-4a3f-9be6-c27897f3f814",
+      "name": "Daawat Rozana Mini Mogra Rice",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:28:22.390956"
+    },
+    {
+      "pvid": "bb3437d0-568b-41b5-81cd-d01db7af7804",
+      "name": "India Gate Gold Basmati Rice",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:28:25.089791"
+    },
+    {
+      "pvid": "90946c9e-912e-480b-8da9-1e0f439f11b8",
+      "name": "Popular Essentials Tamil Ponni Boiled Rice",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:28:27.790855"
+    },
+    {
+      "pvid": "d130d25c-20ed-4fe9-a7dd-bd3522b6389b",
+      "name": "India Gate Biryani Basmati Rice",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:28:31.190611"
+    },
+    {
+      "pvid": "aebefabf-6c81-409e-a4e8-2797d36b07d3",
+      "name": "India Gate Jeera Rice",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:28:33.859980"
+    },
+    {
+      "pvid": "ae4c6422-728e-4448-b310-581649a01f91",
+      "name": "Parry Bullet Kolam Raw Rice",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:28:36.536213"
+    },
+    {
+      "pvid": "9912456c-2321-492c-a1ab-49474987d97c",
+      "name": "Charminar Long Grain Rice",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:28:39.200281"
+    },
+    {
+      "pvid": "fbc71954-093b-466b-a297-015173d59e88",
+      "name": "Switz Samosa Dough Sheets",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:28:41.964924"
+    },
+    {
+      "pvid": "de3b2cbc-98de-464d-9ce3-e549b556af88",
+      "name": "Switz Spring Roll Dough Sheets",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:28:44.633549"
+    },
+    {
+      "pvid": "d85a4a24-c398-45e8-81c6-332fda43ecc1",
+      "name": "Aashirvaad Aloo Paratha",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:28:47.308667"
+    },
+    {
+      "pvid": "9e08c722-80b0-4435-9dbe-b18831a8e28c",
+      "name": "Aashirvaad Malabar Paratha",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:28:49.993156"
+    },
+    {
+      "pvid": "4639443e-e1b4-4a13-9b0b-96834d82e426",
+      "name": "Switz Paratha Puff",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:28:52.658378"
+    },
+    {
+      "pvid": "9d2da6ed-c004-4bf3-a05b-0ac5ef17b0ee",
+      "name": "GOELD Aloo Paratha",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:28:55.410224"
+    },
+    {
+      "pvid": "a14763a5-d42c-4b8c-9295-5d94ca00e4f2",
+      "name": "iD Fresh Aloo Paratha",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:28:58.099012"
+    },
+    {
+      "pvid": "ef6c6180-b02e-480e-9e7c-cfe8016adc3b",
+      "name": "Aashirvaad Paneer Paratha",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:29:00.760887"
+    },
+    {
+      "pvid": "e0597aa1-fd9c-4a55-b9d8-af2c9d6ac19b",
+      "name": "Goeld Lachha Paratha",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:29:03.426526"
+    },
+    {
+      "pvid": "f967e003-1463-4f54-a9d6-f1e08b072375",
+      "name": "iD Fresh Paneer Paratha",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:29:06.079758"
+    },
+    {
+      "pvid": "d797eea9-0171-4fc8-8a43-076e2b97c9b5",
+      "name": "Baker's Dozen Zero Maida Chapati",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:29:08.810366"
+    },
+    {
+      "pvid": "3f39b430-552c-4a5b-9a66-f3f145b1b537",
+      "name": "Goeld Garlic Naan",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:29:11.547845"
+    },
+    {
+      "pvid": "5a0c18bc-50c7-4839-905b-ab215bd1e98e",
+      "name": "Aashirvaad Garlic Coriander Naan",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:29:14.219929"
+    },
+    {
+      "pvid": "c3452297-4e35-452e-9fd1-d344d0708d27",
+      "name": "iD Fresh Onion Paratha",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:29:16.884381"
+    },
+    {
+      "pvid": "ed82666a-f1a4-41b8-94f8-fe0f427a9b75",
+      "name": "Adf Soul Paneer Paratha",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:29:19.542877"
+    },
+    {
+      "pvid": "227a7ea0-72f2-4eb1-b36c-4914dc1edc5b",
+      "name": "Adf Soul Mixed Veg Paratha",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:29:22.260689"
+    },
+    {
+      "pvid": "bcb1e490-aa17-41c1-bf39-2a6f06a13c5f",
+      "name": "Adf Soul Aloo Paratha",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:29:24.943985"
+    },
+    {
+      "pvid": "e90e5c84-88f9-40e0-95ea-7e3636d53546",
+      "name": "iD Fresh Cheese and Corn Paratha",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:29:27.646358"
+    },
+    {
+      "pvid": "6390b9ad-0cfa-4d67-a95e-26c3b5a8c4a7",
+      "name": "Little Joys Nutrimix For Kids 2-6 Years Vanilla",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:29:30.328316"
+    },
+    {
+      "pvid": "d6018622-c07f-4ff8-bdff-73439b960eab",
+      "name": "Gritzo Supermilk Growth+ Girls Double Chocolate",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:29:33.040258"
+    },
+    {
+      "pvid": "b1004a03-3f71-4846-a1b3-7d75b8fba95f",
+      "name": "Lipton Darjeeling Long Leaf Loose Tea",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:29:35.692472"
+    },
+    {
+      "pvid": "8cb332be-b81c-42e2-92aa-0a1531998a25",
+      "name": "TGL Co. Mogo Mogo Organic Green Tea",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:29:38.366639"
+    },
+    {
+      "pvid": "b5b01450-2489-4f68-8450-461d2bd2c25b",
+      "name": "Tencha Ceremonial Classic Matcha Green Tea",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:29:41.017528"
+    },
+    {
+      "pvid": "bdd85485-c3cc-41c6-9325-dfdf0e136e7a",
+      "name": "Little Joys Nutrimix For Kids 7-12 Years Vanilla",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:29:43.681863"
+    },
+    {
+      "pvid": "0e5b6451-e4c0-4948-9f0b-9a8623d8382c",
+      "name": "Tea Culture Throat Rescue Green Tea Bags",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:29:46.357883"
+    },
+    {
+      "pvid": "dffe7f3a-f775-426b-89b4-ab995ac8c204",
+      "name": "Teabox Chamomile Green Tea",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:29:49.040024"
+    },
+    {
+      "pvid": "f65a7a1f-0d08-4153-a218-8194a8ad39cb",
+      "name": "Namhya Diabetic Care Tea",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:29:51.715482"
+    },
+    {
+      "pvid": "e1c7c6e9-4f47-4308-8bb8-1eec0163f5a6",
+      "name": "Tea Culture Happy Immunity Green Tea",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:29:54.397208"
+    },
+    {
+      "pvid": "b0546237-ea1b-4f89-9e1a-fcdeaa09b172",
+      "name": "Twinings Lemon and Honey Green Tea",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:29:57.054036"
+    },
+    {
+      "pvid": "c46e907e-43c5-471b-99e6-9a772631ad79",
+      "name": "Teabox Detox Kahwa Green Tea",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:29:59.711031"
+    },
+    {
+      "pvid": "28275ff1-538c-4c73-a4d2-d8466a151230",
+      "name": "Nescafe Dark Roast",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:30:02.443248"
+    },
+    {
+      "pvid": "82c04b36-ea98-46d3-9668-8bfa09e4e495",
+      "name": "ENSURE High Protein Vanilla Drink Mix",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:30:05.151833"
+    },
+    {
+      "pvid": "a2ab95e9-1b4f-4e4c-95ce-a79ec86d01f3",
+      "name": "Nescafe Medium Roast",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:30:07.802594"
+    },
+    {
+      "pvid": "04ac9866-48dc-450e-9709-11b8bc48e214",
+      "name": "Tea Culture Moroccan Mint Green Tea",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:30:10.479998"
+    },
+    {
+      "pvid": "810ed6ff-b1c4-4384-9821-9f4578dbf498",
+      "name": "Wagh Bakri Royale Tea",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:30:13.151836"
+    },
+    {
+      "pvid": "9dceabf2-092f-494e-8a9a-f67dfd9d613e",
+      "name": "Boost Protein Icon Jar",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:30:15.839112"
+    },
+    {
+      "pvid": "7e515301-e0b0-457e-ac48-fcf9b2046a44",
+      "name": "Chaayos Masala Tea",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:30:18.502477"
+    },
+    {
+      "pvid": "9c7f6e3a-b196-42c8-b32d-cb75e56540e9",
+      "name": "Little Joys Nutrimix Chocolate 7-12 Years",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:30:21.172962"
+    },
+    {
+      "pvid": "4363e021-ddae-462e-9494-78d0568bdda7",
+      "name": "Twinings Green Tea Green Apple",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:30:23.846616"
+    },
+    {
+      "pvid": "271954bb-5178-47f6-8311-e7da9884dbbd",
+      "name": "Horlicks Women's Plus Chocolate",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:30:26.535440"
+    },
+    {
+      "pvid": "f80e6ae2-cc32-4ab6-8278-b1271ce282cb",
+      "name": "Twinings Pure Green Tea",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:30:29.203377"
+    },
+    {
+      "pvid": "2a9f055e-a4d9-46c2-9202-7be6d3b6961c",
+      "name": "Tata Tea Kanan Devan Classic Black Tea",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:30:31.965592"
+    },
+    {
+      "pvid": "061146fd-cee1-4b3c-b0ac-accb83a5b57f",
+      "name": "Twinings Green Tea Jasmine",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:30:34.683422"
+    },
+    {
+      "pvid": "cf0fbd7b-53e4-4343-9112-83dd78b61070",
+      "name": "Tetley Classic Green Tea",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:30:37.402369"
+    },
+    {
+      "pvid": "808ec98a-3fd4-4e14-b71f-bd270763ba40",
+      "name": "Organic India Honey Lemon Tulsi Green Tea",
+      "error": "fetch_failed",
+      "scraped_at": "2026-02-18T15:30:40.119627"
+    }
+  ]
+}

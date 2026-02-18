@@ -1,0 +1,85 @@
+{
+  "extracted_at": "2026-02-18T15:12:28.438576",
+  "count": 5,
+  "with_nutrition": 4,
+  "products": [
+    {
+      "pvid": "8da0c985-dc37-495c-a8bd-6019c120cb44",
+      "name": "Amul Salted Butter",
+      "nutrition": {
+        "energy_kcal": 724.0,
+        "protein_g": 1.0,
+        "carbs_g": 0.0,
+        "fat_g": 80.0,
+        "sugar_g": 0.0,
+        "added_sugar_g": 0.0,
+        "sodium_mg": 955.0,
+        "saturated_fat_g": 48.0,
+        "trans_fat_g": 0.0
+      },
+      "ingredients": "Butter (82.5%), Water, Common\nsalt, Emulsifiers (INS 471, INS 322),\nPreservatives (INS 202, INS 200), Acidity\nRegulator (INS 330), Nature Identical (Butter)\nFlavouring Substances, Probiotics\nL, rhamnosus UALr\u202206, L, reuteri UALre\u202216),\ntarch, Vitamins, Sequestering Agent\n(INS 385 , Antioxidant (INS 319), Natural\nColour ( NS 160a (ii)).\nALLERGENS: CONTAINS AND soy,",
+      "fssai": "10014021001010",
+      "has_nutrition": true,
+      "is_404": true,
+      "scraped_at": "2026-02-18T15:12:24.082102"
+    },
+    {
+      "pvid": "7457c7d6-26b9-466b-8950-9c1adb6faa9a",
+      "name": "Amul Salted Butter (Chiplets)",
+      "nutrition": {
+        "energy_kcal": 724.0,
+        "protein_g": 1.0,
+        "carbs_g": 0.0,
+        "fat_g": 80.0,
+        "added_sugar_g": 0.0,
+        "sodium_mg": 955.0,
+        "saturated_fat_g": 48.0,
+        "trans_fat_g": 0.0
+      },
+      "ingredients": "Butter, Common Salt, NutritionAmount Per 100g, Energy, Kcal 722, Energy fron Fat, Kcal 720, Total Fat, g 80, Saturated fat, g 51, Cholesterol, mg 180, Sodium, mg 836, Total Carbohydrate, g 0, Added Sugar, g 0, Protein, g 0.5, Vitamin A, mcg 65.",
+      "fssai": "10012021000071",
+      "has_nutrition": true,
+      "is_404": true,
+      "scraped_at": "2026-02-18T15:12:25.024874"
+    },
+    {
+      "pvid": "b316b19d-e309-4233-a1f0-e1f0de4005fb",
+      "name": "Amul Butter Tub",
+      "nutrition": null,
+      "ingredients": "Edible Vegetable Oils (Refined Palm and Palm Kernel\nOil, Sunflower Oil, Sesame Oil, Linseed Oil (source of\nOmega-3)), Water, Common Salt, Milk Solids, Emulsifiers\n(INS 471, INS 322), Preservatives (INS 202, INS 200), Thickener\n(INS 415), Acidity Regulator (INS 330), Nature Identical (Butter)\nFlavouring Substances, Starch, Vitamins, Sequestering Agent\n(INS 385), Natural Colour (INS 160a (ii)), Antioxidant (INS 319).\nALLERGENS: CONTAINS MILK AND SOY.",
+      "fssai": "10012021000071",
+      "has_nutrition": false,
+      "is_404": true,
+      "scraped_at": "2026-02-18T15:12:25.911341"
+    },
+    {
+      "pvid": "bebc0d21-3d61-49ad-bedc-a7155a5169d3",
+      "name": "Amul Salted Butter",
+      "nutrition": {
+        "energy_kcal": 722.0,
+        "protein_g": 0.5,
+        "sodium_mg": 836.0
+      },
+      "ingredients": "Butter (82.5%), Water, Common\nsalt, Emulsifiers (INS 471, INS 322),\nPreservatives (INS 202, INS 200), Acidity\nRegulator (INS 330), Nature Identical (Butter)\nFlavouring Substances, Probiotics\nL, rhamnosus UALr\u202206, L, reuteri UALre\u202216),\ntarch, Vitamins, Sequestering Agent\n(INS 385 , Antioxidant (INS 319), Natural\nColour ( NS 160a (ii)).\nALLERGENS: CONTAINS AND soy,",
+      "fssai": "10012021000071",
+      "has_nutrition": true,
+      "is_404": true,
+      "scraped_at": "2026-02-18T15:12:26.976407"
+    },
+    {
+      "pvid": "1685c097-3845-4e73-be56-9910c3391c0c",
+      "name": "Amul Unsalted Cooking Butter",
+      "nutrition": {
+        "energy_kcal": 740.0,
+        "protein_g": 0.6,
+        "carbs_g": 0.0,
+        "fat_g": 82.0
+      },
+      "ingredients": "Butter (82.5%), Water, Common\nsalt, Emulsifiers (INS 471, INS 322),\nPreservatives (INS 202, INS 200), Acidity\nRegulator (INS 330), Nature Identical (Butter)\nFlavouring Substances, Probiotics\nL, rhamnosus UALr\u202206, L, reuteri UALre\u202216),\ntarch, Vitamins, Sequestering Agent\n(INS 385 , Antioxidant (INS 319), Natural\nColour ( NS 160a (ii)).\nALLERGENS: CONTAINS AND soy,",
+      "fssai": "FSSAI No 10014047000258",
+      "has_nutrition": true,
+      "is_404": true,
+      "scraped_at": "2026-02-18T15:12:27.935130"
+    }
+  ]
+}
