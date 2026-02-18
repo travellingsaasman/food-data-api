@@ -1,0 +1,264 @@
+{
+  "category": "Butter",
+  "location": "4th Block, Koramangala, Bengaluru",
+  "scraped_at": "2026-02-18T22:20:00+05:30",
+  "product_count": 32,
+  "products": [
+  {
+    "name": "Amul Salted Butter",
+    "price": 58,
+    "mrp": null,
+    "weight": "1 pack (100 g)",
+    "pvid": "8da0c985-dc37-495c-a8bd-6019c120cb44",
+    "url": "https://www.zepto.com/pn/amul-salted-butter/pvid/8da0c985-dc37-495c-a8bd-6019c120cb44"
+  },
+  {
+    "name": "Amul Salted Butter (Chiplets)",
+    "price": 66,
+    "mrp": 70,
+    "weight": "1 pack (10 x 10 g)",
+    "pvid": "7457c7d6-26b9-466b-8950-9c1adb6faa9a",
+    "url": "https://www.zepto.com/pn/amul-salted-butter-chiplets/pvid/7457c7d6-26b9-466b-8950-9c1adb6faa9a"
+  },
+  {
+    "name": "Amul Butter Tub",
+    "price": 33,
+    "mrp": 35,
+    "weight": "1 pc (50 g)",
+    "pvid": "b316b19d-e309-4233-a1f0-e1f0de4005fb",
+    "url": "https://www.zepto.com/pn/amul-butter-tub/pvid/b316b19d-e309-4233-a1f0-e1f0de4005fb"
+  },
+  {
+    "name": "Amul Salted Butter",
+    "price": 118,
+    "mrp": null,
+    "weight": "1 pack (200 g)",
+    "pvid": "bebc0d21-3d61-49ad-bedc-a7155a5169d3",
+    "url": "https://www.zepto.com/pn/amul-salted-butter/pvid/bebc0d21-3d61-49ad-bedc-a7155a5169d3"
+  },
+  {
+    "name": "Amul Unsalted Cooking Butter",
+    "price": 61,
+    "mrp": null,
+    "weight": "1 pack (100 g)",
+    "pvid": "1685c097-3845-4e73-be56-9910c3391c0c",
+    "url": "https://www.zepto.com/pn/amul-unsalted-cooking-butter/pvid/1685c097-3845-4e73-be56-9910c3391c0c"
+  },
+  {
+    "name": "Amul Salted Butter",
+    "price": 285,
+    "mrp": null,
+    "weight": "1 pack (500 g)",
+    "pvid": "fc2ffbca-a36b-4728-b6be-3168475f3b75",
+    "url": "https://www.zepto.com/pn/amul-salted-butter/pvid/fc2ffbca-a36b-4728-b6be-3168475f3b75"
+  },
+  {
+    "name": "Amul Unsalted Cooking Butter",
+    "price": 280,
+    "mrp": 290,
+    "weight": "1 pack (500 g)",
+    "pvid": "e1f5d8b0-ac7a-42d3-b4fa-17a5f8a99904",
+    "url": "https://www.zepto.com/pn/amul-unsalted-cooking-butter/pvid/e1f5d8b0-ac7a-42d3-b4fa-17a5f8a99904"
+  },
+  {
+    "name": "Milky Mist Cooking Butter Unsalted",
+    "price": 65,
+    "mrp": 75,
+    "weight": "1 pack (100 g)",
+    "pvid": "7616a7d1-abd7-4e30-ae4e-e364710b9bc8",
+    "url": "https://www.zepto.com/pn/milky-mist-cooking-butter-unsalted/pvid/7616a7d1-abd7-4e30-ae4e-e364710b9bc8"
+  },
+  {
+    "name": "Amul Safed Makkhan",
+    "price": 59,
+    "mrp": 61,
+    "weight": "1 pack (100 g)",
+    "pvid": "b5582f18-8232-4920-b962-14665e6a2cab",
+    "url": "https://www.zepto.com/pn/amul-safed-makkhan/pvid/b5582f18-8232-4920-b962-14665e6a2cab"
+  },
+  {
+    "name": "Delicious Fat Spread - Cholesterol Free",
+    "price": 102,
+    "mrp": 105,
+    "weight": "1 pack (500 g)",
+    "pvid": "98507230-5aaf-46b3-90c2-69c86786a994",
+    "url": "https://www.zepto.com/pn/delicious-fat-spread-cholesterol-free/pvid/98507230-5aaf-46b3-90c2-69c86786a994"
+  },
+  {
+    "name": "Delicious Fat Spread - Cholesterol Free",
+    "price": 21,
+    "mrp": null,
+    "weight": "1 pack (100 g)",
+    "pvid": "e600868b-693e-4f8b-ae63-23aade3cb112",
+    "url": "https://www.zepto.com/pn/delicious-fat-spread-cholesterol-free/pvid/e600868b-693e-4f8b-ae63-23aade3cb112"
+  },
+  {
+    "name": "Akshayakalpa Organic Salted Table Butter",
+    "price": 112,
+    "mrp": 118,
+    "weight": "1 pack (100 g)",
+    "pvid": "84f8b683-8a8c-48a9-a44d-aa38b1f7cff1",
+    "url": "https://www.zepto.com/pn/akshayakalpa-organic-salted-table-butter/pvid/84f8b683-8a8c-48a9-a44d-aa38b1f7cff1"
+  },
+  {
+    "name": "Akshayakalpa Organic Salted Table Butter",
+    "price": 217,
+    "mrp": 227,
+    "weight": "1 pack (200 g)",
+    "pvid": "cde95315-d6f1-4ccd-8af4-f9acd08bfbd2",
+    "url": "https://www.zepto.com/pn/akshayakalpa-organic-salted-table-butter/pvid/cde95315-d6f1-4ccd-8af4-f9acd08bfbd2"
+  },
+  {
+    "name": "Akshayakalpa Organic Unsalted Cooking Butter",
+    "price": 108,
+    "mrp": 114,
+    "weight": "1 pack (100 g)",
+    "pvid": "9735d632-cbce-4790-8db7-f7bf3d38c5c9",
+    "url": "https://www.zepto.com/pn/akshayakalpa-organic-unsalted-cooking-butter/pvid/9735d632-cbce-4790-8db7-f7bf3d38c5c9"
+  },
+  {
+    "name": "Akshayakalpa Organic Unsalted Cooking Butter",
+    "price": 211,
+    "mrp": 217,
+    "weight": "1 pack (200 g)",
+    "pvid": "2a94aa3c-721e-452f-a7c3-7ddc2598d02b",
+    "url": "https://www.zepto.com/pn/akshayakalpa-organic-unsalted-cooking-butter/pvid/2a94aa3c-721e-452f-a7c3-7ddc2598d02b"
+  },
+  {
+    "name": "Nutralite Yummy Spread | Low Cholesterol",
+    "price": 28,
+    "mrp": 30,
+    "weight": "1 pack (100 g)",
+    "pvid": "ad432ec6-c284-4d17-92c5-996d39341200",
+    "url": "https://www.zepto.com/pn/nutralite-yummy-spread-low-cholesterol/pvid/ad432ec6-c284-4d17-92c5-996d39341200"
+  },
+  {
+    "name": "Nutralite Premium Fat Spread Tub",
+    "price": 243,
+    "mrp": 300,
+    "weight": "1 pack (500 g)",
+    "pvid": "d08d3ad4-0fd5-43ab-8c1a-d950a6f73163",
+    "url": "https://www.zepto.com/pn/nutralite-premium-fat-spread-tub/pvid/d08d3ad4-0fd5-43ab-8c1a-d950a6f73163"
+  },
+  {
+    "name": "Amul Safed Makkhan",
+    "price": 281,
+    "mrp": 290,
+    "weight": "1 pack (500 g)",
+    "pvid": "fa8b6831-172b-4d8f-993b-90384421d316",
+    "url": "https://www.zepto.com/pn/amul-safed-makkhan/pvid/fa8b6831-172b-4d8f-993b-90384421d316"
+  },
+  {
+    "name": "Nutralite Premium Fat Spread",
+    "price": 53,
+    "mrp": 60,
+    "weight": "1 pack (100 g)",
+    "pvid": "44eff39d-5e2f-4d80-b482-6e65fa0fb165",
+    "url": "https://www.zepto.com/pn/nutralite-premium-fat-spread/pvid/44eff39d-5e2f-4d80-b482-6e65fa0fb165"
+  },
+  {
+    "name": "Milky Mist Table Butter Tub",
+    "price": 140,
+    "mrp": 155,
+    "weight": "1 pack (200 g)",
+    "pvid": "a3cc11d8-a12d-4ffe-a005-114bcab2ed5b",
+    "url": "https://www.zepto.com/pn/milky-mist-table-butter-tub/pvid/a3cc11d8-a12d-4ffe-a005-114bcab2ed5b"
+  },
+  {
+    "name": "Milky Mist Cooking Butter Unsalted",
+    "price": 338,
+    "mrp": 360,
+    "weight": "1 pack (500 g)",
+    "pvid": "0acb07c2-6c83-4eab-920a-8b931a7ae72d",
+    "url": "https://www.zepto.com/pn/milky-mist-cooking-butter-unsalted/pvid/0acb07c2-6c83-4eab-920a-8b931a7ae72d"
+  },
+  {
+    "name": "Nutralite Activ Plant Based Buttery Spread - Garlic & Herbs",
+    "price": 81,
+    "mrp": 97,
+    "weight": "1 pack (100 g)",
+    "pvid": "ef66cec9-239c-4fdd-989c-571df1d8947b",
+    "url": "https://www.zepto.com/pn/nutralite-activ-plant-based-buttery-spread-garlic-herbs/pvid/ef66cec9-239c-4fdd-989c-571df1d8947b"
+  },
+  {
+    "name": "Nutralite Doodhshakti Probiotic Butter Spread Tub",
+    "price": 274,
+    "mrp": 309,
+    "weight": "1 pack (500 g)",
+    "pvid": "9073e6b5-ede7-44d2-b46b-5a7db12e0b6c",
+    "url": "https://www.zepto.com/pn/nutralite-doodhshakti-probiotic-butter-spread-tub/pvid/9073e6b5-ede7-44d2-b46b-5a7db12e0b6c"
+  },
+  {
+    "name": "Nutralite Doodhshakti Probiotic Butter Spread",
+    "price": 263,
+    "mrp": 290,
+    "weight": "1 pack (500 g)",
+    "pvid": "3abef2db-a394-442e-87dc-2cd9ac007e06",
+    "url": "https://www.zepto.com/pn/nutralite-doodhshakti-probiotic-butter-spread/pvid/3abef2db-a394-442e-87dc-2cd9ac007e06"
+  },
+  {
+    "name": "Nutralite Activ Plant Based Buttery Spread - Olive",
+    "price": 77,
+    "mrp": 97,
+    "weight": "1 pack (100 g)",
+    "pvid": "d3477075-f8fa-4f9a-be8a-52357c75c354",
+    "url": "https://www.zepto.com/pn/nutralite-activ-plant-based-buttery-spread-olive/pvid/d3477075-f8fa-4f9a-be8a-52357c75c354"
+  },
+  {
+    "name": "Amul Garlic & Herbs Buttery Spread",
+    "price": 62,
+    "mrp": 66,
+    "weight": "1 pack (100 g)",
+    "pvid": "bb3b57c0-4a26-4c7b-8ff2-9e50ee19bb51",
+    "url": "https://www.zepto.com/pn/amul-garlic-herbs-buttery-spread/pvid/bb3b57c0-4a26-4c7b-8ff2-9e50ee19bb51"
+  },
+  {
+    "name": "Milky Mist Butter Chiplet",
+    "price": 70,
+    "mrp": 80,
+    "weight": "1 pack (10 x 10 g)",
+    "pvid": "5fe7ad1b-0036-4356-9d18-cda79c1c6f88",
+    "url": "https://www.zepto.com/pn/milky-mist-butter-chiplet/pvid/5fe7ad1b-0036-4356-9d18-cda79c1c6f88"
+  },
+  {
+    "name": "Heritage Table Butter",
+    "price": 54,
+    "mrp": 60,
+    "weight": "1 pack (100 g)",
+    "pvid": "7b9f1535-30f4-4d8c-92c8-17a4ed39a9b9",
+    "url": "https://www.zepto.com/pn/heritage-table-butter/pvid/7b9f1535-30f4-4d8c-92c8-17a4ed39a9b9"
+  },
+  {
+    "name": "Nutralite Doodhshakti Probiotic Butter Spread",
+    "price": 55,
+    "mrp": 60,
+    "weight": "1 pack (100 g)",
+    "pvid": "b10d82d4-24a8-4176-ab10-d565ce63e2c1",
+    "url": "https://www.zepto.com/pn/nutralite-doodhshakti-probiotic-butter-spread/pvid/b10d82d4-24a8-4176-ab10-d565ce63e2c1"
+  },
+  {
+    "name": "Amul Lite Spread",
+    "price": 45,
+    "mrp": null,
+    "weight": "1 pack (100 g)",
+    "pvid": "cd685c9c-748b-4ac3-9281-701d66954c65",
+    "url": "https://www.zepto.com/pn/amul-lite-spread/pvid/cd685c9c-748b-4ac3-9281-701d66954c65"
+  },
+  {
+    "name": "Milky Mist Table Butter",
+    "price": 70,
+    "mrp": 75,
+    "weight": "1 pack (100 g)",
+    "pvid": "18fa8072-a91b-4cb7-ab28-c9f7a0d1404f",
+    "url": "https://www.zepto.com/pn/milky-mist-table-butter/pvid/18fa8072-a91b-4cb7-ab28-c9f7a0d1404f"
+  },
+  {
+    "name": "Heritage Table Butter",
+    "price": 251,
+    "mrp": 295,
+    "weight": "1 pack (500 g)",
+    "pvid": "0bcd8497-3c8a-4400-9531-c6651db54fd8",
+    "url": "https://www.zepto.com/pn/heritage-table-butter/pvid/0bcd8497-3c8a-4400-9531-c6651db54fd8"
+  }
+  ]
+}
