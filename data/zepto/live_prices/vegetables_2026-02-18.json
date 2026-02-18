@@ -1,0 +1,231 @@
+{
+  "category": "Fresh Vegetables",
+  "location": "4th Block, Koramangala, Bengaluru",
+  "scraped_at": "2026-02-18T22:35:00+05:30",
+  "products": [
+    {
+      "name": "Beans Haricot",
+      "price": 23,
+      "mrp": 26,
+      "weight": "250 g",
+      "pvid": "4b83db84-5dab-4fd4-9888-34d71f0cd458"
+    },
+    {
+      "name": "Organically Grown Coriander Leaves",
+      "price": 17,
+      "mrp": 19,
+      "weight": "100 g",
+      "pvid": "fac392a6-34be-4190-b35d-81e1562cef9e"
+    },
+    {
+      "name": "Tomato Local",
+      "price": 25,
+      "mrp": 27,
+      "weight": "500 g",
+      "pvid": "7e261768-88d6-4cbb-8b9b-8718625577bd"
+    },
+    {
+      "name": "Fresh Onion",
+      "price": 34,
+      "mrp": 38,
+      "weight": "1 Pack / 900 -1000 gm",
+      "pvid": "5b5c1960-d2d1-4528-8a74-bc7280174071"
+    },
+    {
+      "name": "Mushroom Button",
+      "price": 70,
+      "mrp": 79,
+      "weight": "200 g",
+      "pvid": "178b3f0f-c01d-4065-8f5c-d1902cbb5d51"
+    },
+    {
+      "name": "Sweet Corn Kernels",
+      "price": 25,
+      "mrp": 29,
+      "weight": "200 g",
+      "pvid": "8432f6be-fa56-47e6-b4eb-edce77e41923"
+    },
+    {
+      "name": "Fresh Potato",
+      "price": 34,
+      "mrp": 37,
+      "weight": "1 pack (900 g - 1 kg)",
+      "pvid": "a8043677-61c7-4af4-b784-b6aa225306a4"
+    },
+    {
+      "name": "Broccoli",
+      "price": 38,
+      "mrp": 43,
+      "weight": "1 pc",
+      "pvid": "a23b9914-8c62-4d83-b30d-12609ea50339"
+    },
+    {
+      "name": "Carrot Local",
+      "price": 16,
+      "mrp": 18,
+      "weight": "250 g",
+      "pvid": "38e1b33f-32d2-48bc-8b97-e5b04abf0743"
+    },
+    {
+      "name": "Green Peas (Matar)",
+      "price": 27,
+      "mrp": 30,
+      "weight": "250 g",
+      "pvid": "df5ee788-00ce-4cce-afb7-102cb7b3b40d"
+    },
+    {
+      "name": "Organically Grown Capsicum Green",
+      "price": 40,
+      "mrp": 45,
+      "weight": "250 g",
+      "pvid": "eace231a-5f63-4cbc-bb50-f6a3a0000790"
+    },
+    {
+      "name": "Baby Corn Peeled",
+      "price": 24,
+      "mrp": 27,
+      "weight": "100 g",
+      "pvid": "9c9791ae-6467-4043-86d7-f992aec97cf7"
+    },
+    {
+      "name": "Cauliflower",
+      "price": 39,
+      "mrp": 44,
+      "weight": "1 pc",
+      "pvid": "26574e4c-d976-4428-a3a6-2711e0a17485"
+    },
+    {
+      "name": "Pumpkin Diced",
+      "price": 19,
+      "mrp": 22,
+      "weight": "200 g",
+      "pvid": "bd8794bf-157d-4e44-adbf-16c67e829949"
+    },
+    {
+      "name": "Organically Grown Cucumber Indian",
+      "price": 36,
+      "mrp": 41,
+      "weight": "2 pcs",
+      "pvid": "4c397720-b07a-494a-a89e-81b4abf70746"
+    },
+    {
+      "name": "Lady Finger",
+      "price": 40,
+      "mrp": 44,
+      "weight": "500 g",
+      "pvid": "abe657be-567e-4288-ba48-7ddd0a8a1271"
+    },
+    {
+      "name": "Tomato Hybrid",
+      "price": 23,
+      "mrp": 26,
+      "weight": "500 g",
+      "pvid": "2dc82b6a-f898-40c9-a47c-1b9b0888c01c"
+    },
+    {
+      "name": "Capsicum Red & Yellow",
+      "price": 53,
+      "mrp": 60,
+      "weight": "2 pcs",
+      "pvid": "2130e3f3-dda7-4774-a9a7-c0335c1502ec"
+    },
+    {
+      "name": "Organically Grown Beetroot",
+      "price": 29,
+      "mrp": 33,
+      "weight": "250 g",
+      "pvid": "40fa30d1-178b-402e-a103-a06731d77f9a"
+    },
+    {
+      "name": "Bitter Gourd",
+      "price": 22,
+      "mrp": 24,
+      "weight": "2pcs",
+      "pvid": "a0eb6a78-77b9-4e26-a1ff-fc6d72458792"
+    },
+    {
+      "name": "Cucumber Green",
+      "price": 34,
+      "mrp": 38,
+      "weight": "3 pcs",
+      "pvid": "c171ea4a-1c0d-46ea-a6fa-df18be17fd02"
+    },
+    {
+      "name": "Capsicum Green",
+      "price": 26,
+      "mrp": 28,
+      "weight": "2 pcs",
+      "pvid": "be948caa-a17a-4a9f-aa58-9a8d7ca66fab"
+    },
+    {
+      "name": "Organically Grown Potato",
+      "price": 31,
+      "mrp": 35,
+      "weight": "500 g",
+      "pvid": "b15d9e0d-f4dd-4c9a-90d3-ac6000c92b40"
+    },
+    {
+      "name": "Green Peas Peeled",
+      "price": 82,
+      "mrp": 96,
+      "weight": "200 g",
+      "pvid": "6adc99f8-eb0e-44bc-acfa-9d41071c8699"
+    },
+    {
+      "name": "Tomato Local",
+      "price": 16,
+      "mrp": 18,
+      "weight": "250 g",
+      "pvid": "5973feaa-ff0c-465d-8c77-ad9fd24bc4a2"
+    },
+    {
+      "name": "Organically Grown Ridge Gourd",
+      "price": 51,
+      "mrp": 58,
+      "weight": "2 pcs",
+      "pvid": "1530b5a9-09e7-4ef2-b4fc-cf454e9e2cf9"
+    },
+    {
+      "name": "Carrot Red (Gajar)",
+      "price": 37,
+      "mrp": 41,
+      "weight": "500 g",
+      "pvid": "cda2b70b-3105-4734-82d2-41c0ae77ab42"
+    },
+    {
+      "name": "Organically Grown Bitter Gourd",
+      "price": 41,
+      "mrp": 47,
+      "weight": "500 g",
+      "pvid": "72c21ed5-d555-46dd-82dd-8451f0dbd913"
+    },
+    {
+      "name": "Sambar Onion Peeled",
+      "price": 33,
+      "mrp": 38,
+      "weight": "100 g",
+      "pvid": "99164929-49f0-430d-8003-77663a6a4d2a"
+    },
+    {
+      "name": "Organically Grown Tomato Local",
+      "price": 29,
+      "mrp": 33,
+      "weight": "500 g",
+      "pvid": "850ede8d-7587-472d-9448-594db0c96c87"
+    },
+    {
+      "name": "Carrot Local",
+      "price": 24,
+      "mrp": 27,
+      "weight": "500 g",
+      "pvid": "30db5880-2b4a-4955-9c2d-833749f7adc2"
+    },
+    {
+      "name": "Cucumber English",
+      "price": 27,
+      "mrp": 30,
+      "weight": "1 pack (500 g)",
+      "pvid": "3f8cb7e9-6df1-4704-a790-d0903f171f91"
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "category": "Fresh Fruits",
+  "location": "4th Block, Koramangala, Bengaluru",
+  "scraped_at": "2026-02-18T22:36:00+05:30",
+  "products": [
+    {
+      "name": "Strawberry (Mahabaleshwar)",
+      "price": 62,
+      "mrp": 92,
+      "weight": "1 pack (Approx. 180g - 200g)",
+      "pvid": "d0a3ad74-8c00-4b37-bd4c-d87cef26714e"
+    },
+    {
+      "name": "Grapes Green Sonaka Seedless",
+      "price": 43,
+      "mrp": 50,
+      "weight": "250 g",
+      "pvid": "0a4ebf39-b2a9-413b-9126-99ec3670216d"
+    },
+    {
+      "name": "Banana Robusta",
+      "price": 36,
+      "mrp": 41,
+      "weight": "4 pcs",
+      "pvid": "436c0025-de54-4748-a189-79e292f26071"
+    },
+    {
+      "name": "Guava Thai",
+      "price": 63,
+      "mrp": 71,
+      "weight": "1 pc",
+      "pvid": "6ed88f72-38da-433a-8506-d601f4d5916d"
+    },
+    {
+      "name": "Papaya Cut",
+      "price": 43,
+      "mrp": 50,
+      "weight": "200 g",
+      "pvid": "b64f96b8-d2e3-49b4-85a7-01da1921b6d4"
+    },
+    {
+      "name": "Tender Coconut",
+      "price": 63,
+      "mrp": 73,
+      "weight": "1 pc",
+      "pvid": "b9fbf0e7-de2d-4a89-ae74-b12a7c0ab236"
+    },
+    {
+      "name": "Kiwi Green",
+      "price": 102,
+      "mrp": 115,
+      "weight": "3 pcs",
+      "pvid": "862df01f-c0d6-4bc9-9731-347885d2113d"
+    },
+    {
+      "name": "Banana Elaichi / Yelakki",
+      "price": 72,
+      "mrp": 83,
+      "weight": "500 g",
+      "pvid": "db471557-f745-4574-9e82-1916a88d9e6b"
+    },
+    {
+      "name": "Apple Royal Gala Imported",
+      "price": 121,
+      "mrp": 136,
+      "weight": "2 pcs",
+      "pvid": "55835f1d-aaa2-4331-8279-b3adf07dca3d"
+    },
+    {
+      "name": "Mosambi",
+      "price": 22,
+      "mrp": 25,
+      "weight": "2 pcs",
+      "pvid": "322e8a80-d094-47d5-bb6c-6b5b184c0a97"
+    },
+    {
+      "name": "Gooseberry (Amla)",
+      "price": 41,
+      "mrp": 47,
+      "weight": "250 g",
+      "pvid": "e6d376c7-ea3b-4c34-afd3-bc18ad473530"
+    },
+    {
+      "name": "Baby Orange (Mandarin)",
+      "price": 64,
+      "mrp": 72,
+      "weight": "3 pcs",
+      "pvid": "af5a46a1-12de-4d86-9a45-2e4c3dec9206"
+    },
+    {
+      "name": "Pomegranate Peeled",
+      "price": 138,
+      "mrp": 161,
+      "weight": "175 g",
+      "pvid": "7cb4b263-9029-42cb-834a-0cd2f16379fd"
+    },
+    {
+      "name": "Baby Apple Shimla",
+      "price": 129,
+      "mrp": 149,
+      "weight": "500 g",
+      "pvid": "c2c8e164-7476-4b42-a10e-6b27e12bc84f"
+    },
+    {
+      "name": "Sugarcane Diced",
+      "price": 37,
+      "mrp": 43,
+      "weight": "175 g",
+      "pvid": "b6d3358d-92b2-4364-a7a9-91f26854d185"
+    },
+    {
+      "name": "Coconut",
+      "price": 54,
+      "mrp": 62,
+      "weight": "1 pc",
+      "pvid": "707ae90d-e115-40e9-96b2-85b43471d33c"
+    },
+    {
+      "name": "Snacky Apple",
+      "price": 94,
+      "mrp": 105,
+      "weight": null,
+      "pvid": "8de5b360-c890-4e1f-967c-4717f2867db9"
+    },
+    {
+      "name": "Coconut Cut",
+      "price": 21,
+      "mrp": 42,
+      "weight": "100 g",
+      "pvid": "0bd2c8f7-6dfb-4af0-a2e0-2f5fb707518e"
+    },
+    {
+      "name": "Sapota",
+      "price": 26,
+      "mrp": 30,
+      "weight": "250 g",
+      "pvid": "e954f385-e7b9-44d5-ad8c-d5c94512903a"
+    },
+    {
+      "name": "Blueberry Imported",
+      "price": 279,
+      "mrp": 314,
+      "weight": null,
+      "pvid": "b7d27beb-b7da-4caa-b7a3-4e520062d9c7"
+    },
+    {
+      "name": "Orange Nagpur",
+      "price": 78,
+      "mrp": 90,
+      "weight": "500 g",
+      "pvid": "2abc91ec-2fe9-452c-8123-eb1353a3f35e"
+    },
+    {
+      "name": "Snacky Avocado Regular",
+      "price": 119,
+      "mrp": 134,
+      "weight": "1 pc",
+      "pvid": "41bdd706-3d49-4c67-abc2-364679e3a16b"
+    },
+    {
+      "name": "Banana Robusta",
+      "price": 21,
+      "mrp": 25,
+      "weight": "2 pcs",
+      "pvid": "ecbe9d0c-e79b-4348-af0a-12b14c090ad7"
+    },
+    {
+      "name": "Coconut Grated",
+      "price": 82,
+      "mrp": 96,
+      "weight": "200 g",
+      "pvid": "49516f23-73b2-433d-a787-27cc1a668d22"
+    },
+    {
+      "name": "Litchi Imported (Longan)",
+      "price": 124,
+      "mrp": 140,
+      "weight": "250 g",
+      "pvid": "dbd29c3a-90de-428f-8750-b6e697e49b01"
+    },
+    {
+      "name": "Papaya",
+      "price": 81,
+      "mrp": 94,
+      "weight": "1 pc",
+      "pvid": "9d6ab15c-70e5-410f-9d4b-82be81494244"
+    },
+    {
+      "name": "Coconut Pooja",
+      "price": 44,
+      "mrp": 50,
+      "weight": "1 pc",
+      "pvid": "747bca2c-284c-41b9-88e0-a556e2bd086a"
+    },
+    {
+      "name": "Avocado Hass Imported",
+      "price": 144,
+      "mrp": 162,
+      "weight": "1 pc",
+      "pvid": "4db7d95b-1bc9-429a-9456-f4393526796e"
+    },
+    {
+      "name": "Orange Kinnow",
+      "price": 58,
+      "mrp": 67,
+      "weight": "500 g",
+      "pvid": "0e899cce-7474-464c-a36a-b533482bc9f8"
+    },
+    {
+      "name": "Watermelon Slice",
+      "price": 29,
+      "mrp": 33,
+      "weight": "250 g",
+      "pvid": "c266bd53-26f6-4ddf-8bd7-a3fbc605cb4d"
+    },
+    {
+      "name": "Grapes Black Seedless",
+      "price": 66,
+      "mrp": 76,
+      "weight": "250 g",
+      "pvid": "2409ac14-1b83-4c4c-83fe-a95972799530"
+    },
+    {
+      "name": "Mulberry",
+      "price": 159,
+      "mrp": 179,
+      "weight": null,
+      "pvid": "bf57e72c-c633-4c97-81e6-59a5c461da11"
+    }
+  ]
+}
