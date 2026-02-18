@@ -239,6 +239,128 @@ def advanced_search(
     }
 
 
+# Price data storage (in-memory, can be persisted)
+PRICE_DATA = {}
+PRICE_DATA_FILE = DATA_DIR / "prices.json"
+
+# Load existing price data if available
+if PRICE_DATA_FILE.exists():
+    with open(PRICE_DATA_FILE) as f:
+        PRICE_DATA = json.load(f)
+
+
+@app.post("/prices/ingest")
+def ingest_prices(data: dict):
+    """
+    Ingest price data from HTML parser output.
+    
+    Expected format:
+    {
+        "products": [
+            {
+                "name": "Product Name",
+                "packsize": "1 pc (250 g)",
+                "mrp": 425.0,
+                "selling_price": 416.0,
+                "discount_pct": 2,
+                "variant_id": "uuid"
+            }
+        ],
+        "source": "zepto",
+        "location": "Koramangala 4th Block, Bengaluru"
+    }
+    """
+    from datetime import datetime
+    
+    products = data.get('products', [])
+    source = data.get('source', 'unknown')
+    location = data.get('location', 'unknown')
+    timestamp = datetime.now().isoformat()
+    
+    ingested = 0
+    for p in products:
+        key = f"{source}:{p.get('variant_id') or p.get('name')}"
+        
+        # Store price data with history
+        if key not in PRICE_DATA:
+            PRICE_DATA[key] = {
+                'name': p['name'],
+                'packsize': p.get('packsize'),
+                'source': source,
+                'price_history': []
+            }
+        
+        PRICE_DATA[key]['price_history'].append({
+            'mrp': p.get('mrp'),
+            'selling_price': p.get('selling_price'),
+            'discount_pct': p.get('discount_pct'),
+            'location': location,
+            'timestamp': timestamp
+        })
+        
+        # Keep only last 100 price points
+        PRICE_DATA[key]['price_history'] = PRICE_DATA[key]['price_history'][-100:]
+        ingested += 1
+    
+    # Persist to file
+    with open(PRICE_DATA_FILE, 'w') as f:
+        json.dump(PRICE_DATA, f, indent=2)
+    
+    return {
+        'status': 'success',
+        'ingested': ingested,
+        'total_tracked': len(PRICE_DATA),
+        'timestamp': timestamp
+    }
+
+
+@app.get("/prices")
+def get_prices(
+    q: Optional[str] = Query(None, description="Search by product name"),
+    source: Optional[str] = Query(None, description="Filter by source (zepto, blinkit, etc)"),
+    limit: int = Query(50, ge=1, le=500),
+):
+    """Get tracked prices with history"""
+    results = []
+    
+    for key, data in PRICE_DATA.items():
+        if q and q.lower() not in data['name'].lower():
+            continue
+        if source and source.lower() not in data['source'].lower():
+            continue
+        
+        latest = data['price_history'][-1] if data['price_history'] else {}
+        results.append({
+            'key': key,
+            'name': data['name'],
+            'packsize': data.get('packsize'),
+            'source': data['source'],
+            'current_price': latest.get('selling_price'),
+            'mrp': latest.get('mrp'),
+            'discount_pct': latest.get('discount_pct'),
+            'last_updated': latest.get('timestamp'),
+            'price_points': len(data['price_history'])
+        })
+    
+    return {
+        'total': len(results),
+        'results': results[:limit]
+    }
+
+
+@app.get("/prices/{key}")
+def get_price_history(key: str):
+    """Get full price history for a product"""
+    # URL decode the key
+    from urllib.parse import unquote
+    key = unquote(key)
+    
+    if key not in PRICE_DATA:
+        raise HTTPException(status_code=404, detail="Product not tracked")
+    
+    return PRICE_DATA[key]
+
+
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8002)
